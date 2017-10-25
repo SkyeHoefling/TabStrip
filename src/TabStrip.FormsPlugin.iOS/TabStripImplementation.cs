@@ -4,7 +4,8 @@ using Xamarin.Forms;
 using TabStrip.FormsPlugin.iOS;
 using Xamarin.Forms.Platform.iOS;
 
-[assembly: ExportRenderer(typeof(TabStrip.FormsPlugin.Abstractions.TabStripControl), typeof(TabStripRenderer))]
+// commenting out renderer code while we work in Xamarin.Forms MVP
+//[assembly: ExportRenderer(typeof(TabStrip.FormsPlugin.Abstractions.TabStripControl), typeof(TabStripRenderer))]
 namespace TabStrip.FormsPlugin.iOS
 {
     /// <summary>

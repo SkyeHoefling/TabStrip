@@ -6,7 +6,7 @@ namespace TabStrip.FormsPlugin.Abstractions
     /// <summary>
     /// TabStrip Interface
     /// </summary>
-    public class TabStripControl //: Control type
+    public class TabStripControl : Label
     {
         //example of custom property
         /// <summary>
