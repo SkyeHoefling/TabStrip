@@ -3,14 +3,16 @@ using System;
 using Xamarin.Forms;
 using TabStrip.FormsPlugin.iOS;
 using Xamarin.Forms.Platform.iOS;
+using UIKit;
 
-[assembly: ExportRenderer(typeof(TabStrip.FormsPlugin.Abstractions.TabStripControl), typeof(TabStripRenderer))]
+// Placeholder code for when we implement xamarin native
+//[assembly: ExportRenderer(typeof(TabStrip.FormsPlugin.Abstractions.TabStripControl), typeof(TabStripRenderer))]
 namespace TabStrip.FormsPlugin.iOS
 {
     /// <summary>
     /// TabStrip Renderer
     /// </summary>
-    public class TabStripRenderer //: TRender (replace with renderer type
+    public class TabStripRenderer //: ViewRenderer<TabStripControl, UIView>
     {
         /// <summary>
         /// Used for registration with dependency service
