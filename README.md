@@ -64,7 +64,7 @@ Tab Strip control for Xamarin.Forms
 
 * Implement Xamarin Navite support so it can be consumed in a Xamarin Native project instead of Xamarin.Forms. This will require a larger code re-write since it will be using Xamarin.Forms wrappers prior to this release
 
-# Created By: [@Andrwe_Hoefling](https://twitter.com/andrew_hoefling)
+# Created By: [@Andrew_Hoefling](https://twitter.com/andrew_hoefling)
 
 * Twitter: [@Andrew_Hoefling](https://twitter.com/andrew_hoefling)
 * Blog: [andrewhoefling.com](http://www.andrewhoefling.com)
