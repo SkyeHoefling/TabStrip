@@ -3,6 +3,7 @@ using System;
 using Xamarin.Forms;
 using TabStrip.FormsPlugin.Android;
 using Xamarin.Forms.Platform.Android;
+using AViews = Android.Views;
 
 [assembly: ExportRenderer(typeof(TabStrip.FormsPlugin.Abstractions.TabStripControl), typeof(TabStripRenderer))]
 namespace TabStrip.FormsPlugin.Android
@@ -10,7 +11,7 @@ namespace TabStrip.FormsPlugin.Android
     /// <summary>
     /// TabStrip Renderer
     /// </summary>
-    public class TabStripRenderer //: TRender (replace with renderer type
+    public class TabStripRenderer :  ViewRenderer<TabStripControl, AViews.View>
     {
         /// <summary>
         /// Used for registration with dependency service
