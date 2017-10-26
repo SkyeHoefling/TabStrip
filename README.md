@@ -44,23 +44,23 @@ Tab Strip control for Xamarin.Forms
 * linux Support
 * Native Support
 
-## Minimal Viable Product
+### Minimal Viable Product
 
 * Implement basic cross-platform Tabstrip that supports Android and iOS via Xamarin.Forms
 
-## Windows Support
+### Windows Support
 
 * Implement Windows UWP support via Xamarin.Forms
 
-## macOS Support
+### macOS Support
 
 * Implement macOS support via Xamarin.Forms
 
-## linux Support
+### linux Support
 
 * Implement linux support via Xamarin.Forms
 
-## Native Support
+### Native Support
 
 * Implement Xamarin Navite support so it can be consumed in a Xamarin Native project instead of Xamarin.Forms. This will require a larger code re-write since it will be using Xamarin.Forms wrappers prior to this release
 
