@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CarouselView.FormsPlugin.Abstractions;
+using System;
 using Xamarin.Forms;
 
 namespace TabStrip.FormsPlugin.Abstractions
@@ -6,7 +7,7 @@ namespace TabStrip.FormsPlugin.Abstractions
     /// <summary>
     /// TabStrip Interface
     /// </summary>
-    public class TabStripControl : Label
+    public class TabStripControl : CarouselViewControl
     {
         //example of custom property
         /// <summary>
