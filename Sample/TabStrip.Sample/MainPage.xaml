@@ -5,10 +5,6 @@
              xmlns:plugin="clr-namespace:TabStrip.FormsPlugin.Abstractions;assembly=TabStrip.FormsPlugin.Abstractions"
              x:Class="TabStrip.Sample.MainPage">
     <ContentPage.Content>
-        <StackLayout>
-            <plugin:TabStripControl Text="Tab Strip"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <plugin:TabStripControl />
     </ContentPage.Content>
 </ContentPage>
