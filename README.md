@@ -39,7 +39,7 @@ This will be filled out when we get closer to the first release
 
 # Roadmap
 
-* Minimal Viable Product (MVP)
+* [Minimal Viable Product (MVP)](https://github.com/ahoefling/TabStrip/wiki/Minimal-Viable-Product)
 * Windows Support
 * macOS Support
 * linux Support
