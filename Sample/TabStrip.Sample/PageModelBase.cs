@@ -9,6 +9,5 @@ namespace TabStrip.Sample
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(name));
         }
-            
     }
 }

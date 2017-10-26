@@ -7,11 +7,21 @@ using Xamarin.Forms;
 
 namespace TabStrip.Sample
 {
+    public class HelloPageModel : PageModelBase
+    {
+
+    }
+
     public class MainPageModel : PageModelBase
     {
         public MainPageModel()
         {
-            Tabs = new ObservableCollection<PageModelBase>();
+            Tabs = new ObservableCollection<PageModelBase>
+            {
+                new HelloPageModel(),
+                new HelloPageModel(),
+                new HelloPageModel()
+            };
             TabPosition = 0;
             SlideTab = new Command<string>(OnSlideTab);
             SlideToTab = new Command<string>(OnSlideToTab);

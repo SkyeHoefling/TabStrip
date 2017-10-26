@@ -2,9 +2,16 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:TabStrip.Sample"             
+             xmlns:cv="clr-namespace:CarouselView.FormsPlugin.Abstractions;assembly=CarouselView.FormsPlugin.Abstractions"
              x:Class="TabStrip.Sample.MainPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <DataTemplate x:Key="ViewTemplate">
+                <local:HelloPage BindingContext="{Binding BindingContext.ViewModel}" />
+            </DataTemplate>
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <ContentPage.Content>
-        <!-- Still need to finish xaml -->
         <StackLayout>
             <Grid>
                 <Grid.ColumnDefinitions>
@@ -16,7 +23,31 @@
                     <RowDefinition Height="*" />
                     <RowDefinition Height="2" />
                 </Grid.RowDefinitions>
-                <BoxView Grid.Column="0"
+                <Label Grid.Column="0"
+                       Grid.Row="0"
+                       Text="Image">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding SlideToTab}"
+                                              CommandParameter="0" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label Grid.Column="1"
+                       Grid.Row="0"
+                       Text="Image">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding SlideToTab}"
+                                              CommandParameter="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label Grid.Column="2"
+                       Grid.Row="0"
+                       Text="Image">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding SlideToTab}"
+                                              CommandParameter="2" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <BoxView Grid.Column="{Binding TabPosition}"
                          Grid.Row="1"
                          HeightRequest="2"
                          BackgroundColor="Black"
@@ -27,6 +58,15 @@
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
+                <cv:CarouselViewControl x:Name="carousel"
+                                        Grid.Column="0"
+                                        ItemsSource="{Binding Tabs}"
+                                        Position="{Binding TabPosition}"
+                                        Orientation="Horizontal"
+                                        IsSwipingEnabled="False"
+                                        VerticalOptions="FillAndExpand"
+                                        HorizontalOptions="FillAndExpand"
+                                        ItemTemplate="{StaticResource ViewTemplate}" />
                 <StackLayout VerticalOptions="CenterAndExpand"
                              HorizontalOptions="StartAndExpand"
                              IsVisible="{Binding HasPrevious}">
@@ -45,7 +85,6 @@
                     </StackLayout.GestureRecognizers>
                     <Label Text="N" />
                 </StackLayout>
-                             
             </Grid>
         </StackLayout>
     </ContentPage.Content>

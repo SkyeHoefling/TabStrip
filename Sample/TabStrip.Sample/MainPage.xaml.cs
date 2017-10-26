@@ -12,12 +12,7 @@ namespace TabStrip.Sample
 		public MainPage()
 		{
 			InitializeComponent();
-            var context = new
-            {
-                Tabs = new[] { "test", "test1" }
-            };
-
-            BindingContext = context;
+            BindingContext = new MainPageModel();
 		}
 	}
 }
