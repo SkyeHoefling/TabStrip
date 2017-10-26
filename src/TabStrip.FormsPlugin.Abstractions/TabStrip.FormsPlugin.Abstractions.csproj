@@ -37,8 +37,15 @@
     <DocumentationFile>bin\Release\TabStrip.FormsPlugin.Abstractions.XML</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="TabStripControl.cs" />
+    <Compile Include="HelloView.xaml.cs">
+      <DependentUpon>HelloView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PageModelBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TabStripControl.xaml.cs">
+      <DependentUpon>TabStripControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TabStripControlModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="CarouselView.FormsPlugin.Abstractions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -56,6 +63,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="TabStripControl.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="HelloView.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Forms.2.4.0.280\build\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.2.4.0.280\build\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.targets')" />

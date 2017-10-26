@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace TabStrip.Sample
+namespace TabStrip.FormsPlugin.Abstractions
 {
     public class PageModelBase : INotifyPropertyChanged
     {

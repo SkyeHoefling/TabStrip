@@ -1,20 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Forms;
 
-namespace TabStrip.Sample
+namespace TabStrip.FormsPlugin.Abstractions
 {
-    public class HelloPageModel : PageModelBase
+    public class HelloPageModel : PageModelBase { }
+    public class TabStripControlModel : PageModelBase
     {
-
-    }
-
-    public class MainPageModel : PageModelBase
-    {
-        public MainPageModel()
+        public TabStripControlModel()
         {
             Tabs = new ObservableCollection<PageModelBase>
             {

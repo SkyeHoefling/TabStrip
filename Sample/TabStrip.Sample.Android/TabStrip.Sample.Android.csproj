@@ -11,7 +11,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TabStrip.Sample.Droid</RootNamespace>
-    <AssemblyName>TabStrip.Sample.Android</AssemblyName>
+    <AssemblyName>TabStrip.Sample</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <AndroidApplication>true</AndroidApplication>
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>

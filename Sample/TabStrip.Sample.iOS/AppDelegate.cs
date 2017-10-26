@@ -23,8 +23,9 @@ namespace TabStrip.Sample.iOS
 		public override bool FinishedLaunching(UIApplication app, NSDictionary options)
 		{
 			global::Xamarin.Forms.Forms.Init ();
-			LoadApplication (new TabStrip.Sample.App ());
-
+            CarouselView.FormsPlugin.iOS.CarouselViewRenderer.Init();
+            var dummy = new FormsPlugin.Abstractions.TabStripControl(true);
+            LoadApplication (new TabStrip.Sample.App ());
 			return base.FinishedLaunching (app, options);
 		}
 	}
