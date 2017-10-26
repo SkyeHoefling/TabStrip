@@ -13,6 +13,7 @@ Tab Strip control for Xamarin.Forms
 | Xamarin.iOS     | [![Build status](https://ci.appveyor.com/api/projects/status/x9oy210ow1xcqnvt?svg=true)](https://ci.appveyor.com/project/ahoefling/tabstrip-3dww3) |
 
 # Platform Support
+This will be filled out when we get closer to the first release
 
 | Platform         | Version     |
 |------------------|-------------|
