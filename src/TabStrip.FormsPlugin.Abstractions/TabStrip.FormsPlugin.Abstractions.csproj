@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Authors>Andrew Hoefling</Authors>
+    <Company>Hoefling Software</Company>
+    <Product>TabStrip.FormsPlugin.Abstractions</Product>
+    <RepositoryUrl>https://www.github.com/ahoefling/TabStrip</RepositoryUrl>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
 
   <ItemGroup>
