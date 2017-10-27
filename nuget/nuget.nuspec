@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>TabStrip</id>
+    <version>1.0.0</version>
+    <title>Tab Strip Plugin for Xamarin.Forms (iOS and Android)</title>
+    <authors>Andrew Hoefling</authors>
+    <owners>Andrew Hoefling</owners>
+    <licenseUrl>https://github.com/ahoefling/TabStrip/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ahoefling/TabStrip</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>We need to fill this out</description>
+    <summary>We need to fill this out</summary>
+    <releaseNotes></releaseNotes>
+    <tags>Xamarin, TabStrip, iOS, android, Xamarin.forms</tags>
+    <dependencies></dependencies>
+  </metadata>
+  <files>
+    <!-- shared -->
+    <file src="..\src\TabStrip.FormsPlugin.Abstractions\bin\Release\TabSTrip.FormsPlugin.*" target="lib\netstandard2.0" />
+
+    <!-- iOS -->
+    <file src="..\src\TabStrip.FormsPlugin.iOS\bin\iPhone\Release\TabSTrip.FormsPlugin.*" target="lib\Xamarin.iOS10" />
+
+    <!-- shared -->
+    <file src="..\src\TabStrip.FormsPlugin.Android\bin\Release\TabSTrip.FormsPlugin.*" target="lib\MonoAndroid10" />
+  </files>
+</package>
