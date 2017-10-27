@@ -12,8 +12,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CarouselView.FormsPlugin" Version="4.4.6" />
-    <PackageReference Include="Xamarin.Forms" Version="2.4.0.280" />
+    <PackageReference Include="Xamarin.Forms" Version="2.4.0.18342" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\CarouselView\CarouselView.FormsPlugin.Abstractions\CarouselView.FormsPlugin.Abstractions.csproj" />
   </ItemGroup>
 
 </Project>
