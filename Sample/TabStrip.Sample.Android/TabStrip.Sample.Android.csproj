@@ -49,12 +49,6 @@
     <AndroidLinkMode>SdkOnly</AndroidLinkMode>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CarouselView.FormsPlugin.Abstractions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\CarouselView.FormsPlugin.4.4.6\lib\MonoAndroid\CarouselView.FormsPlugin.Abstractions.dll</HintPath>
-    </Reference>
-    <Reference Include="CarouselView.FormsPlugin.Android, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\CarouselView.FormsPlugin.4.4.6\lib\MonoAndroid\CarouselView.FormsPlugin.Android.dll</HintPath>
-    </Reference>
     <Reference Include="FormsViewGroup, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Forms.2.4.0.280\lib\MonoAndroid10\FormsViewGroup.dll</HintPath>
     </Reference>
