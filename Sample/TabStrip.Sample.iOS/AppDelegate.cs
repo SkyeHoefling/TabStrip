@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-using Foundation;
+﻿using Foundation;
+using TabStrip.FormsPlugin.iOS;
 using UIKit;
 
 namespace TabStrip.Sample.iOS
 {
-	// The UIApplicationDelegate for the application. This class is responsible for launching the 
-	// User Interface of the application, as well as listening (and optionally responding) to 
-	// application events from iOS.
-	[Register("AppDelegate")]
+    // The UIApplicationDelegate for the application. This class is responsible for launching the 
+    // User Interface of the application, as well as listening (and optionally responding) to 
+    // application events from iOS.
+    [Register("AppDelegate")]
 	public partial class AppDelegate : global::Xamarin.Forms.Platform.iOS.FormsApplicationDelegate
 	{
 		//
@@ -23,8 +20,7 @@ namespace TabStrip.Sample.iOS
 		public override bool FinishedLaunching(UIApplication app, NSDictionary options)
 		{
 			global::Xamarin.Forms.Forms.Init ();
-            CarouselView.FormsPlugin.iOS.CarouselViewRenderer.Init();
-            var dummy = new FormsPlugin.Abstractions.TabStripControl(true);
+            TabStripRenderer.Init();
             LoadApplication (new TabStrip.Sample.App ());
 			return base.FinishedLaunching (app, options);
 		}
