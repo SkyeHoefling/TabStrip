@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>TabStrip</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>Tab Strip Plugin for Xamarin.Forms (iOS and Android)</title>
     <authors>Andrew Hoefling</authors>
     <owners>Andrew Hoefling</owners>
