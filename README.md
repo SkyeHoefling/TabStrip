@@ -31,7 +31,7 @@ This will be filled out when we get closer to the first release
 
 Initialize the renderers in your iOS and Android projects
 
-```
+```c#
 Xamarin.Forms.Init();
 TabStripRenderer.Init();
 ```
@@ -40,13 +40,13 @@ TabStripRenderer.Init();
 
 Add the namespace in the xmlns:
 
-```
+```xml
 xmlns:plugin="clr-namespace:TabStrip.FormsPlugin.Abstractions;assembly=TabStrip.FormsPlugin.Abstractions"
 ```
 
 Add the control:
 
-```
+```xml
 <plugin:TabStripControl Position="{Binding CurrentPosition}" />
 ```
 
