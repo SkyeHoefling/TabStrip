@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections;
+﻿using System.ComponentModel;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace TabStrip.FormsPlugin.Abstractions
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class TabStripControl : ContentView
+    public partial class TabStripControl : ContentView, INotifyPropertyChanged
     {
         public TabStripControl(bool init) { }
 
@@ -21,9 +20,10 @@ namespace TabStrip.FormsPlugin.Abstractions
         private static void OnPositionChanged(BindableObject bindable, object oldValue, object newValue)
         {
             var control = (TabStripControl)bindable;
+            
             if (control != null)
-            {
-                control.Position = (int)newValue;
+            {                   
+                (control.BindingContext as TabStripControlModel).TabPosition = (int)newValue;
             }
         }
 

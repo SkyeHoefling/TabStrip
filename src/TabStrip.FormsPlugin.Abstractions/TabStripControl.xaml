@@ -48,7 +48,7 @@
                                             CommandParameter="2" />
                     </Label.GestureRecognizers>
                 </Label>
-                <BoxView Grid.Column="{Binding Source={x:Reference Control}, Path=Position}"
+                <BoxView Grid.Column="{Binding TabPosition}"
                         Grid.Row="1"
                         HeightRequest="2"
                         BackgroundColor="Black"
