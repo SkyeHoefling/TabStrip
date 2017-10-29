@@ -9,11 +9,28 @@ namespace TabStrip.FormsPlugin.Abstractions
     {
         public TabStripControlModel()
         {
-            Tabs = new ObservableCollection<PageModelBase>
+            Tabs = new ObservableCollection<TabModel>
             {
-                new HelloPageModel(),
-                new HelloPageModel(),
-                new HelloPageModel()
+                new TabModel
+                {
+                    Name = "Tab 1",
+                    View = (new HelloView(), new HelloPageModel())
+                },
+                new TabModel
+                {
+                    Name = "Tab 2",
+                    View = (new HelloView(), new HelloPageModel())
+                },
+                new TabModel
+                {
+                    Name = "Tab 3",
+                    View = (new HelloView(), new HelloPageModel())
+                },
+                new TabModel
+                {
+                    Name = "Tab 4",
+                    View = (new HelloView(), new HelloPageModel())
+                },
             };
             TabPosition = 0;
             SlideTab = new Command<string>(OnSlideTab);
@@ -44,7 +61,7 @@ namespace TabStrip.FormsPlugin.Abstractions
                 RaisePropertyChanged(nameof(HasPrevious));
             }
         }
-        public ObservableCollection<PageModelBase> Tabs { get; set; }
+        public ObservableCollection<TabModel> Tabs { get; set; }
 
         private int _tabPosition;
         public int TabPosition
@@ -68,7 +85,6 @@ namespace TabStrip.FormsPlugin.Abstractions
         private void OnSlideToTab(string position)
         {
             TabPosition = int.Parse(position);
-
         }
     }
 }

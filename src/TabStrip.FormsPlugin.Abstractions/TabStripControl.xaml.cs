@@ -12,10 +12,19 @@ namespace TabStrip.FormsPlugin.Abstractions
         public TabStripControl()
         {
             InitializeComponent();
-            BindingContext = new TabStripControlModel();
+            var context = new TabStripControlModel();
+            BindingContext = context;
+            Carousel.ItemTemplate = new TabViewSelector(context.Tabs);
         }
 
-        public static readonly BindableProperty PositionProperty = BindableProperty.Create("Position", typeof(int), typeof(TabStripControl), 0, BindingMode.TwoWay, null, OnPositionChanged);
+        public static readonly BindableProperty PositionProperty = BindableProperty.Create(
+            "Position",
+            typeof(int), 
+            typeof(TabStripControl), 
+            0,
+            BindingMode.TwoWay, 
+            null, 
+            OnPositionChanged);
 
         private static void OnPositionChanged(BindableObject bindable, object oldValue, object newValue)
         {

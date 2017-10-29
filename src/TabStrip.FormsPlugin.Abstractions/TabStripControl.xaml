@@ -3,19 +3,12 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:TabStrip.FormsPlugin.Abstractions"
              xmlns:cv="clr-namespace:CarouselView.FormsPlugin.Abstractions;assembly=CarouselView.FormsPlugin.Abstractions"
-             x:Class="TabStrip.FormsPlugin.Abstractions.TabStripControl"
-             x:Name="Control">
-    <ContentView.Resources>
-        <ResourceDictionary>
-            <DataTemplate x:Key="ViewTemplate">
-                <local:HelloView BindingContext="{Binding BindingContext.ViewModel}" />
-            </DataTemplate>
-        </ResourceDictionary>
-    </ContentView.Resources>
+             x:Class="TabStrip.FormsPlugin.Abstractions.TabStripControl">
     <ContentView.Content>
         <StackLayout>
             <Grid>
                 <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
                     <ColumnDefinition Width="*" />
                     <ColumnDefinition Width="*" />
                     <ColumnDefinition Width="*" />
@@ -29,7 +22,7 @@
                     Text="Image">
                     <Label.GestureRecognizers>
                         <TapGestureRecognizer Command="{Binding SlideToTab}"
-                                            CommandParameter="0" />
+                                              CommandParameter="0" />
                     </Label.GestureRecognizers>
                 </Label>
                 <Label Grid.Column="1"
@@ -37,7 +30,7 @@
                     Text="Image">
                     <Label.GestureRecognizers>
                         <TapGestureRecognizer Command="{Binding SlideToTab}"
-                                            CommandParameter="1" />
+                                              CommandParameter="1" />
                     </Label.GestureRecognizers>
                 </Label>
                 <Label Grid.Column="2"
@@ -45,44 +38,51 @@
                     Text="Image">
                     <Label.GestureRecognizers>
                         <TapGestureRecognizer Command="{Binding SlideToTab}"
-                                            CommandParameter="2" />
+                                              CommandParameter="2" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label Grid.Column="3"
+                    Grid.Row="0"
+                    Text="Image">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding SlideToTab}"
+                                              CommandParameter="3" />
                     </Label.GestureRecognizers>
                 </Label>
                 <BoxView Grid.Column="{Binding TabPosition}"
-                        Grid.Row="1"
-                        HeightRequest="2"
-                        BackgroundColor="Black"
-                        HorizontalOptions="FillAndExpand" />
+                         Grid.Row="1"
+                         HeightRequest="2"
+                         BackgroundColor="Black"
+                         HorizontalOptions="FillAndExpand" />
             </Grid>
             <Grid VerticalOptions="FillAndExpand"
-                HorizontalOptions="FillAndExpand">
+                  HorizontalOptions="FillAndExpand">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
-                <cv:CarouselViewControl x:Name="carousel"
-                                    Grid.Column="0"
-                                    ItemsSource="{Binding Tabs}"
-                                    Position="{Binding TabPosition}"
-                                    Orientation="Horizontal"
-                                    IsSwipingEnabled="False"
-                                    VerticalOptions="FillAndExpand"
-                                    HorizontalOptions="FillAndExpand"
-                                    ItemTemplate="{StaticResource ViewTemplate}" />
+                <cv:CarouselViewControl x:Name="Carousel"
+                                        Grid.Column="0"
+                                        ItemsSource="{Binding Tabs}"
+                                        Position="{Binding TabPosition}"
+                                        Orientation="Horizontal"
+                                        IsSwipingEnabled="False"
+                                        VerticalOptions="FillAndExpand"
+                                        HorizontalOptions="FillAndExpand"/>
                 <StackLayout VerticalOptions="CenterAndExpand"
-                            HorizontalOptions="StartAndExpand"
-                            IsVisible="{Binding HasPrevious}">
+                             HorizontalOptions="StartAndExpand"
+                             IsVisible="{Binding HasPrevious}">
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Command="{Binding SlideTab}"
-                                            CommandParameter="-1" />
+                                              CommandParameter="-1" />
                     </StackLayout.GestureRecognizers>
                     <Label Text="P" />
                 </StackLayout>
                 <StackLayout VerticalOptions="CenterAndExpand"
-                            HorizontalOptions="EndAndExpand"
-                            IsVisible="{Binding HasNext}">
+                             HorizontalOptions="EndAndExpand"
+                             IsVisible="{Binding HasNext}">
                     <StackLayout.GestureRecognizers>
                         <TapGestureRecognizer Command="{Binding SlideTab}"
-                                            CommandParameter="1"/>
+                                              CommandParameter="1"/>
                     </StackLayout.GestureRecognizers>
                     <Label Text="N" />
                 </StackLayout>
