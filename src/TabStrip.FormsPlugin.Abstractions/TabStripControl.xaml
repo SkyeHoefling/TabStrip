@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:TabStrip.FormsPlugin.Abstractions"
              xmlns:cv="clr-namespace:CarouselView.FormsPlugin.Abstractions;assembly=CarouselView.FormsPlugin.Abstractions"
-             x:Class="TabStrip.FormsPlugin.Abstractions.TabStripControl">
+             x:Class="TabStrip.FormsPlugin.Abstractions.TabStripControl"
+             x:Name="Control">
     <ContentView.Resources>
         <ResourceDictionary>
             <DataTemplate x:Key="ViewTemplate">
