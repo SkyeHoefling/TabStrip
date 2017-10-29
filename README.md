@@ -29,11 +29,32 @@ This will be filled out when we get closer to the first release
 
 ## Usage
 
-* TODO
+Initialize the renderers in your iOS and Android projects
+
+```
+Xamarin.Forms.Init();
+TabStripRenderer.Init();
+```
+
+### XAML: ####
+
+Add the namespace in the xmlns:
+
+```
+xmlns:plugin="clr-namespace:TabStrip.FormsPlugin.Abstractions;assembly=TabStrip.FormsPlugin.Abstractions"
+```
+
+Add the control:
+
+```
+<plugin:TabStripControl Position="{Binding CurrentPosition}" />
+```
 
 ## Bindable Properties
 
-* TODO
+| Property | Description                                                        | Default Value |
+|----------|--------------------------------------------------------------------|---------------|
+| Position | Gets or Sets current tab position of the tab strip.                | 0             |
 
 ## Release Notes
 
