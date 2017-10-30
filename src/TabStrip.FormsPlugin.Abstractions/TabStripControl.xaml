@@ -6,55 +6,7 @@
              x:Class="TabStrip.FormsPlugin.Abstractions.TabStripControl">
     <ContentView.Content>
         <StackLayout>
-            <Grid>
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="*" />
-                    <ColumnDefinition Width="*" />
-                    <ColumnDefinition Width="*" />
-                    <ColumnDefinition Width="*" />
-                </Grid.ColumnDefinitions>
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="*" />
-                    <RowDefinition Height="2" />
-                </Grid.RowDefinitions>
-                <Label Grid.Column="0"
-                    Grid.Row="0"
-                    Text="Image">
-                    <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding SlideToTab}"
-                                              CommandParameter="0" />
-                    </Label.GestureRecognizers>
-                </Label>
-                <Label Grid.Column="1"
-                    Grid.Row="0"
-                    Text="Image">
-                    <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding SlideToTab}"
-                                              CommandParameter="1" />
-                    </Label.GestureRecognizers>
-                </Label>
-                <Label Grid.Column="2"
-                    Grid.Row="0"
-                    Text="Image">
-                    <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding SlideToTab}"
-                                              CommandParameter="2" />
-                    </Label.GestureRecognizers>
-                </Label>
-                <Label Grid.Column="3"
-                    Grid.Row="0"
-                    Text="Image">
-                    <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding SlideToTab}"
-                                              CommandParameter="3" />
-                    </Label.GestureRecognizers>
-                </Label>
-                <BoxView Grid.Column="{Binding TabPosition}"
-                         Grid.Row="1"
-                         HeightRequest="2"
-                         BackgroundColor="Black"
-                         HorizontalOptions="FillAndExpand" />
-            </Grid>
+            <local:TabStripTopBarControl BindingContext="{Binding .}" />
             <Grid VerticalOptions="FillAndExpand"
                   HorizontalOptions="FillAndExpand">
                 <Grid.ColumnDefinitions>

@@ -15,4 +15,9 @@
   <ItemGroup>
     <ProjectReference Include="..\..\CarouselView\CarouselView.FormsPlugin.Abstractions\CarouselView.FormsPlugin.Abstractions.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Update="TabStripTopBarControl.xaml.cs">
+      <DependentUpon>TabStripTopBarControl.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
 </Project>
