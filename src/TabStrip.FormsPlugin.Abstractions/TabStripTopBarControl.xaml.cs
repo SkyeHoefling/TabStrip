@@ -10,5 +10,41 @@ namespace TabStrip.FormsPlugin.Abstractions
 		{
 			InitializeComponent ();
 		}
-	}
+
+        protected override void OnBindingContextChanged()
+        {
+            var context = (TabStripControlModel)BindingContext;
+            var grid = new Grid();
+            for (int index = 0; index < context.Tabs.Count; index++)
+            {
+                grid.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
+                var label = new Label
+                {
+                    Text = context.Tabs[index].Name
+                };
+
+                // TODO - there is an issue with the tap gesture not picking up
+                var tapGestureRecognizer = new TapGestureRecognizer();
+                tapGestureRecognizer.SetBinding(TapGestureRecognizer.CommandProperty, new Binding("SlideToTab"));
+                tapGestureRecognizer.CommandParameter = index;
+                label.GestureRecognizers.Add(tapGestureRecognizer);
+
+                grid.Children.Add(label, index, 0);
+            }
+
+            grid.RowDefinitions.Add(new RowDefinition { Height = new GridLength(1, GridUnitType.Star) });
+            grid.RowDefinitions.Add(new RowDefinition { Height = new GridLength(2) });
+
+            var boxView = new BoxView
+            {
+                HeightRequest = 2,
+                BackgroundColor = new Color(0, 0, 0),
+                HorizontalOptions = new LayoutOptions(LayoutAlignment.Fill, true)
+            };
+            grid.Children.Add(boxView, context.TabPosition, 1);
+            boxView.SetBinding(Grid.ColumnProperty, new Binding("TabPosition"));
+
+            Content = grid;
+        }
+    }
 }

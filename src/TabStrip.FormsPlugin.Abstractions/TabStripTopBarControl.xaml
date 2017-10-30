@@ -1,70 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TabStrip.FormsPlugin.Abstractions"
              x:Class="TabStrip.FormsPlugin.Abstractions.TabStripTopBarControl">
   <ContentView.Content>
-        <Grid>
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*" />
-                <ColumnDefinition Width="*" />
-                    <ColumnDefinition Width="*" />
-                    <ColumnDefinition Width="*" />
-            </Grid.ColumnDefinitions>
-            <Grid.RowDefinitions>
-                <RowDefinition Height="*" />
-                <RowDefinition Height="2" />
-            </Grid.RowDefinitions>
-            <!--<cv:CarouselViewControl Grid.Row="0"
-                                        Orientation="Horizontal"
-                                        ItemsSource="{Binding Tabs}">
-                <cv:CarouselViewControl.ItemTemplate>
-                    <DataTemplate>
-                        <Label Text="{Binding Name}">
-                            --><!--<Label.GestureRecognizers>
-                                    <TapGestureRecognizer Command="{Binding Parent.SlideToTab}"
-                                                            CommandParameter="0" />
-                                </Label.GestureRecognizers>--><!--
-                        </Label>
-                    </DataTemplate>
-                </cv:CarouselViewControl.ItemTemplate>
-            </cv:CarouselViewControl>-->
-            <Label Grid.Column="0"
-                    Grid.Row="0"
-                    Text="Image">
-                    <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding SlideToTab}"
-                                              CommandParameter="0" />
-                    </Label.GestureRecognizers>
-                </Label>
-                <Label Grid.Column="1"
-                    Grid.Row="0"
-                    Text="Image">
-                    <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding SlideToTab}"
-                                              CommandParameter="1" />
-                    </Label.GestureRecognizers>
-                </Label>
-                <Label Grid.Column="2"
-                    Grid.Row="0"
-                    Text="Image">
-                    <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding SlideToTab}"
-                                              CommandParameter="2" />
-                    </Label.GestureRecognizers>
-                </Label>
-                <Label Grid.Column="3"
-                    Grid.Row="0"
-                    Text="Image">
-                    <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding SlideToTab}"
-                                              CommandParameter="3" />
-                    </Label.GestureRecognizers>
-                </Label>
-            <BoxView Grid.Column="{Binding TabPosition}"
-                         Grid.Row="1"
-                         HeightRequest="2"
-                         BackgroundColor="Black"
-                         HorizontalOptions="FillAndExpand" />
-        </Grid>
+        
     </ContentView.Content>
 </ContentView>
