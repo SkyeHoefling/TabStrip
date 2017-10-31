@@ -9,7 +9,7 @@ namespace TabStrip.FormsPlugin.Abstractions
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class TabStripControl : ContentView
     {
-        public TabStripControlModel ViewModel { get; set; }
+        internal TabStripControlModel ViewModel { get; set; }
         public TabStripControl()
         {
             InitializeComponent();

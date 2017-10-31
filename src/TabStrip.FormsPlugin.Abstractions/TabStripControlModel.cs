@@ -4,8 +4,7 @@ using Xamarin.Forms;
 
 namespace TabStrip.FormsPlugin.Abstractions
 {
-    public class HelloPageModel : PageModelBase { }
-    public class TabStripControlModel : PageModelBase
+    internal class TabStripControlModel : PageModelBase
     {
         public TabStripControlModel()
         {

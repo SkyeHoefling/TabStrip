@@ -11,4 +11,6 @@ namespace TabStrip.Sample
 			InitializeComponent ();
 		}
 	}
+
+    public class HelloPageModel { }
 }

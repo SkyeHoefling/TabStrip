@@ -3,7 +3,7 @@ using Xamarin.Forms;
 
 namespace TabStrip.FormsPlugin.Abstractions
 {
-    public class TabViewSelector : DataTemplateSelector
+    internal class TabViewSelector : DataTemplateSelector
     {
         private readonly IDictionary<string, DataTemplate> _templates;
 

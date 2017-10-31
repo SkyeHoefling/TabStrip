@@ -1,7 +1,6 @@
-﻿using Xamarin.Forms;
+﻿using System.Collections.ObjectModel;
 using TabStrip.FormsPlugin.Abstractions;
-using System.Collections.ObjectModel;
-using System.ComponentModel;
+using Xamarin.Forms;
 
 namespace TabStrip.Sample
 {

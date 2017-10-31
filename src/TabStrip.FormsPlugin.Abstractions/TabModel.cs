@@ -6,8 +6,8 @@ namespace TabStrip.FormsPlugin.Abstractions
     {
         public string Name { get; set; }
 
-        private (View, PageModelBase) _view;
-        public (View, PageModelBase) View
+        private (View, object) _view;
+        public (View, object) View
         {
             get { return _view; }
             set
