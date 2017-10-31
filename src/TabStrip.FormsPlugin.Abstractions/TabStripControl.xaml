@@ -3,10 +3,12 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:TabStrip.FormsPlugin.Abstractions"
              xmlns:cv="clr-namespace:CarouselView.FormsPlugin.Abstractions;assembly=CarouselView.FormsPlugin.Abstractions"
-             x:Class="TabStrip.FormsPlugin.Abstractions.TabStripControl">
+             x:Class="TabStrip.FormsPlugin.Abstractions.TabStripControl"
+             x:Name="this">
     <ContentView.Content>
         <StackLayout>
-            <local:TabStripTopBarControl BindingContext="{Binding .}" />
+            <local:TabStripTopBarControl BindingContext="{Binding Source={x:Reference this},
+                                                                  Path=ViewModel}" />
             <Grid VerticalOptions="FillAndExpand"
                   HorizontalOptions="FillAndExpand">
                 <Grid.ColumnDefinitions>
@@ -14,26 +16,32 @@
                 </Grid.ColumnDefinitions>
                 <cv:CarouselViewControl x:Name="Carousel"
                                         Grid.Column="0"
-                                        ItemsSource="{Binding Tabs}"
-                                        Position="{Binding TabPosition}"
+                                        ItemsSource="{Binding Source={x:Reference this},
+                                                              Path=ViewModel.Tabs}"
+                                        Position="{Binding Source={x:Reference this},
+                                                           Path=ViewModel.TabPosition}"
                                         Orientation="Horizontal"
                                         IsSwipingEnabled="False"
                                         VerticalOptions="FillAndExpand"
                                         HorizontalOptions="FillAndExpand"/>
                 <StackLayout VerticalOptions="CenterAndExpand"
                              HorizontalOptions="StartAndExpand"
-                             IsVisible="{Binding HasPrevious}">
+                             IsVisible="{Binding Source={x:Reference this}, 
+                                                 Path=ViewModel.HasPrevious}">
                     <StackLayout.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding SlideTab}"
+                        <TapGestureRecognizer Command="{Binding Source={x:Reference this},
+                                                                Path=ViewModel.SlideTab}"
                                               CommandParameter="-1" />
                     </StackLayout.GestureRecognizers>
                     <Label Text="P" />
                 </StackLayout>
                 <StackLayout VerticalOptions="CenterAndExpand"
                              HorizontalOptions="EndAndExpand"
-                             IsVisible="{Binding HasNext}">
+                             IsVisible="{Binding Source={x:Reference this},
+                                                 Path=ViewModel.HasNext}">
                     <StackLayout.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding SlideTab}"
+                        <TapGestureRecognizer Command="{Binding Source={x:Reference this},
+                                                                Path=ViewModel.SlideTab}"
                                               CommandParameter="1"/>
                     </StackLayout.GestureRecognizers>
                     <Label Text="N" />
