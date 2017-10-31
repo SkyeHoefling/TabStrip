@@ -1,4 +1,5 @@
-﻿using Xamarin.Forms;
+﻿using TabStrip.FormsPlugin.Abstractions;
+using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace TabStrip.Sample

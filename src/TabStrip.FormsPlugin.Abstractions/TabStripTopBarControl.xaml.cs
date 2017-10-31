@@ -15,6 +15,8 @@ namespace TabStrip.FormsPlugin.Abstractions
         protected override void OnBindingContextChanged()
         {
             var context = (TabStripControlModel)BindingContext;
+            if (context?.Tabs == null) return;
+
             var grid = new Grid();
             for (int index = 0; index < context.Tabs.Count; index++)
             {
