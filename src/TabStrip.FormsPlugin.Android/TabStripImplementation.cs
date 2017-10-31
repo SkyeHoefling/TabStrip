@@ -16,7 +16,7 @@ namespace TabStrip.FormsPlugin.Android
         public static void Init()
         {
             CarouselViewRenderer.Init();
-            var dummy = new TabStripControl(true);
+            var dummy = new TabStripControl();
         }
     }
 }
