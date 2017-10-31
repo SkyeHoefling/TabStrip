@@ -1,4 +1,5 @@
-﻿using Xamarin.Forms;
+﻿using System;
+using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace TabStrip.FormsPlugin.Abstractions
@@ -22,11 +23,10 @@ namespace TabStrip.FormsPlugin.Abstractions
                 {
                     Text = context.Tabs[index].Name
                 };
-
-                // TODO - there is an issue with the tap gesture not picking up
+                
                 var tapGestureRecognizer = new TapGestureRecognizer();
-                tapGestureRecognizer.SetBinding(TapGestureRecognizer.CommandProperty, new Binding("SlideToTab"));
-                tapGestureRecognizer.CommandParameter = index;
+                tapGestureRecognizer.Command = context.SlideToTab;
+                tapGestureRecognizer.CommandParameter = Convert.ToString(index);
                 label.GestureRecognizers.Add(tapGestureRecognizer);
 
                 grid.Children.Add(label, index, 0);
