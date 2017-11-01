@@ -47,14 +47,37 @@ xmlns:plugin="clr-namespace:TabStrip.FormsPlugin.Abstractions;assembly=TabStrip.
 Add the control:
 
 ```xml
-<plugin:TabStripControl Position="{Binding CurrentPosition}" />
+<plugin:TabStripControl Position="{Binding CurrentPosition}"
+						ItemsSource="{Binding Views}" />
+```
+
+Add the following code to your BindingContext. The `ItemsSource` property needs to be mapped to an `IEnumerable<TabModel>` where `TabModel` is provided in the `TabStrip.FormsPlugin.Abstractions` namespace.
+```c#
+BindingContext = new 
+{
+	Views = new ObservableCollection<TabModel>(new [] 
+	{
+		new TabModel
+        {
+            Name = "Tab 1",
+            View = (new HelloView(), new HelloPageModel())
+        },
+        new TabModel
+        {
+            Name = "Tab 2",
+            View = (new HelloView(), new HelloPageModel())
+        }
+
+	});
+};
 ```
 
 ## Bindable Properties
 
-| Property | Description                                                        | Default Value |
-|----------|--------------------------------------------------------------------|---------------|
-| Position | Gets or Sets current tab position of the tab strip.                | 0             |
+| Property    | Description                                                                                                                         | Default Value |
+|-------------|-------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Position    | Gets or Sets current tab position of the tab strip.                                                                                 | `0`             |
+| ItemsSource | Gets or Sets the `IEnumerable<TabModel>` where the `TabModel` defines the Tab Name and the View/ViewModel relationship for each Tab | `null`          |
 
 ## Release Notes
 
