@@ -48,7 +48,7 @@ Add the control:
 
 ```xml
 <plugin:TabStripControl Position="{Binding CurrentPosition}"
-						ItemsSource="{Binding Views}" />
+                        ItemsSource="{Binding Views}" />
 ```
 
 Add the following code to your BindingContext. The `ItemsSource` property needs to be mapped to an `IEnumerable<TabModel>` where `TabModel` is provided in the `TabStrip.FormsPlugin.Abstractions` namespace.
