@@ -5,6 +5,7 @@
              xmlns:plugin="clr-namespace:TabStrip.FormsPlugin.Abstractions;assembly=TabStrip.FormsPlugin.Abstractions"
              x:Class="TabStrip.Sample.MainPage">
     <ContentPage.Content>
-        <plugin:TabStripControl Position="2" />
+        <plugin:TabStripControl Position="{Binding Position}"
+                                ItemsSource="{Binding Data}" />
     </ContentPage.Content>
 </ContentPage>

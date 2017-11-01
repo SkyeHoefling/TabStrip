@@ -4,17 +4,11 @@ using Xamarin.Forms;
 
 namespace TabStrip.FormsPlugin.Abstractions
 {
-    internal class HelloPageModel : PageModelBase { }
-    internal class TabStripControlModel : PageModelBase
+    public class TabStripControlModel : PageModelBase
     {
         public TabStripControlModel()
         {
-            Tabs = new ObservableCollection<PageModelBase>
-            {
-                new HelloPageModel(),
-                new HelloPageModel(),
-                new HelloPageModel()
-            };
+            Tabs = new ObservableCollection<TabModel>();
             TabPosition = 0;
             SlideTab = new Command<string>(OnSlideTab);
             SlideToTab = new Command<string>(OnSlideToTab);
@@ -44,7 +38,17 @@ namespace TabStrip.FormsPlugin.Abstractions
                 RaisePropertyChanged(nameof(HasPrevious));
             }
         }
-        public ObservableCollection<PageModelBase> Tabs { get; set; }
+
+        private ObservableCollection<TabModel> _tabs;
+        public ObservableCollection<TabModel> Tabs
+        {
+            get { return _tabs; }
+            set
+            {
+                _tabs = value;
+                RaisePropertyChanged(nameof(Tabs));
+            }
+        }
 
         private int _tabPosition;
         public int TabPosition
@@ -68,7 +72,6 @@ namespace TabStrip.FormsPlugin.Abstractions
         private void OnSlideToTab(string position)
         {
             TabPosition = int.Parse(position);
-
         }
     }
 }

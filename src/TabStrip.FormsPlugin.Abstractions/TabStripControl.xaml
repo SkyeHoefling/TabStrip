@@ -4,85 +4,45 @@
              xmlns:local="clr-namespace:TabStrip.FormsPlugin.Abstractions"
              xmlns:cv="clr-namespace:CarouselView.FormsPlugin.Abstractions;assembly=CarouselView.FormsPlugin.Abstractions"
              x:Class="TabStrip.FormsPlugin.Abstractions.TabStripControl"
-             x:Name="Control">
-    <ContentView.Resources>
-        <ResourceDictionary>
-            <DataTemplate x:Key="ViewTemplate">
-                <local:HelloView BindingContext="{Binding BindingContext.ViewModel}" />
-            </DataTemplate>
-        </ResourceDictionary>
-    </ContentView.Resources>
+             x:Name="this">
     <ContentView.Content>
         <StackLayout>
-            <Grid>
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="*" />
-                    <ColumnDefinition Width="*" />
-                    <ColumnDefinition Width="*" />
-                </Grid.ColumnDefinitions>
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="*" />
-                    <RowDefinition Height="2" />
-                </Grid.RowDefinitions>
-                <Label Grid.Column="0"
-                    Grid.Row="0"
-                    Text="Image">
-                    <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding SlideToTab}"
-                                            CommandParameter="0" />
-                    </Label.GestureRecognizers>
-                </Label>
-                <Label Grid.Column="1"
-                    Grid.Row="0"
-                    Text="Image">
-                    <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding SlideToTab}"
-                                            CommandParameter="1" />
-                    </Label.GestureRecognizers>
-                </Label>
-                <Label Grid.Column="2"
-                    Grid.Row="0"
-                    Text="Image">
-                    <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding SlideToTab}"
-                                            CommandParameter="2" />
-                    </Label.GestureRecognizers>
-                </Label>
-                <BoxView Grid.Column="{Binding TabPosition}"
-                        Grid.Row="1"
-                        HeightRequest="2"
-                        BackgroundColor="Black"
-                        HorizontalOptions="FillAndExpand" />
-            </Grid>
+            <local:TabStripTopBarControl BindingContext="{Binding Source={x:Reference this},
+                                                                  Path=ViewModel}" />
             <Grid VerticalOptions="FillAndExpand"
-                HorizontalOptions="FillAndExpand">
+                  HorizontalOptions="FillAndExpand">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
-                <cv:CarouselViewControl x:Name="carousel"
-                                    Grid.Column="0"
-                                    ItemsSource="{Binding Tabs}"
-                                    Position="{Binding TabPosition}"
-                                    Orientation="Horizontal"
-                                    IsSwipingEnabled="False"
-                                    VerticalOptions="FillAndExpand"
-                                    HorizontalOptions="FillAndExpand"
-                                    ItemTemplate="{StaticResource ViewTemplate}" />
+                <cv:CarouselViewControl x:Name="Carousel"
+                                        Grid.Column="0"
+                                        ItemsSource="{Binding Source={x:Reference this},
+                                                              Path=ViewModel.Tabs}"
+                                        Position="{Binding Source={x:Reference this},
+                                                           Path=ViewModel.TabPosition}"
+                                        Orientation="Horizontal"
+                                        IsSwipingEnabled="False"
+                                        VerticalOptions="FillAndExpand"
+                                        HorizontalOptions="FillAndExpand"/>
                 <StackLayout VerticalOptions="CenterAndExpand"
-                            HorizontalOptions="StartAndExpand"
-                            IsVisible="{Binding HasPrevious}">
+                             HorizontalOptions="StartAndExpand"
+                             IsVisible="{Binding Source={x:Reference this}, 
+                                                 Path=ViewModel.HasPrevious}">
                     <StackLayout.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding SlideTab}"
-                                            CommandParameter="-1" />
+                        <TapGestureRecognizer Command="{Binding Source={x:Reference this},
+                                                                Path=ViewModel.SlideTab}"
+                                              CommandParameter="-1" />
                     </StackLayout.GestureRecognizers>
                     <Label Text="P" />
                 </StackLayout>
                 <StackLayout VerticalOptions="CenterAndExpand"
-                            HorizontalOptions="EndAndExpand"
-                            IsVisible="{Binding HasNext}">
+                             HorizontalOptions="EndAndExpand"
+                             IsVisible="{Binding Source={x:Reference this},
+                                                 Path=ViewModel.HasNext}">
                     <StackLayout.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding SlideTab}"
-                                            CommandParameter="1"/>
+                        <TapGestureRecognizer Command="{Binding Source={x:Reference this},
+                                                                Path=ViewModel.SlideTab}"
+                                              CommandParameter="1"/>
                     </StackLayout.GestureRecognizers>
                     <Label Text="N" />
                 </StackLayout>

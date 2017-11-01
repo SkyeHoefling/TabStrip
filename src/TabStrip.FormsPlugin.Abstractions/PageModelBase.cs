@@ -2,7 +2,7 @@
 
 namespace TabStrip.FormsPlugin.Abstractions
 {
-    internal class PageModelBase : INotifyPropertyChanged
+    public class PageModelBase : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler PropertyChanged;
         public void RaisePropertyChanged(string name)
