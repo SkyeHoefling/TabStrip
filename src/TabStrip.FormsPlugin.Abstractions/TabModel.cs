@@ -4,7 +4,7 @@ namespace TabStrip.FormsPlugin.Abstractions
 {
     public class TabModel
     {
-        public string Name { get; set; }
+        public (View, object) Name { get; set; }
 
         private (View, object) _view;
         public (View, object) View
