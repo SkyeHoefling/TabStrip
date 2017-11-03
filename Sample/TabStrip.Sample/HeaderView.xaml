@@ -5,6 +5,6 @@
   <ContentView.Content>
       <StackLayout>
           <Label Text="{Binding Title}" />
-      </StackLayout>
+        </StackLayout>
   </ContentView.Content>
 </ContentView>
