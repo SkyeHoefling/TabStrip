@@ -27,7 +27,8 @@ Task ("NuGet")
 });
 
 //Build the component, which build samples, nugets, and libraries
-Task ("Default").IsDependentOn("NuGet");
+Task ("Default")
+	.IsDependentOn("NuGet");
 
 Task ("Clean").Does (() => 
 {
