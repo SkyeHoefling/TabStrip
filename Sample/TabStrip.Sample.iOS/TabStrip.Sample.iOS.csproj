@@ -121,21 +121,9 @@
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="CarouselView.FormsPlugin.Abstractions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\TabStrip.1.0.75\lib\Xamarin.iOS10\CarouselView.FormsPlugin.Abstractions.dll</HintPath>
-    </Reference>
-    <Reference Include="CarouselView.FormsPlugin.iOS, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\TabStrip.1.0.75\lib\Xamarin.iOS10\CarouselView.FormsPlugin.iOS.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
-    <Reference Include="TabStrip.FormsPlugin.Abstractions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\TabStrip.1.0.75\lib\Xamarin.iOS10\TabStrip.FormsPlugin.Abstractions.dll</HintPath>
-    </Reference>
-    <Reference Include="TabStrip.FormsPlugin.iOS, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\TabStrip.1.0.75\lib\Xamarin.iOS10\TabStrip.FormsPlugin.iOS.dll</HintPath>
-    </Reference>
     <Reference Include="Xamarin.Forms.Core, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Forms.2.4.0.18342\lib\Xamarin.iOS10\Xamarin.Forms.Core.dll</HintPath>
     </Reference>
@@ -149,6 +137,28 @@
       <HintPath>..\..\packages\Xamarin.Forms.2.4.0.18342\lib\Xamarin.iOS10\Xamarin.Forms.Xaml.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.iOS" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CarouselView\CarouselView.FormsPlugin.Abstractions\CarouselView.FormsPlugin.Abstractions.csproj">
+      <Project>{8e2154c6-cd0a-4ae0-94c5-f20cdbcbbd5a}</Project>
+      <Name>CarouselView.FormsPlugin.Abstractions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CarouselView\CarouselView.FormsPlugin.iOS\CarouselView.FormsPlugin.iOS.csproj">
+      <Project>{970088a1-a1f0-4d4e-84f1-25636a692054}</Project>
+      <Name>CarouselView.FormsPlugin.iOS</Name>
+      <IsAppExtension>false</IsAppExtension>
+      <IsWatchApp>false</IsWatchApp>
+    </ProjectReference>
+    <ProjectReference Include="..\..\src\TabStrip.FormsPlugin.Abstractions\TabStrip.FormsPlugin.Abstractions.csproj">
+      <Project>{33c78e27-d0fb-4b07-aae7-8724ca002ff1}</Project>
+      <Name>TabStrip.FormsPlugin.Abstractions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\src\TabStrip.FormsPlugin.iOS\TabStrip.FormsPlugin.iOS.csproj">
+      <Project>{d525f236-6a2d-4010-b1cc-4a4b8581c90b}</Project>
+      <Name>TabStrip.FormsPlugin.iOS</Name>
+      <IsAppExtension>false</IsAppExtension>
+      <IsWatchApp>false</IsWatchApp>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="..\TabStrip.Sample\TabStrip.Sample.projitems" Label="Shared" Condition="Exists('..\TabStrip.Sample\TabStrip.Sample.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />

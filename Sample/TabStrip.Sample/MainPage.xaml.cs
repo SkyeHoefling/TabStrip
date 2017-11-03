@@ -14,27 +14,27 @@ namespace TabStrip.Sample
                 {
                     new TabModel
                     {
-                        Name = "Tab 1",
+                        Name = (new HeaderView(), null),
                         View = (new HelloView(), new HelloPageModel())
                     },
                     new TabModel
                     {
-                        Name = "Tab 2",
+                        Name = (new HeaderView(), null),
                         View = (new HelloView(), new HelloPageModel())
                     },
                     new TabModel
                     {
-                        Name = "Tab 3",
+                        Name = (new HeaderView(), null),
                         View = (new HelloView(), new HelloPageModel())
                     },
                     new TabModel
                     {
-                        Name = "Tab 4",
+                        Name = (new HeaderView(), null),
                         View = (new HelloView(), new HelloPageModel())
                     },
                     new TabModel
                     {
-                        Name = "Tab 5",
+                        Name = (new HeaderView(), null),
                         View = (new HelloView(), new HelloPageModel())
                     }
                 });
