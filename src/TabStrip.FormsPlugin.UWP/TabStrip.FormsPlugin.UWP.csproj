@@ -126,6 +126,10 @@
       <Project>{9916a87b-5503-4e08-a21f-6ceb46cf09fd}</Project>
       <Name>CarouselView.FormsPlugin.UWP</Name>
     </ProjectReference>
+    <ProjectReference Include="..\TabStrip.FormsPlugin.Abstractions\TabStrip.FormsPlugin.Abstractions.csproj">
+      <Project>{33c78e27-d0fb-4b07-aae7-8724ca002ff1}</Project>
+      <Name>TabStrip.FormsPlugin.Abstractions</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
