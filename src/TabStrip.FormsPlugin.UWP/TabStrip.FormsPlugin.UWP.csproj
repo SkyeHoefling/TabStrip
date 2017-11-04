@@ -7,8 +7,8 @@
     <ProjectGuid>{8A8D835F-3407-4994-BF04-2A13653CE32D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CarouselView.FormsPlugin.UWP</RootNamespace>
-    <AssemblyName>CarouselView.FormsPlugin.UWP</AssemblyName>
+    <RootNamespace>TabStrip.FormsPlugin.UWP</RootNamespace>
+    <AssemblyName>TabStrip.FormsPlugin.UWP</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetPlatformVersion>10.0.16299.0</TargetPlatformVersion>
