@@ -101,7 +101,7 @@ $ADDINS_DIR = Join-Path $TOOLS_DIR "Addins"
 $MODULES_DIR = Join-Path $TOOLS_DIR "Modules"
 $NUGET_EXE = Join-Path $TOOLS_DIR "nuget.exe"
 $CAKE_EXE = Join-Path $TOOLS_DIR "Cake/Cake.exe"
-$NUGET_URL = "https://dist.nuget.org/win-x86-commandline/latest/nuget.exe"
+$NUGET_URL = "https://dist.nuget.org/win-x86-commandline/v4.4.0/nuget.exe"
 $PACKAGES_CONFIG = Join-Path $TOOLS_DIR "packages.config"
 $PACKAGES_CONFIG_MD5 = Join-Path $TOOLS_DIR "packages.config.md5sum"
 $ADDINS_PACKAGES_CONFIG = Join-Path $ADDINS_DIR "packages.config"
@@ -134,15 +134,32 @@ if (!(Test-Path $NUGET_EXE)) {
     }
 }
 
+
 # Try download NuGet.exe if not exists
-if (!(Test-Path $NUGET_EXE)) {
-    Write-Verbose -Message "Downloading NuGet.exe..."
+if(!(Test-Path $NUGET_EXE))
+{
+	Write-Verbose -Message "Downloading NuGet.exe..."
     try {
         $wc = GetProxyEnabledWebClient
         $wc.DownloadFile($NUGET_URL, $NUGET_EXE)
     } catch {
         Throw "Could not download NuGet.exe."
     }
+}
+else
+{
+	# Check if the current version of nuget is 4.4 if not download it
+	$version = (nuget.exe | Select-Object -First 1).Split(':')[1].Trim()
+	if(!($version.StartsWith("4.4")))
+	{
+		Write-Verbose -Message "Downloading NuGet.exe..."
+		try {
+			$wc = GetProxyEnabledWebClient
+			$wc.DownloadFile($NUGET_URL, $NUGET_EXE)
+		} catch {
+			Throw "Could not download NuGet.exe."
+		}
+	}
 }
 
 # Save nuget.exe path to environment to be available to child processed
@@ -165,14 +182,22 @@ if(-Not $SkipToolPackageRestore.IsPresent) {
     $NuGetOutput = Invoke-Expression "&`"$NUGET_EXE`" install -ExcludeVersion -OutputDirectory `"$TOOLS_DIR`""
 
     if ($LASTEXITCODE -ne 0) {
-        Throw "An error occured while restoring NuGet tools."
+        Write-Warning ($NuGetOutput | out-string)
+
+        if ($LASTEXITCODE -eq 1 -and $NuGetOutput -match ' are already installed') {
+            Write-Verbose -Message 'Packages already installed, continuing.'
+        }
+        else {
+            Pop-Location
+            throw ("NuGet returned error {0} restoring NuGet tools." -f $LASTEXITCODE)
+        }
     }
     else
     {
         $md5Hash | Out-File $PACKAGES_CONFIG_MD5 -Encoding "ASCII"
+        Write-Verbose -Message ($NuGetOutput | out-string)
     }
-    Write-Verbose -Message ($NuGetOutput | out-string)
-
+    
     Pop-Location
 }
 
@@ -227,6 +252,9 @@ if ($DryRun) { $cakeArguments += "-dryrun" }
 if ($Experimental) { $cakeArguments += "-experimental" }
 if ($Mono) { $cakeArguments += "-mono" }
 $cakeArguments += $ScriptArgs
+
+# run nuget command
+nuget restore TabStrip.sln
 
 # Start Cake
 Write-Host "Running build script..."
