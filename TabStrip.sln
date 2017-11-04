@@ -22,17 +22,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{B0CCB0
 		.nuget\TabStrip.nuspec = .nuget\TabStrip.nuspec
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample", "Sample", "{FC62285F-DF85-4C55-8AAB-0211E0FEED59}"
-EndProject
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "TabStrip.Sample", "Sample\TabStrip.Sample\TabStrip.Sample.shproj", "{BA6C7969-275E-486D-8B79-2CB77D8BE50E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabStrip.Sample.iOS", "Sample\TabStrip.Sample.iOS\TabStrip.Sample.iOS.csproj", "{FC3BCD67-0433-473B-A918-87B71BDDB8C5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabStrip.FormsPlugin.UWP", "src\TabStrip.FormsPlugin.UWP\TabStrip.FormsPlugin.UWP.csproj", "{8A8D835F-3407-4994-BF04-2A13653CE32D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabStrip.Sample.UWP", "Sample\TabStrip.Sample.UWP\TabStrip.Sample.UWP.csproj", "{FDF1BB81-8195-4ABD-B5FB-0357647B5773}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselView.FormsPlugin.UWP", "CarouselView\CarouselView.FormsPlugin.UWP\CarouselView.FormsPlugin.UWP.csproj", "{9916A87B-5503-4E08-A21F-6CEB46CF09FD}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".build", ".build", "{3295AB9E-5824-4085-8266-41BFB537D0B4}"
+	ProjectSection(SolutionItems) = preProject
+		build.cake = build.cake
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution

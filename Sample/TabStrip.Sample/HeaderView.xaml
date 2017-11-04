@@ -4,7 +4,7 @@
              x:Class="TabStrip.Sample.HeaderView">
   <ContentView.Content>
       <StackLayout>
-          <Label Text="Tab" />
-      </StackLayout>
+          <Label Text="{Binding Title}" />
+        </StackLayout>
   </ContentView.Content>
 </ContentView>

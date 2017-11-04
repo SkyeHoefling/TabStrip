@@ -21,17 +21,18 @@ namespace TabStrip.FormsPlugin.Abstractions
             for (int index = 0; index < context.Tabs.Count; index++)
             {
                 grid.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
-                var header = new ContentView
+                var view = new ContentView
                 {
-                    Content = context.Tabs[index].Name.Item1
+                    Content = context.Tabs[index].Header.Item1,
+                    BindingContext = context.Tabs[index].Header.Item2
                 };
                 
                 var tapGestureRecognizer = new TapGestureRecognizer();
                 tapGestureRecognizer.Command = context.SlideToTab;
                 tapGestureRecognizer.CommandParameter = Convert.ToString(index);
-                header.GestureRecognizers.Add(tapGestureRecognizer);
+                view.GestureRecognizers.Add(tapGestureRecognizer);
 
-                grid.Children.Add(header, index, 0);
+                grid.Children.Add(view, index, 0);
             }
 
             grid.RowDefinitions.Add(new RowDefinition { Height = new GridLength(1, GridUnitType.Star) });
