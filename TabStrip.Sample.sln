@@ -1,18 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26923.0
+VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "TabStrip.Sample", "Sample\TabStrip.Sample\TabStrip.Sample.shproj", "{BA6C7969-275E-486D-8B79-2CB77D8BE50E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabStrip.Sample.Android", "Sample\TabStrip.Sample.Android\TabStrip.Sample.Android.csproj", "{55F04EA4-ABED-4F26-AA67-23945819B528}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabStrip.Sample.iOS", "Sample\TabStrip.Sample.iOS\TabStrip.Sample.iOS.csproj", "{FC3BCD67-0433-473B-A918-87B71BDDB8C5}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{3F1CC10A-5D55-4807-95A7-92360023B188}"
-	ProjectSection(SolutionItems) = preProject
-		.nuget\NuGet.config = .nuget\NuGet.config
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution

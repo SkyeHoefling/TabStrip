@@ -59,12 +59,12 @@ BindingContext = new
 	{
 		new TabModel
         {
-            Name = "Tab 1",
+            Header = (new HeaderView(), new { Title = "Tab 1" }),
             View = (new HelloView(), new HelloPageModel())
         },
         new TabModel
         {
-            Name = "Tab 2",
+            Header = (new HeaderView(), new { Title = "Tab 2" }),
             View = (new HelloView(), new HelloPageModel())
         }
 
