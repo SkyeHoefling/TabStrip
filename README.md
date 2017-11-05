@@ -18,7 +18,7 @@ This will be filled out when we get closer to the first release
 |------------------|-----------|-------------|
 | Xamarin.Android  | Yes       | API ?+      |
 | Xamarin.iOS      | Yes       | iOS ?+      |
-| Xamarin 10 UWP   | No        |             |
+| Xamarin 10 UWP   | Yes       | 16299       |
 | macOS            | No        |             |
 | linux            | No        |             |
 | tvOS             | No        |             |
