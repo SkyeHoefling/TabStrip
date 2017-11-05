@@ -16,9 +16,9 @@ This will be filled out when we get closer to the first release
 
 | Platform         | Supported | Version     |
 |------------------|-----------|-------------|
-| Xamarin.Android  | Yes       | API ?+      |
-| Xamarin.iOS      | Yes       | iOS ?+      |
-| Xamarin 10 UWP   | Yes       | 16299       |
+| Xamarin.Android  | Yes       | API 25 +    |
+| Xamarin.iOS      | Yes       | iOS 10 +    |
+| Xamarin 10 UWP   | Yes       | 16299  +    |
 | macOS            | No        |             |
 | linux            | No        |             |
 | tvOS             | No        |             |
