@@ -27,8 +27,9 @@ This will be filled out when we get closer to the first release
 
 * Project still in development no NuGet releases yet
 
-## Usage
+## Usage ##
 
+#### iOS and Droid ####
 Initialize the renderers in your iOS and Android projects
 
 ```c#
