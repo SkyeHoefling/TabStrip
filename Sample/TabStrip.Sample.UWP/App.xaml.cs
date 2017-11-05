@@ -60,12 +60,7 @@ namespace TabStrip.Sample.UWP
                 rootFrame = new Frame();
 
                 rootFrame.NavigationFailed += OnNavigationFailed;
-
-                var assembliesToInclude = new List<Assembly>();
-                //assembliesToInclude.Add(typeof(CarouselViewRenderer).GetTypeInfo().Assembly);
-                assembliesToInclude.Add(typeof(TabStripRenderer).GetTypeInfo().Assembly);
-
-                Xamarin.Forms.Forms.Init(e, assembliesToInclude);
+                Xamarin.Forms.Forms.Init(e);
                 
 
                 if (e.PreviousExecutionState == ApplicationExecutionState.Terminated)
