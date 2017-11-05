@@ -25,8 +25,8 @@
     <file src="..\src\TabStrip.FormsPlugin.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.*" target="lib\Xamarin.iOS10" />
 
     <!-- android -->
-    <!--<file src="..\src\TabStrip.FormsPlugin.Android\bin\Release\TabStrip.FormsPlugin.*" target="lib\MonoAndroid10" />
-    <file src="..\src\TabStrip.FormsPlugin.Android\bin\Release\CarouselView.FormsPlugin.*" target="lib\MonoAndroid10" />-->
+    <file src="..\src\TabStrip.FormsPlugin.Android\bin\Release\TabStrip.FormsPlugin.*" target="lib\MonoAndroid10" />
+    <file src="..\src\TabStrip.FormsPlugin.Android\bin\Release\CarouselView.FormsPlugin.*" target="lib\MonoAndroid10" />
   
     <!-- UWP -->
     <file src="..\src\TabStrip.formsPlugin.UWP\bin\Release\**\*" target="lib\UAP10" />
