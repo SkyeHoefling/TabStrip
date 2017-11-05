@@ -29,6 +29,6 @@
     <file src="..\src\TabStrip.FormsPlugin.Android\bin\Release\CarouselView.FormsPlugin.*" target="lib\MonoAndroid10" />-->
   
     <!-- UWP -->
-    <file src="..\CarouselView\CarouselView.FormsPlugin.UWP\bin\Release\**\*" target="lib\UAP10" />
+    <file src="..\src\TabStrip.formsPlugin.UWP\bin\Release\**\*" target="lib\UAP10" />
   </files>
 </package>
