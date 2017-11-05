@@ -122,19 +122,19 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="CarouselView.FormsPlugin.Abstractions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\TabStrip.1.0.89\lib\Xamarin.iOS10\CarouselView.FormsPlugin.Abstractions.dll</HintPath>
+      <HintPath>..\..\packages\TabStrip.1.0.93\lib\Xamarin.iOS10\CarouselView.FormsPlugin.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="CarouselView.FormsPlugin.iOS, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\TabStrip.1.0.89\lib\Xamarin.iOS10\CarouselView.FormsPlugin.iOS.dll</HintPath>
+      <HintPath>..\..\packages\TabStrip.1.0.93\lib\Xamarin.iOS10\CarouselView.FormsPlugin.iOS.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="TabStrip.FormsPlugin.Abstractions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\TabStrip.1.0.89\lib\Xamarin.iOS10\TabStrip.FormsPlugin.Abstractions.dll</HintPath>
+      <HintPath>..\..\packages\TabStrip.1.0.93\lib\Xamarin.iOS10\TabStrip.FormsPlugin.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="TabStrip.FormsPlugin.iOS, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\TabStrip.1.0.89\lib\Xamarin.iOS10\TabStrip.FormsPlugin.iOS.dll</HintPath>
+      <HintPath>..\..\packages\TabStrip.1.0.93\lib\Xamarin.iOS10\TabStrip.FormsPlugin.iOS.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.Forms.Core, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Forms.2.4.0.18342\lib\Xamarin.iOS10\Xamarin.Forms.Core.dll</HintPath>
