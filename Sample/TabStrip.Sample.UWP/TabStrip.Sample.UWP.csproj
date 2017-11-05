@@ -147,24 +147,6 @@
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\CarouselView\CarouselView.FormsPlugin.Abstractions\CarouselView.FormsPlugin.Abstractions.csproj">
-      <Project>{8e2154c6-cd0a-4ae0-94c5-f20cdbcbbd5a}</Project>
-      <Name>CarouselView.FormsPlugin.Abstractions</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\CarouselView\CarouselView.FormsPlugin.UWP\CarouselView.FormsPlugin.UWP.csproj">
-      <Project>{9916a87b-5503-4e08-a21f-6ceb46cf09fd}</Project>
-      <Name>CarouselView.FormsPlugin.UWP</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\src\TabStrip.FormsPlugin.Abstractions\TabStrip.FormsPlugin.Abstractions.csproj">
-      <Project>{33c78e27-d0fb-4b07-aae7-8724ca002ff1}</Project>
-      <Name>TabStrip.FormsPlugin.Abstractions</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\src\TabStrip.FormsPlugin.UWP\TabStrip.FormsPlugin.UWP.csproj">
-      <Project>{8a8d835f-3407-4994-bf04-2a13653ce32d}</Project>
-      <Name>TabStrip.FormsPlugin.UWP</Name>
-    </ProjectReference>
-  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>
