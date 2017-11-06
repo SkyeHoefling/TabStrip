@@ -3,17 +3,28 @@
   <metadata>
     <id>TabStrip</id>
     <version>$version$</version>
-    <title>Tab Strip Plugin for Xamarin.Forms (iOS and Android)</title>
+    <title>Tab Strip Plugin for Xamarin.Forms (iOS, Android and UWP)</title>
     <authors>Andrew Hoefling</authors>
     <owners>Andrew Hoefling</owners>
     <licenseUrl>https://github.com/ahoefling/TabStrip/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/ahoefling/TabStrip</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>We need to fill this out</description>
-    <summary>We need to fill this out</summary>
-    <releaseNotes></releaseNotes>
-    <tags>Xamarin, TabStrip, iOS, android, Xamarin.forms</tags>
-    <dependencies></dependencies>
+    <description>Create TabStrip style tabbed navigation control. Configure control to have custom navigation headers and custom navigation arrows.</description>
+    <summary>TabStrip Control for Xamarin.Forms supporting iOS, Android and UWP</summary>
+    <releaseNotes>For changelog go to: https://github.com/ahoefling/TabStrip/blob/master/CHANGELOG.md</releaseNotes>
+    <tags>Xamarin, TabStrip, iOS, android, UWP, Xamarin.forms</tags>
+    <dependencies>
+      <group targetFramework="MonoAndroid10">
+        <dependency id="Xamarin.Forms" version="2.4.0.38779"/>
+        <dependency id="Xamarin.Android.Support.v4" version="23.3.0"/>
+      </group>
+      <group targetFramework="Xamarin.iOS10">
+        <dependency id="Xamarin.Forms" version="2.4.0.38779"/>
+      </group>
+      <group targetFramework="UAP10">
+        <dependency id="Xamarin.Forms" version="2.4.0.38799"/>
+      </group>
+    </dependencies>
   </metadata>
   <files>
     <!-- shared -->
@@ -27,7 +38,7 @@
     <!-- android -->
     <file src="..\src\TabStrip.FormsPlugin.Android\bin\Release\TabStrip.FormsPlugin.*" target="lib\MonoAndroid10" />
     <file src="..\src\TabStrip.FormsPlugin.Android\bin\Release\CarouselView.FormsPlugin.*" target="lib\MonoAndroid10" />
-  
+
     <!-- UWP -->
     <file src="..\src\TabStrip.formsPlugin.UWP\bin\Release\**\*" target="lib\UAP10" />
   </files>

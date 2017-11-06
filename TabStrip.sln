@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabStrip.FormsPlugin.iOS", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{B0CCB033-4C26-49B3-97B1-4ADD88AD5992}"
 	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.config = .nuget\NuGet.config
+		.nuget\README.md = .nuget\README.md
 		.nuget\TabStrip.nuspec = .nuget\TabStrip.nuspec
 	EndProjectSection
 EndProject
@@ -35,6 +37,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabStrip.FormsPlugin.Androi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".documentation", ".documentation", "{73D6202B-920E-4E3C-9914-EF96DBC429E8}"
 	ProjectSection(SolutionItems) = preProject
+		CHANGELOG.md = CHANGELOG.md
 		LICENSE = LICENSE
 		README.md = README.md
 	EndProjectSection
