@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Reflection;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,12 +11,16 @@ namespace TabStrip.FormsPlugin.Abstractions
     public partial class TabStripControl : ContentView
     {
         public TabStripControlModel ViewModel { get; set; }
+        public ImageSource RightArrow { get; set; }
+        public ImageSource LeftArrow { get; set; }
         public TabStripControl()
         {
             InitializeComponent();
             Position = 0;
 
             ViewModel = new TabStripControlModel();
+            RightArrow = ImageSource.FromResource("TabStrip.FormsPlugin.Abstractions.right_arrow.png", Assembly.GetExecutingAssembly());
+            LeftArrow = ImageSource.FromResource("TabStrip.FormsPlugin.Abstractions.left_arrow.png", Assembly.GetExecutingAssembly());
         }
 
         public static readonly BindableProperty PositionProperty = BindableProperty.Create(

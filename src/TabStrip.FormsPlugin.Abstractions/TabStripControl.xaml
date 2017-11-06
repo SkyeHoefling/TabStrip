@@ -33,7 +33,8 @@
                                                                 Path=ViewModel.SlideTab}"
                                               CommandParameter="-1" />
                     </StackLayout.GestureRecognizers>
-                    <Label Text="P" />
+                    <Image Source="{Binding Source={x:Reference this},
+                                            Path=LeftArrow}" />
                 </StackLayout>
                 <StackLayout VerticalOptions="CenterAndExpand"
                              HorizontalOptions="EndAndExpand"
@@ -44,7 +45,8 @@
                                                                 Path=ViewModel.SlideTab}"
                                               CommandParameter="1"/>
                     </StackLayout.GestureRecognizers>
-                    <Label Text="N" />
+                    <Image Source="{Binding Source={x:Reference this},
+                                            Path=RightArrow}" />
                 </StackLayout>
             </Grid>
         </StackLayout>

@@ -10,6 +10,14 @@
     <SignAssembly>false</SignAssembly>
   </PropertyGroup>
   <ItemGroup>
+    <None Remove="left_arrow.png" />
+    <None Remove="right_arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="left_arrow.png" />
+    <EmbeddedResource Include="right_arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="2.4.0.18342" />
   </ItemGroup>
   <ItemGroup>
@@ -19,5 +27,8 @@
     <Compile Update="TabStripTopBarControl.xaml.cs">
       <DependentUpon>TabStripTopBarControl.xaml</DependentUpon>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
   </ItemGroup>
 </Project>
