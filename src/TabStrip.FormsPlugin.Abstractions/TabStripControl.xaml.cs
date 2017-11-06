@@ -11,16 +11,38 @@ namespace TabStrip.FormsPlugin.Abstractions
     public partial class TabStripControl : ContentView
     {
         public TabStripControlModel ViewModel { get; set; }
-        public ImageSource RightArrow { get; set; }
-        public ImageSource LeftArrow { get; set; }
         public TabStripControl()
         {
             InitializeComponent();
             Position = 0;
 
             ViewModel = new TabStripControlModel();
-            RightArrow = ImageSource.FromResource("TabStrip.FormsPlugin.Abstractions.right_arrow.png", Assembly.GetExecutingAssembly());
-            LeftArrow = ImageSource.FromResource("TabStrip.FormsPlugin.Abstractions.left_arrow.png", Assembly.GetExecutingAssembly());
+        }
+
+        public static readonly BindableProperty LeftArrowProperty = BindableProperty.Create(
+            "LeftArrow",
+            typeof(ImageSource),
+            typeof(TabStripControl),
+            ImageSource.FromResource("TabStrip.FormsPlugin.Abstractions.left_arrow.png", Assembly.GetExecutingAssembly()),
+            BindingMode.Default);
+
+        public ImageSource LeftArrow
+        {
+            get { return (ImageSource)GetValue(LeftArrowProperty); }
+            set { SetValue(LeftArrowProperty, value); }
+        }
+
+        public static readonly BindableProperty RightArrowProperty = BindableProperty.Create(
+            "RightArrow",
+            typeof(ImageSource),
+            typeof(TabStripControl),
+            ImageSource.FromResource("TabStrip.FormsPlugin.Abstractions.right_arrow.png", Assembly.GetExecutingAssembly()),
+            BindingMode.Default);
+
+        public ImageSource RightArrow
+        {
+            get { return (ImageSource)GetValue(RightArrowProperty); }
+            set { SetValue(RightArrowProperty, value); }
         }
 
         public static readonly BindableProperty PositionProperty = BindableProperty.Create(
