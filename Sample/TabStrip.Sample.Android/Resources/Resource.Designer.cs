@@ -372,15 +372,6 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Attribute.trackTintMode = global::TabStrip.Sample.Droid.Resource.Attribute.trackTintMode;
 			global::CarouselView.FormsPlugin.Android.Resource.Attribute.useCompatPadding = global::TabStrip.Sample.Droid.Resource.Attribute.useCompatPadding;
 			global::CarouselView.FormsPlugin.Android.Resource.Attribute.voiceIcon = global::TabStrip.Sample.Droid.Resource.Attribute.voiceIcon;
-			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiCentered = global::TabStrip.Sample.Droid.Resource.Attribute.vpiCentered;
-			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiCirclePageIndicatorStyle = global::TabStrip.Sample.Droid.Resource.Attribute.vpiCirclePageIndicatorStyle;
-			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiFillColor = global::TabStrip.Sample.Droid.Resource.Attribute.vpiFillColor;
-			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiOrientation = global::TabStrip.Sample.Droid.Resource.Attribute.vpiOrientation;
-			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiPageColor = global::TabStrip.Sample.Droid.Resource.Attribute.vpiPageColor;
-			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiRadius = global::TabStrip.Sample.Droid.Resource.Attribute.vpiRadius;
-			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiSnap = global::TabStrip.Sample.Droid.Resource.Attribute.vpiSnap;
-			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiStrokeColor = global::TabStrip.Sample.Droid.Resource.Attribute.vpiStrokeColor;
-			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiStrokeWidth = global::TabStrip.Sample.Droid.Resource.Attribute.vpiStrokeWidth;
 			global::CarouselView.FormsPlugin.Android.Resource.Attribute.windowActionBar = global::TabStrip.Sample.Droid.Resource.Attribute.windowActionBar;
 			global::CarouselView.FormsPlugin.Android.Resource.Attribute.windowActionBarOverlay = global::TabStrip.Sample.Droid.Resource.Attribute.windowActionBarOverlay;
 			global::CarouselView.FormsPlugin.Android.Resource.Attribute.windowActionModeOverlay = global::TabStrip.Sample.Droid.Resource.Attribute.windowActionModeOverlay;
@@ -396,8 +387,6 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::TabStrip.Sample.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
 			global::CarouselView.FormsPlugin.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::TabStrip.Sample.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
 			global::CarouselView.FormsPlugin.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::TabStrip.Sample.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
-			global::CarouselView.FormsPlugin.Android.Resource.Boolean.default_circle_indicator_centered = global::TabStrip.Sample.Droid.Resource.Boolean.default_circle_indicator_centered;
-			global::CarouselView.FormsPlugin.Android.Resource.Boolean.default_circle_indicator_snap = global::TabStrip.Sample.Droid.Resource.Boolean.default_circle_indicator_snap;
 			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::TabStrip.Sample.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
 			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::TabStrip.Sample.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
 			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_btn_colored_borderless_text_material = global::TabStrip.Sample.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
@@ -440,9 +429,6 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Color.cardview_light_background = global::TabStrip.Sample.Droid.Resource.Color.cardview_light_background;
 			global::CarouselView.FormsPlugin.Android.Resource.Color.cardview_shadow_end_color = global::TabStrip.Sample.Droid.Resource.Color.cardview_shadow_end_color;
 			global::CarouselView.FormsPlugin.Android.Resource.Color.cardview_shadow_start_color = global::TabStrip.Sample.Droid.Resource.Color.cardview_shadow_start_color;
-			global::CarouselView.FormsPlugin.Android.Resource.Color.default_circle_indicator_fill_color = global::TabStrip.Sample.Droid.Resource.Color.default_circle_indicator_fill_color;
-			global::CarouselView.FormsPlugin.Android.Resource.Color.default_circle_indicator_page_color = global::TabStrip.Sample.Droid.Resource.Color.default_circle_indicator_page_color;
-			global::CarouselView.FormsPlugin.Android.Resource.Color.default_circle_indicator_stroke_color = global::TabStrip.Sample.Droid.Resource.Color.default_circle_indicator_stroke_color;
 			global::CarouselView.FormsPlugin.Android.Resource.Color.design_bottom_navigation_shadow_color = global::TabStrip.Sample.Droid.Resource.Color.design_bottom_navigation_shadow_color;
 			global::CarouselView.FormsPlugin.Android.Resource.Color.design_error = global::TabStrip.Sample.Droid.Resource.Color.design_error;
 			global::CarouselView.FormsPlugin.Android.Resource.Color.design_fab_shadow_end_color = global::TabStrip.Sample.Droid.Resource.Color.design_fab_shadow_end_color;
@@ -497,14 +483,6 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Color.switch_thumb_material_light = global::TabStrip.Sample.Droid.Resource.Color.switch_thumb_material_light;
 			global::CarouselView.FormsPlugin.Android.Resource.Color.switch_thumb_normal_material_dark = global::TabStrip.Sample.Droid.Resource.Color.switch_thumb_normal_material_dark;
 			global::CarouselView.FormsPlugin.Android.Resource.Color.switch_thumb_normal_material_light = global::TabStrip.Sample.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__background_holo_dark = global::TabStrip.Sample.Droid.Resource.Color.vpi__background_holo_dark;
-			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__background_holo_light = global::TabStrip.Sample.Droid.Resource.Color.vpi__background_holo_light;
-			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_disabled_holo_dark = global::TabStrip.Sample.Droid.Resource.Color.vpi__bright_foreground_disabled_holo_dark;
-			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_disabled_holo_light = global::TabStrip.Sample.Droid.Resource.Color.vpi__bright_foreground_disabled_holo_light;
-			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_holo_dark = global::TabStrip.Sample.Droid.Resource.Color.vpi__bright_foreground_holo_dark;
-			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_holo_light = global::TabStrip.Sample.Droid.Resource.Color.vpi__bright_foreground_holo_light;
-			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_inverse_holo_dark = global::TabStrip.Sample.Droid.Resource.Color.vpi__bright_foreground_inverse_holo_dark;
-			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_inverse_holo_light = global::TabStrip.Sample.Droid.Resource.Color.vpi__bright_foreground_inverse_holo_light;
 			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
 			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
 			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_default_height_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_bar_default_height_material;
@@ -582,8 +560,6 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Dimension.cardview_compat_inset_shadow = global::TabStrip.Sample.Droid.Resource.Dimension.cardview_compat_inset_shadow;
 			global::CarouselView.FormsPlugin.Android.Resource.Dimension.cardview_default_elevation = global::TabStrip.Sample.Droid.Resource.Dimension.cardview_default_elevation;
 			global::CarouselView.FormsPlugin.Android.Resource.Dimension.cardview_default_radius = global::TabStrip.Sample.Droid.Resource.Dimension.cardview_default_radius;
-			global::CarouselView.FormsPlugin.Android.Resource.Dimension.default_circle_indicator_radius = global::TabStrip.Sample.Droid.Resource.Dimension.default_circle_indicator_radius;
-			global::CarouselView.FormsPlugin.Android.Resource.Dimension.default_circle_indicator_stroke_width = global::TabStrip.Sample.Droid.Resource.Dimension.default_circle_indicator_stroke_width;
 			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_appbar_elevation = global::TabStrip.Sample.Droid.Resource.Dimension.design_appbar_elevation;
 			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::TabStrip.Sample.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
 			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_bottom_navigation_active_text_size = global::TabStrip.Sample.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
@@ -994,12 +970,10 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Id.@fixed = global::TabStrip.Sample.Droid.Resource.Id.@fixed;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.home = global::TabStrip.Sample.Droid.Resource.Id.home;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.homeAsUp = global::TabStrip.Sample.Droid.Resource.Id.homeAsUp;
-			global::CarouselView.FormsPlugin.Android.Resource.Id.horizontal = global::TabStrip.Sample.Droid.Resource.Id.horizontal;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.icon = global::TabStrip.Sample.Droid.Resource.Id.icon;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.icon_group = global::TabStrip.Sample.Droid.Resource.Id.icon_group;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.ifRoom = global::TabStrip.Sample.Droid.Resource.Id.ifRoom;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.image = global::TabStrip.Sample.Droid.Resource.Id.image;
-			global::CarouselView.FormsPlugin.Android.Resource.Id.indicator = global::TabStrip.Sample.Droid.Resource.Id.indicator;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.info = global::TabStrip.Sample.Droid.Resource.Id.info;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.item_touch_helper_previous_elevation = global::TabStrip.Sample.Droid.Resource.Id.item_touch_helper_previous_elevation;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.largeLabel = global::TabStrip.Sample.Droid.Resource.Id.largeLabel;
@@ -1045,7 +1019,6 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Id.notification_background = global::TabStrip.Sample.Droid.Resource.Id.notification_background;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.notification_main_column = global::TabStrip.Sample.Droid.Resource.Id.notification_main_column;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.notification_main_column_container = global::TabStrip.Sample.Droid.Resource.Id.notification_main_column_container;
-			global::CarouselView.FormsPlugin.Android.Resource.Id.pager = global::TabStrip.Sample.Droid.Resource.Id.pager;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.parallax = global::TabStrip.Sample.Droid.Resource.Id.parallax;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.parentPanel = global::TabStrip.Sample.Droid.Resource.Id.parentPanel;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.pin = global::TabStrip.Sample.Droid.Resource.Id.pin;
@@ -1108,7 +1081,6 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Id.transition_scene_layoutid_cache = global::TabStrip.Sample.Droid.Resource.Id.transition_scene_layoutid_cache;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.up = global::TabStrip.Sample.Droid.Resource.Id.up;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.useLogo = global::TabStrip.Sample.Droid.Resource.Id.useLogo;
-			global::CarouselView.FormsPlugin.Android.Resource.Id.vertical = global::TabStrip.Sample.Droid.Resource.Id.vertical;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.view_offset_helper = global::TabStrip.Sample.Droid.Resource.Id.view_offset_helper;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.visible = global::TabStrip.Sample.Droid.Resource.Id.visible;
 			global::CarouselView.FormsPlugin.Android.Resource.Id.volume_item_container = global::TabStrip.Sample.Droid.Resource.Id.volume_item_container;
@@ -1119,7 +1091,6 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Integer.app_bar_elevation_anim_duration = global::TabStrip.Sample.Droid.Resource.Integer.app_bar_elevation_anim_duration;
 			global::CarouselView.FormsPlugin.Android.Resource.Integer.bottom_sheet_slide_duration = global::TabStrip.Sample.Droid.Resource.Integer.bottom_sheet_slide_duration;
 			global::CarouselView.FormsPlugin.Android.Resource.Integer.cancel_button_image_alpha = global::TabStrip.Sample.Droid.Resource.Integer.cancel_button_image_alpha;
-			global::CarouselView.FormsPlugin.Android.Resource.Integer.default_circle_indicator_orientation = global::TabStrip.Sample.Droid.Resource.Integer.default_circle_indicator_orientation;
 			global::CarouselView.FormsPlugin.Android.Resource.Integer.design_snackbar_text_max_lines = global::TabStrip.Sample.Droid.Resource.Integer.design_snackbar_text_max_lines;
 			global::CarouselView.FormsPlugin.Android.Resource.Integer.hide_password_duration = global::TabStrip.Sample.Droid.Resource.Integer.hide_password_duration;
 			global::CarouselView.FormsPlugin.Android.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::TabStrip.Sample.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
@@ -1170,7 +1141,6 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_navigation_menu = global::TabStrip.Sample.Droid.Resource.Layout.design_navigation_menu;
 			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_navigation_menu_item = global::TabStrip.Sample.Droid.Resource.Layout.design_navigation_menu_item;
 			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_text_input_password_icon = global::TabStrip.Sample.Droid.Resource.Layout.design_text_input_password_icon;
-			global::CarouselView.FormsPlugin.Android.Resource.Layout.horizontal_viewpager = global::TabStrip.Sample.Droid.Resource.Layout.horizontal_viewpager;
 			global::CarouselView.FormsPlugin.Android.Resource.Layout.mr_chooser_dialog = global::TabStrip.Sample.Droid.Resource.Layout.mr_chooser_dialog;
 			global::CarouselView.FormsPlugin.Android.Resource.Layout.mr_chooser_list_item = global::TabStrip.Sample.Droid.Resource.Layout.mr_chooser_list_item;
 			global::CarouselView.FormsPlugin.Android.Resource.Layout.mr_controller_material_dialog_b = global::TabStrip.Sample.Droid.Resource.Layout.mr_controller_material_dialog_b;
@@ -1196,7 +1166,6 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Layout.select_dialog_multichoice_material = global::TabStrip.Sample.Droid.Resource.Layout.select_dialog_multichoice_material;
 			global::CarouselView.FormsPlugin.Android.Resource.Layout.select_dialog_singlechoice_material = global::TabStrip.Sample.Droid.Resource.Layout.select_dialog_singlechoice_material;
 			global::CarouselView.FormsPlugin.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::TabStrip.Sample.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::CarouselView.FormsPlugin.Android.Resource.Layout.vertical_viewpager = global::TabStrip.Sample.Droid.Resource.Layout.vertical_viewpager;
 			global::CarouselView.FormsPlugin.Android.Resource.String.abc_action_bar_home_description = global::TabStrip.Sample.Droid.Resource.String.abc_action_bar_home_description;
 			global::CarouselView.FormsPlugin.Android.Resource.String.abc_action_bar_home_description_format = global::TabStrip.Sample.Droid.Resource.String.abc_action_bar_home_description_format;
 			global::CarouselView.FormsPlugin.Android.Resource.String.abc_action_bar_home_subtitle_description_format = global::TabStrip.Sample.Droid.Resource.String.abc_action_bar_home_subtitle_description_format;
@@ -1551,7 +1520,6 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_MediaRouter_Light = global::TabStrip.Sample.Droid.Resource.Style.Theme_MediaRouter_Light;
 			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::TabStrip.Sample.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
 			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_MediaRouter_LightControlPanel = global::TabStrip.Sample.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
-			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_PageIndicatorDefaults = global::TabStrip.Sample.Droid.Resource.Style.Theme_PageIndicatorDefaults;
 			global::CarouselView.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat;
 			global::CarouselView.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::TabStrip.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
 			global::CarouselView.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::TabStrip.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
@@ -1561,7 +1529,6 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::TabStrip.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
 			global::CarouselView.FormsPlugin.Android.Resource.Style.ThemeOverlay_MediaRouter_Dark = global::TabStrip.Sample.Droid.Resource.Style.ThemeOverlay_MediaRouter_Dark;
 			global::CarouselView.FormsPlugin.Android.Resource.Style.ThemeOverlay_MediaRouter_Light = global::TabStrip.Sample.Droid.Resource.Style.ThemeOverlay_MediaRouter_Light;
-			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget = global::TabStrip.Sample.Droid.Resource.Style.Widget;
 			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionBar = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar;
 			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
 			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
@@ -1634,7 +1601,6 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
 			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Toolbar = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Toolbar;
 			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_CirclePageIndicator = global::TabStrip.Sample.Droid.Resource.Style.Widget_CirclePageIndicator;
 			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_Design_AppBarLayout = global::TabStrip.Sample.Droid.Resource.Style.Widget_Design_AppBarLayout;
 			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_Design_BottomNavigationView = global::TabStrip.Sample.Droid.Resource.Style.Widget_Design_BottomNavigationView;
 			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::TabStrip.Sample.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
@@ -1875,15 +1841,6 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_contentPaddingLeft = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_contentPaddingLeft;
 			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_contentPaddingRight = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_contentPaddingRight;
 			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_contentPaddingTop = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_contentPaddingTop;
-			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator;
-			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiCentered = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiCentered;
-			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiFillColor = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiFillColor;
-			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiOrientation = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiOrientation;
-			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiPageColor = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiPageColor;
-			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiRadius = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiRadius;
-			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiSnap = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiSnap;
-			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiStrokeColor = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiStrokeColor;
-			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiStrokeWidth = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiStrokeWidth;
 			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout;
 			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
 			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
@@ -2171,1683 +2128,10 @@ namespace TabStrip.Sample.Droid
 			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::TabStrip.Sample.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
 			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::TabStrip.Sample.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
 			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::TabStrip.Sample.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewPagerIndicator = global::TabStrip.Sample.Droid.Resource.Styleable.ViewPagerIndicator;
-			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewPagerIndicator_vpiCirclePageIndicatorStyle = global::TabStrip.Sample.Droid.Resource.Styleable.ViewPagerIndicator_vpiCirclePageIndicatorStyle;
 			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewStubCompat = global::TabStrip.Sample.Droid.Resource.Styleable.ViewStubCompat;
 			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewStubCompat_android_id = global::TabStrip.Sample.Droid.Resource.Styleable.ViewStubCompat_android_id;
 			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::TabStrip.Sample.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
 			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewStubCompat_android_layout = global::TabStrip.Sample.Droid.Resource.Styleable.ViewStubCompat_android_layout;
-			global::TabStrip.FormsPlugin.Android.Resource.Animation.abc_fade_in = global::TabStrip.Sample.Droid.Resource.Animation.abc_fade_in;
-			global::TabStrip.FormsPlugin.Android.Resource.Animation.abc_fade_out = global::TabStrip.Sample.Droid.Resource.Animation.abc_fade_out;
-			global::TabStrip.FormsPlugin.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::TabStrip.Sample.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::TabStrip.FormsPlugin.Android.Resource.Animation.abc_popup_enter = global::TabStrip.Sample.Droid.Resource.Animation.abc_popup_enter;
-			global::TabStrip.FormsPlugin.Android.Resource.Animation.abc_popup_exit = global::TabStrip.Sample.Droid.Resource.Animation.abc_popup_exit;
-			global::TabStrip.FormsPlugin.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::TabStrip.Sample.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::TabStrip.FormsPlugin.Android.Resource.Animation.abc_slide_in_bottom = global::TabStrip.Sample.Droid.Resource.Animation.abc_slide_in_bottom;
-			global::TabStrip.FormsPlugin.Android.Resource.Animation.abc_slide_in_top = global::TabStrip.Sample.Droid.Resource.Animation.abc_slide_in_top;
-			global::TabStrip.FormsPlugin.Android.Resource.Animation.abc_slide_out_bottom = global::TabStrip.Sample.Droid.Resource.Animation.abc_slide_out_bottom;
-			global::TabStrip.FormsPlugin.Android.Resource.Animation.abc_slide_out_top = global::TabStrip.Sample.Droid.Resource.Animation.abc_slide_out_top;
-			global::TabStrip.FormsPlugin.Android.Resource.Animation.design_bottom_sheet_slide_in = global::TabStrip.Sample.Droid.Resource.Animation.design_bottom_sheet_slide_in;
-			global::TabStrip.FormsPlugin.Android.Resource.Animation.design_bottom_sheet_slide_out = global::TabStrip.Sample.Droid.Resource.Animation.design_bottom_sheet_slide_out;
-			global::TabStrip.FormsPlugin.Android.Resource.Animation.design_snackbar_in = global::TabStrip.Sample.Droid.Resource.Animation.design_snackbar_in;
-			global::TabStrip.FormsPlugin.Android.Resource.Animation.design_snackbar_out = global::TabStrip.Sample.Droid.Resource.Animation.design_snackbar_out;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionBarDivider = global::TabStrip.Sample.Droid.Resource.Attribute.actionBarDivider;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionBarItemBackground = global::TabStrip.Sample.Droid.Resource.Attribute.actionBarItemBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionBarPopupTheme = global::TabStrip.Sample.Droid.Resource.Attribute.actionBarPopupTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionBarSize = global::TabStrip.Sample.Droid.Resource.Attribute.actionBarSize;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionBarSplitStyle = global::TabStrip.Sample.Droid.Resource.Attribute.actionBarSplitStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionBarStyle = global::TabStrip.Sample.Droid.Resource.Attribute.actionBarStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionBarTabBarStyle = global::TabStrip.Sample.Droid.Resource.Attribute.actionBarTabBarStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionBarTabStyle = global::TabStrip.Sample.Droid.Resource.Attribute.actionBarTabStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionBarTabTextStyle = global::TabStrip.Sample.Droid.Resource.Attribute.actionBarTabTextStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionBarTheme = global::TabStrip.Sample.Droid.Resource.Attribute.actionBarTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionBarWidgetTheme = global::TabStrip.Sample.Droid.Resource.Attribute.actionBarWidgetTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionButtonStyle = global::TabStrip.Sample.Droid.Resource.Attribute.actionButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionDropDownStyle = global::TabStrip.Sample.Droid.Resource.Attribute.actionDropDownStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionLayout = global::TabStrip.Sample.Droid.Resource.Attribute.actionLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionMenuTextAppearance = global::TabStrip.Sample.Droid.Resource.Attribute.actionMenuTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionMenuTextColor = global::TabStrip.Sample.Droid.Resource.Attribute.actionMenuTextColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionModeBackground = global::TabStrip.Sample.Droid.Resource.Attribute.actionModeBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionModeCloseButtonStyle = global::TabStrip.Sample.Droid.Resource.Attribute.actionModeCloseButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionModeCloseDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.actionModeCloseDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionModeCopyDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.actionModeCopyDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionModeCutDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.actionModeCutDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionModeFindDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.actionModeFindDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionModePasteDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.actionModePasteDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionModePopupWindowStyle = global::TabStrip.Sample.Droid.Resource.Attribute.actionModePopupWindowStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionModeSelectAllDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.actionModeSelectAllDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionModeShareDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.actionModeShareDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionModeSplitBackground = global::TabStrip.Sample.Droid.Resource.Attribute.actionModeSplitBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionModeStyle = global::TabStrip.Sample.Droid.Resource.Attribute.actionModeStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionModeWebSearchDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.actionModeWebSearchDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionOverflowButtonStyle = global::TabStrip.Sample.Droid.Resource.Attribute.actionOverflowButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionOverflowMenuStyle = global::TabStrip.Sample.Droid.Resource.Attribute.actionOverflowMenuStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionProviderClass = global::TabStrip.Sample.Droid.Resource.Attribute.actionProviderClass;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.actionViewClass = global::TabStrip.Sample.Droid.Resource.Attribute.actionViewClass;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.activityChooserViewStyle = global::TabStrip.Sample.Droid.Resource.Attribute.activityChooserViewStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::TabStrip.Sample.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.alertDialogCenterButtons = global::TabStrip.Sample.Droid.Resource.Attribute.alertDialogCenterButtons;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.alertDialogStyle = global::TabStrip.Sample.Droid.Resource.Attribute.alertDialogStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.alertDialogTheme = global::TabStrip.Sample.Droid.Resource.Attribute.alertDialogTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.allowStacking = global::TabStrip.Sample.Droid.Resource.Attribute.allowStacking;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.arrowHeadLength = global::TabStrip.Sample.Droid.Resource.Attribute.arrowHeadLength;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.arrowShaftLength = global::TabStrip.Sample.Droid.Resource.Attribute.arrowShaftLength;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.autoCompleteTextViewStyle = global::TabStrip.Sample.Droid.Resource.Attribute.autoCompleteTextViewStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.background = global::TabStrip.Sample.Droid.Resource.Attribute.background;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.backgroundSplit = global::TabStrip.Sample.Droid.Resource.Attribute.backgroundSplit;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.backgroundStacked = global::TabStrip.Sample.Droid.Resource.Attribute.backgroundStacked;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.backgroundTint = global::TabStrip.Sample.Droid.Resource.Attribute.backgroundTint;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.backgroundTintMode = global::TabStrip.Sample.Droid.Resource.Attribute.backgroundTintMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.barLength = global::TabStrip.Sample.Droid.Resource.Attribute.barLength;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.behavior_hideable = global::TabStrip.Sample.Droid.Resource.Attribute.behavior_hideable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.behavior_overlapTop = global::TabStrip.Sample.Droid.Resource.Attribute.behavior_overlapTop;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.behavior_peekHeight = global::TabStrip.Sample.Droid.Resource.Attribute.behavior_peekHeight;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.borderWidth = global::TabStrip.Sample.Droid.Resource.Attribute.borderWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.borderlessButtonStyle = global::TabStrip.Sample.Droid.Resource.Attribute.borderlessButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.bottomSheetDialogTheme = global::TabStrip.Sample.Droid.Resource.Attribute.bottomSheetDialogTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.bottomSheetStyle = global::TabStrip.Sample.Droid.Resource.Attribute.bottomSheetStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.buttonBarButtonStyle = global::TabStrip.Sample.Droid.Resource.Attribute.buttonBarButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::TabStrip.Sample.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::TabStrip.Sample.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::TabStrip.Sample.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.buttonBarStyle = global::TabStrip.Sample.Droid.Resource.Attribute.buttonBarStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.buttonPanelSideLayout = global::TabStrip.Sample.Droid.Resource.Attribute.buttonPanelSideLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.buttonStyle = global::TabStrip.Sample.Droid.Resource.Attribute.buttonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.buttonStyleSmall = global::TabStrip.Sample.Droid.Resource.Attribute.buttonStyleSmall;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.buttonTint = global::TabStrip.Sample.Droid.Resource.Attribute.buttonTint;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.buttonTintMode = global::TabStrip.Sample.Droid.Resource.Attribute.buttonTintMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.cardBackgroundColor = global::TabStrip.Sample.Droid.Resource.Attribute.cardBackgroundColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.cardCornerRadius = global::TabStrip.Sample.Droid.Resource.Attribute.cardCornerRadius;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.cardElevation = global::TabStrip.Sample.Droid.Resource.Attribute.cardElevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.cardMaxElevation = global::TabStrip.Sample.Droid.Resource.Attribute.cardMaxElevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.cardPreventCornerOverlap = global::TabStrip.Sample.Droid.Resource.Attribute.cardPreventCornerOverlap;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.cardUseCompatPadding = global::TabStrip.Sample.Droid.Resource.Attribute.cardUseCompatPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.checkboxStyle = global::TabStrip.Sample.Droid.Resource.Attribute.checkboxStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.checkedTextViewStyle = global::TabStrip.Sample.Droid.Resource.Attribute.checkedTextViewStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.closeIcon = global::TabStrip.Sample.Droid.Resource.Attribute.closeIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.closeItemLayout = global::TabStrip.Sample.Droid.Resource.Attribute.closeItemLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.collapseContentDescription = global::TabStrip.Sample.Droid.Resource.Attribute.collapseContentDescription;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.collapseIcon = global::TabStrip.Sample.Droid.Resource.Attribute.collapseIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.collapsedTitleGravity = global::TabStrip.Sample.Droid.Resource.Attribute.collapsedTitleGravity;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.collapsedTitleTextAppearance = global::TabStrip.Sample.Droid.Resource.Attribute.collapsedTitleTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.color = global::TabStrip.Sample.Droid.Resource.Attribute.color;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.colorAccent = global::TabStrip.Sample.Droid.Resource.Attribute.colorAccent;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.colorButtonNormal = global::TabStrip.Sample.Droid.Resource.Attribute.colorButtonNormal;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.colorControlActivated = global::TabStrip.Sample.Droid.Resource.Attribute.colorControlActivated;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.colorControlHighlight = global::TabStrip.Sample.Droid.Resource.Attribute.colorControlHighlight;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.colorControlNormal = global::TabStrip.Sample.Droid.Resource.Attribute.colorControlNormal;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.colorPrimary = global::TabStrip.Sample.Droid.Resource.Attribute.colorPrimary;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.colorPrimaryDark = global::TabStrip.Sample.Droid.Resource.Attribute.colorPrimaryDark;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.colorSwitchThumbNormal = global::TabStrip.Sample.Droid.Resource.Attribute.colorSwitchThumbNormal;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.commitIcon = global::TabStrip.Sample.Droid.Resource.Attribute.commitIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.contentInsetEnd = global::TabStrip.Sample.Droid.Resource.Attribute.contentInsetEnd;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.contentInsetLeft = global::TabStrip.Sample.Droid.Resource.Attribute.contentInsetLeft;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.contentInsetRight = global::TabStrip.Sample.Droid.Resource.Attribute.contentInsetRight;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.contentInsetStart = global::TabStrip.Sample.Droid.Resource.Attribute.contentInsetStart;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.contentPadding = global::TabStrip.Sample.Droid.Resource.Attribute.contentPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.contentPaddingBottom = global::TabStrip.Sample.Droid.Resource.Attribute.contentPaddingBottom;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.contentPaddingLeft = global::TabStrip.Sample.Droid.Resource.Attribute.contentPaddingLeft;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.contentPaddingRight = global::TabStrip.Sample.Droid.Resource.Attribute.contentPaddingRight;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.contentPaddingTop = global::TabStrip.Sample.Droid.Resource.Attribute.contentPaddingTop;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.contentScrim = global::TabStrip.Sample.Droid.Resource.Attribute.contentScrim;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.controlBackground = global::TabStrip.Sample.Droid.Resource.Attribute.controlBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.counterEnabled = global::TabStrip.Sample.Droid.Resource.Attribute.counterEnabled;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.counterMaxLength = global::TabStrip.Sample.Droid.Resource.Attribute.counterMaxLength;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.counterOverflowTextAppearance = global::TabStrip.Sample.Droid.Resource.Attribute.counterOverflowTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.counterTextAppearance = global::TabStrip.Sample.Droid.Resource.Attribute.counterTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.customNavigationLayout = global::TabStrip.Sample.Droid.Resource.Attribute.customNavigationLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.defaultQueryHint = global::TabStrip.Sample.Droid.Resource.Attribute.defaultQueryHint;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.dialogPreferredPadding = global::TabStrip.Sample.Droid.Resource.Attribute.dialogPreferredPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.dialogTheme = global::TabStrip.Sample.Droid.Resource.Attribute.dialogTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.displayOptions = global::TabStrip.Sample.Droid.Resource.Attribute.displayOptions;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.divider = global::TabStrip.Sample.Droid.Resource.Attribute.divider;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.dividerHorizontal = global::TabStrip.Sample.Droid.Resource.Attribute.dividerHorizontal;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.dividerPadding = global::TabStrip.Sample.Droid.Resource.Attribute.dividerPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.dividerVertical = global::TabStrip.Sample.Droid.Resource.Attribute.dividerVertical;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.drawableSize = global::TabStrip.Sample.Droid.Resource.Attribute.drawableSize;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.drawerArrowStyle = global::TabStrip.Sample.Droid.Resource.Attribute.drawerArrowStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.dropDownListViewStyle = global::TabStrip.Sample.Droid.Resource.Attribute.dropDownListViewStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::TabStrip.Sample.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.editTextBackground = global::TabStrip.Sample.Droid.Resource.Attribute.editTextBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.editTextColor = global::TabStrip.Sample.Droid.Resource.Attribute.editTextColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.editTextStyle = global::TabStrip.Sample.Droid.Resource.Attribute.editTextStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.elevation = global::TabStrip.Sample.Droid.Resource.Attribute.elevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.errorEnabled = global::TabStrip.Sample.Droid.Resource.Attribute.errorEnabled;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.errorTextAppearance = global::TabStrip.Sample.Droid.Resource.Attribute.errorTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.expanded = global::TabStrip.Sample.Droid.Resource.Attribute.expanded;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.expandedTitleGravity = global::TabStrip.Sample.Droid.Resource.Attribute.expandedTitleGravity;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.expandedTitleMargin = global::TabStrip.Sample.Droid.Resource.Attribute.expandedTitleMargin;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.expandedTitleMarginBottom = global::TabStrip.Sample.Droid.Resource.Attribute.expandedTitleMarginBottom;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.expandedTitleMarginEnd = global::TabStrip.Sample.Droid.Resource.Attribute.expandedTitleMarginEnd;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.expandedTitleMarginStart = global::TabStrip.Sample.Droid.Resource.Attribute.expandedTitleMarginStart;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.expandedTitleMarginTop = global::TabStrip.Sample.Droid.Resource.Attribute.expandedTitleMarginTop;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.expandedTitleTextAppearance = global::TabStrip.Sample.Droid.Resource.Attribute.expandedTitleTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.externalRouteEnabledDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.externalRouteEnabledDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.fabSize = global::TabStrip.Sample.Droid.Resource.Attribute.fabSize;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.foregroundInsidePadding = global::TabStrip.Sample.Droid.Resource.Attribute.foregroundInsidePadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.gapBetweenBars = global::TabStrip.Sample.Droid.Resource.Attribute.gapBetweenBars;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.goIcon = global::TabStrip.Sample.Droid.Resource.Attribute.goIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.headerLayout = global::TabStrip.Sample.Droid.Resource.Attribute.headerLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.height = global::TabStrip.Sample.Droid.Resource.Attribute.height;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.hideOnContentScroll = global::TabStrip.Sample.Droid.Resource.Attribute.hideOnContentScroll;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.hintAnimationEnabled = global::TabStrip.Sample.Droid.Resource.Attribute.hintAnimationEnabled;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.hintEnabled = global::TabStrip.Sample.Droid.Resource.Attribute.hintEnabled;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.hintTextAppearance = global::TabStrip.Sample.Droid.Resource.Attribute.hintTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.homeAsUpIndicator = global::TabStrip.Sample.Droid.Resource.Attribute.homeAsUpIndicator;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.homeLayout = global::TabStrip.Sample.Droid.Resource.Attribute.homeLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.icon = global::TabStrip.Sample.Droid.Resource.Attribute.icon;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.iconifiedByDefault = global::TabStrip.Sample.Droid.Resource.Attribute.iconifiedByDefault;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.imageButtonStyle = global::TabStrip.Sample.Droid.Resource.Attribute.imageButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.indeterminateProgressStyle = global::TabStrip.Sample.Droid.Resource.Attribute.indeterminateProgressStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.initialActivityCount = global::TabStrip.Sample.Droid.Resource.Attribute.initialActivityCount;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.insetForeground = global::TabStrip.Sample.Droid.Resource.Attribute.insetForeground;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.isLightTheme = global::TabStrip.Sample.Droid.Resource.Attribute.isLightTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.itemBackground = global::TabStrip.Sample.Droid.Resource.Attribute.itemBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.itemIconTint = global::TabStrip.Sample.Droid.Resource.Attribute.itemIconTint;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.itemPadding = global::TabStrip.Sample.Droid.Resource.Attribute.itemPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.itemTextAppearance = global::TabStrip.Sample.Droid.Resource.Attribute.itemTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.itemTextColor = global::TabStrip.Sample.Droid.Resource.Attribute.itemTextColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.keylines = global::TabStrip.Sample.Droid.Resource.Attribute.keylines;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.layout = global::TabStrip.Sample.Droid.Resource.Attribute.layout;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.layoutManager = global::TabStrip.Sample.Droid.Resource.Attribute.layoutManager;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.layout_anchor = global::TabStrip.Sample.Droid.Resource.Attribute.layout_anchor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.layout_anchorGravity = global::TabStrip.Sample.Droid.Resource.Attribute.layout_anchorGravity;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.layout_behavior = global::TabStrip.Sample.Droid.Resource.Attribute.layout_behavior;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.layout_collapseMode = global::TabStrip.Sample.Droid.Resource.Attribute.layout_collapseMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::TabStrip.Sample.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.layout_keyline = global::TabStrip.Sample.Droid.Resource.Attribute.layout_keyline;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.layout_scrollFlags = global::TabStrip.Sample.Droid.Resource.Attribute.layout_scrollFlags;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.layout_scrollInterpolator = global::TabStrip.Sample.Droid.Resource.Attribute.layout_scrollInterpolator;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::TabStrip.Sample.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.listDividerAlertDialog = global::TabStrip.Sample.Droid.Resource.Attribute.listDividerAlertDialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.listItemLayout = global::TabStrip.Sample.Droid.Resource.Attribute.listItemLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.listLayout = global::TabStrip.Sample.Droid.Resource.Attribute.listLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.listPopupWindowStyle = global::TabStrip.Sample.Droid.Resource.Attribute.listPopupWindowStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.listPreferredItemHeight = global::TabStrip.Sample.Droid.Resource.Attribute.listPreferredItemHeight;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.listPreferredItemHeightLarge = global::TabStrip.Sample.Droid.Resource.Attribute.listPreferredItemHeightLarge;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.listPreferredItemHeightSmall = global::TabStrip.Sample.Droid.Resource.Attribute.listPreferredItemHeightSmall;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::TabStrip.Sample.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.listPreferredItemPaddingRight = global::TabStrip.Sample.Droid.Resource.Attribute.listPreferredItemPaddingRight;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.logo = global::TabStrip.Sample.Droid.Resource.Attribute.logo;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.logoDescription = global::TabStrip.Sample.Droid.Resource.Attribute.logoDescription;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.maxActionInlineWidth = global::TabStrip.Sample.Droid.Resource.Attribute.maxActionInlineWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.maxButtonHeight = global::TabStrip.Sample.Droid.Resource.Attribute.maxButtonHeight;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.measureWithLargestChild = global::TabStrip.Sample.Droid.Resource.Attribute.measureWithLargestChild;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.mediaRouteAudioTrackDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.mediaRouteButtonStyle = global::TabStrip.Sample.Droid.Resource.Attribute.mediaRouteButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.mediaRouteCloseDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.mediaRouteCloseDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.mediaRouteDefaultIconDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.mediaRoutePauseDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.mediaRoutePauseDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.mediaRoutePlayDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.mediaRoutePlayDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.mediaRouteTvIconDrawable = global::TabStrip.Sample.Droid.Resource.Attribute.mediaRouteTvIconDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.menu = global::TabStrip.Sample.Droid.Resource.Attribute.menu;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.multiChoiceItemLayout = global::TabStrip.Sample.Droid.Resource.Attribute.multiChoiceItemLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.navigationContentDescription = global::TabStrip.Sample.Droid.Resource.Attribute.navigationContentDescription;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.navigationIcon = global::TabStrip.Sample.Droid.Resource.Attribute.navigationIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.navigationMode = global::TabStrip.Sample.Droid.Resource.Attribute.navigationMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.overlapAnchor = global::TabStrip.Sample.Droid.Resource.Attribute.overlapAnchor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.paddingEnd = global::TabStrip.Sample.Droid.Resource.Attribute.paddingEnd;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.paddingStart = global::TabStrip.Sample.Droid.Resource.Attribute.paddingStart;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.panelBackground = global::TabStrip.Sample.Droid.Resource.Attribute.panelBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.panelMenuListTheme = global::TabStrip.Sample.Droid.Resource.Attribute.panelMenuListTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.panelMenuListWidth = global::TabStrip.Sample.Droid.Resource.Attribute.panelMenuListWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.popupMenuStyle = global::TabStrip.Sample.Droid.Resource.Attribute.popupMenuStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.popupTheme = global::TabStrip.Sample.Droid.Resource.Attribute.popupTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.popupWindowStyle = global::TabStrip.Sample.Droid.Resource.Attribute.popupWindowStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.preserveIconSpacing = global::TabStrip.Sample.Droid.Resource.Attribute.preserveIconSpacing;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.pressedTranslationZ = global::TabStrip.Sample.Droid.Resource.Attribute.pressedTranslationZ;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.progressBarPadding = global::TabStrip.Sample.Droid.Resource.Attribute.progressBarPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.progressBarStyle = global::TabStrip.Sample.Droid.Resource.Attribute.progressBarStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.queryBackground = global::TabStrip.Sample.Droid.Resource.Attribute.queryBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.queryHint = global::TabStrip.Sample.Droid.Resource.Attribute.queryHint;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.radioButtonStyle = global::TabStrip.Sample.Droid.Resource.Attribute.radioButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.ratingBarStyle = global::TabStrip.Sample.Droid.Resource.Attribute.ratingBarStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.ratingBarStyleIndicator = global::TabStrip.Sample.Droid.Resource.Attribute.ratingBarStyleIndicator;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.ratingBarStyleSmall = global::TabStrip.Sample.Droid.Resource.Attribute.ratingBarStyleSmall;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.reverseLayout = global::TabStrip.Sample.Droid.Resource.Attribute.reverseLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.rippleColor = global::TabStrip.Sample.Droid.Resource.Attribute.rippleColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.searchHintIcon = global::TabStrip.Sample.Droid.Resource.Attribute.searchHintIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.searchIcon = global::TabStrip.Sample.Droid.Resource.Attribute.searchIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.searchViewStyle = global::TabStrip.Sample.Droid.Resource.Attribute.searchViewStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.seekBarStyle = global::TabStrip.Sample.Droid.Resource.Attribute.seekBarStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.selectableItemBackground = global::TabStrip.Sample.Droid.Resource.Attribute.selectableItemBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::TabStrip.Sample.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.showAsAction = global::TabStrip.Sample.Droid.Resource.Attribute.showAsAction;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.showDividers = global::TabStrip.Sample.Droid.Resource.Attribute.showDividers;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.showText = global::TabStrip.Sample.Droid.Resource.Attribute.showText;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.singleChoiceItemLayout = global::TabStrip.Sample.Droid.Resource.Attribute.singleChoiceItemLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.spanCount = global::TabStrip.Sample.Droid.Resource.Attribute.spanCount;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.spinBars = global::TabStrip.Sample.Droid.Resource.Attribute.spinBars;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.spinnerDropDownItemStyle = global::TabStrip.Sample.Droid.Resource.Attribute.spinnerDropDownItemStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.spinnerStyle = global::TabStrip.Sample.Droid.Resource.Attribute.spinnerStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.splitTrack = global::TabStrip.Sample.Droid.Resource.Attribute.splitTrack;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.srcCompat = global::TabStrip.Sample.Droid.Resource.Attribute.srcCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.stackFromEnd = global::TabStrip.Sample.Droid.Resource.Attribute.stackFromEnd;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.state_above_anchor = global::TabStrip.Sample.Droid.Resource.Attribute.state_above_anchor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.statusBarBackground = global::TabStrip.Sample.Droid.Resource.Attribute.statusBarBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.statusBarScrim = global::TabStrip.Sample.Droid.Resource.Attribute.statusBarScrim;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.submitBackground = global::TabStrip.Sample.Droid.Resource.Attribute.submitBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.subtitle = global::TabStrip.Sample.Droid.Resource.Attribute.subtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.subtitleTextAppearance = global::TabStrip.Sample.Droid.Resource.Attribute.subtitleTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.subtitleTextColor = global::TabStrip.Sample.Droid.Resource.Attribute.subtitleTextColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.subtitleTextStyle = global::TabStrip.Sample.Droid.Resource.Attribute.subtitleTextStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.suggestionRowLayout = global::TabStrip.Sample.Droid.Resource.Attribute.suggestionRowLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.switchMinWidth = global::TabStrip.Sample.Droid.Resource.Attribute.switchMinWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.switchPadding = global::TabStrip.Sample.Droid.Resource.Attribute.switchPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.switchStyle = global::TabStrip.Sample.Droid.Resource.Attribute.switchStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.switchTextAppearance = global::TabStrip.Sample.Droid.Resource.Attribute.switchTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabBackground = global::TabStrip.Sample.Droid.Resource.Attribute.tabBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabContentStart = global::TabStrip.Sample.Droid.Resource.Attribute.tabContentStart;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabGravity = global::TabStrip.Sample.Droid.Resource.Attribute.tabGravity;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabIndicatorColor = global::TabStrip.Sample.Droid.Resource.Attribute.tabIndicatorColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabIndicatorHeight = global::TabStrip.Sample.Droid.Resource.Attribute.tabIndicatorHeight;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabMaxWidth = global::TabStrip.Sample.Droid.Resource.Attribute.tabMaxWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabMinWidth = global::TabStrip.Sample.Droid.Resource.Attribute.tabMinWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabMode = global::TabStrip.Sample.Droid.Resource.Attribute.tabMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabPadding = global::TabStrip.Sample.Droid.Resource.Attribute.tabPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabPaddingBottom = global::TabStrip.Sample.Droid.Resource.Attribute.tabPaddingBottom;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabPaddingEnd = global::TabStrip.Sample.Droid.Resource.Attribute.tabPaddingEnd;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabPaddingStart = global::TabStrip.Sample.Droid.Resource.Attribute.tabPaddingStart;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabPaddingTop = global::TabStrip.Sample.Droid.Resource.Attribute.tabPaddingTop;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabSelectedTextColor = global::TabStrip.Sample.Droid.Resource.Attribute.tabSelectedTextColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabTextAppearance = global::TabStrip.Sample.Droid.Resource.Attribute.tabTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.tabTextColor = global::TabStrip.Sample.Droid.Resource.Attribute.tabTextColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.textAllCaps = global::TabStrip.Sample.Droid.Resource.Attribute.textAllCaps;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::TabStrip.Sample.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.textAppearanceListItem = global::TabStrip.Sample.Droid.Resource.Attribute.textAppearanceListItem;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.textAppearanceListItemSmall = global::TabStrip.Sample.Droid.Resource.Attribute.textAppearanceListItemSmall;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::TabStrip.Sample.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::TabStrip.Sample.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::TabStrip.Sample.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.textColorAlertDialogListItem = global::TabStrip.Sample.Droid.Resource.Attribute.textColorAlertDialogListItem;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.textColorError = global::TabStrip.Sample.Droid.Resource.Attribute.textColorError;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.textColorSearchUrl = global::TabStrip.Sample.Droid.Resource.Attribute.textColorSearchUrl;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.theme = global::TabStrip.Sample.Droid.Resource.Attribute.theme;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.thickness = global::TabStrip.Sample.Droid.Resource.Attribute.thickness;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.thumbTextPadding = global::TabStrip.Sample.Droid.Resource.Attribute.thumbTextPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.title = global::TabStrip.Sample.Droid.Resource.Attribute.title;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.titleEnabled = global::TabStrip.Sample.Droid.Resource.Attribute.titleEnabled;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.titleMarginBottom = global::TabStrip.Sample.Droid.Resource.Attribute.titleMarginBottom;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.titleMarginEnd = global::TabStrip.Sample.Droid.Resource.Attribute.titleMarginEnd;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.titleMarginStart = global::TabStrip.Sample.Droid.Resource.Attribute.titleMarginStart;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.titleMarginTop = global::TabStrip.Sample.Droid.Resource.Attribute.titleMarginTop;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.titleMargins = global::TabStrip.Sample.Droid.Resource.Attribute.titleMargins;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.titleTextAppearance = global::TabStrip.Sample.Droid.Resource.Attribute.titleTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.titleTextColor = global::TabStrip.Sample.Droid.Resource.Attribute.titleTextColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.titleTextStyle = global::TabStrip.Sample.Droid.Resource.Attribute.titleTextStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.toolbarId = global::TabStrip.Sample.Droid.Resource.Attribute.toolbarId;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::TabStrip.Sample.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.toolbarStyle = global::TabStrip.Sample.Droid.Resource.Attribute.toolbarStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.track = global::TabStrip.Sample.Droid.Resource.Attribute.track;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.useCompatPadding = global::TabStrip.Sample.Droid.Resource.Attribute.useCompatPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.voiceIcon = global::TabStrip.Sample.Droid.Resource.Attribute.voiceIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.vpiCentered = global::TabStrip.Sample.Droid.Resource.Attribute.vpiCentered;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.vpiCirclePageIndicatorStyle = global::TabStrip.Sample.Droid.Resource.Attribute.vpiCirclePageIndicatorStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.vpiFillColor = global::TabStrip.Sample.Droid.Resource.Attribute.vpiFillColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.vpiOrientation = global::TabStrip.Sample.Droid.Resource.Attribute.vpiOrientation;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.vpiPageColor = global::TabStrip.Sample.Droid.Resource.Attribute.vpiPageColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.vpiRadius = global::TabStrip.Sample.Droid.Resource.Attribute.vpiRadius;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.vpiSnap = global::TabStrip.Sample.Droid.Resource.Attribute.vpiSnap;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.vpiStrokeColor = global::TabStrip.Sample.Droid.Resource.Attribute.vpiStrokeColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.vpiStrokeWidth = global::TabStrip.Sample.Droid.Resource.Attribute.vpiStrokeWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.windowActionBar = global::TabStrip.Sample.Droid.Resource.Attribute.windowActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.windowActionBarOverlay = global::TabStrip.Sample.Droid.Resource.Attribute.windowActionBarOverlay;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.windowActionModeOverlay = global::TabStrip.Sample.Droid.Resource.Attribute.windowActionModeOverlay;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.windowFixedHeightMajor = global::TabStrip.Sample.Droid.Resource.Attribute.windowFixedHeightMajor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.windowFixedHeightMinor = global::TabStrip.Sample.Droid.Resource.Attribute.windowFixedHeightMinor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.windowFixedWidthMajor = global::TabStrip.Sample.Droid.Resource.Attribute.windowFixedWidthMajor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.windowFixedWidthMinor = global::TabStrip.Sample.Droid.Resource.Attribute.windowFixedWidthMinor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.windowMinWidthMajor = global::TabStrip.Sample.Droid.Resource.Attribute.windowMinWidthMajor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.windowMinWidthMinor = global::TabStrip.Sample.Droid.Resource.Attribute.windowMinWidthMinor;
-			global::TabStrip.FormsPlugin.Android.Resource.Attribute.windowNoTitle = global::TabStrip.Sample.Droid.Resource.Attribute.windowNoTitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::TabStrip.Sample.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::TabStrip.FormsPlugin.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::TabStrip.Sample.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
-			global::TabStrip.FormsPlugin.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::TabStrip.Sample.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::TabStrip.FormsPlugin.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::TabStrip.Sample.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
-			global::TabStrip.FormsPlugin.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::TabStrip.Sample.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
-			global::TabStrip.FormsPlugin.Android.Resource.Boolean.default_circle_indicator_centered = global::TabStrip.Sample.Droid.Resource.Boolean.default_circle_indicator_centered;
-			global::TabStrip.FormsPlugin.Android.Resource.Boolean.default_circle_indicator_snap = global::TabStrip.Sample.Droid.Resource.Boolean.default_circle_indicator_snap;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::TabStrip.Sample.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::TabStrip.Sample.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.abc_color_highlight_material = global::TabStrip.Sample.Droid.Resource.Color.abc_color_highlight_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.abc_input_method_navigation_guard = global::TabStrip.Sample.Droid.Resource.Color.abc_input_method_navigation_guard;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::TabStrip.Sample.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::TabStrip.Sample.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.abc_primary_text_material_dark = global::TabStrip.Sample.Droid.Resource.Color.abc_primary_text_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.abc_primary_text_material_light = global::TabStrip.Sample.Droid.Resource.Color.abc_primary_text_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.abc_search_url_text = global::TabStrip.Sample.Droid.Resource.Color.abc_search_url_text;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.abc_search_url_text_normal = global::TabStrip.Sample.Droid.Resource.Color.abc_search_url_text_normal;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.abc_search_url_text_pressed = global::TabStrip.Sample.Droid.Resource.Color.abc_search_url_text_pressed;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.abc_search_url_text_selected = global::TabStrip.Sample.Droid.Resource.Color.abc_search_url_text_selected;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.abc_secondary_text_material_dark = global::TabStrip.Sample.Droid.Resource.Color.abc_secondary_text_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.abc_secondary_text_material_light = global::TabStrip.Sample.Droid.Resource.Color.abc_secondary_text_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.accent_material_dark = global::TabStrip.Sample.Droid.Resource.Color.accent_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.accent_material_light = global::TabStrip.Sample.Droid.Resource.Color.accent_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.background_floating_material_dark = global::TabStrip.Sample.Droid.Resource.Color.background_floating_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.background_floating_material_light = global::TabStrip.Sample.Droid.Resource.Color.background_floating_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.background_material_dark = global::TabStrip.Sample.Droid.Resource.Color.background_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.background_material_light = global::TabStrip.Sample.Droid.Resource.Color.background_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.bright_foreground_disabled_material_dark = global::TabStrip.Sample.Droid.Resource.Color.bright_foreground_disabled_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.bright_foreground_disabled_material_light = global::TabStrip.Sample.Droid.Resource.Color.bright_foreground_disabled_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.bright_foreground_inverse_material_dark = global::TabStrip.Sample.Droid.Resource.Color.bright_foreground_inverse_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.bright_foreground_inverse_material_light = global::TabStrip.Sample.Droid.Resource.Color.bright_foreground_inverse_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.bright_foreground_material_dark = global::TabStrip.Sample.Droid.Resource.Color.bright_foreground_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.bright_foreground_material_light = global::TabStrip.Sample.Droid.Resource.Color.bright_foreground_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.button_material_dark = global::TabStrip.Sample.Droid.Resource.Color.button_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.button_material_light = global::TabStrip.Sample.Droid.Resource.Color.button_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.cardview_dark_background = global::TabStrip.Sample.Droid.Resource.Color.cardview_dark_background;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.cardview_light_background = global::TabStrip.Sample.Droid.Resource.Color.cardview_light_background;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.cardview_shadow_end_color = global::TabStrip.Sample.Droid.Resource.Color.cardview_shadow_end_color;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.cardview_shadow_start_color = global::TabStrip.Sample.Droid.Resource.Color.cardview_shadow_start_color;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.default_circle_indicator_fill_color = global::TabStrip.Sample.Droid.Resource.Color.default_circle_indicator_fill_color;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.default_circle_indicator_page_color = global::TabStrip.Sample.Droid.Resource.Color.default_circle_indicator_page_color;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.default_circle_indicator_stroke_color = global::TabStrip.Sample.Droid.Resource.Color.default_circle_indicator_stroke_color;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.design_fab_shadow_end_color = global::TabStrip.Sample.Droid.Resource.Color.design_fab_shadow_end_color;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.design_fab_shadow_mid_color = global::TabStrip.Sample.Droid.Resource.Color.design_fab_shadow_mid_color;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.design_fab_shadow_start_color = global::TabStrip.Sample.Droid.Resource.Color.design_fab_shadow_start_color;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.design_fab_stroke_end_inner_color = global::TabStrip.Sample.Droid.Resource.Color.design_fab_stroke_end_inner_color;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.design_fab_stroke_end_outer_color = global::TabStrip.Sample.Droid.Resource.Color.design_fab_stroke_end_outer_color;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.design_fab_stroke_top_inner_color = global::TabStrip.Sample.Droid.Resource.Color.design_fab_stroke_top_inner_color;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.design_fab_stroke_top_outer_color = global::TabStrip.Sample.Droid.Resource.Color.design_fab_stroke_top_outer_color;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.design_snackbar_background_color = global::TabStrip.Sample.Droid.Resource.Color.design_snackbar_background_color;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.dim_foreground_disabled_material_dark = global::TabStrip.Sample.Droid.Resource.Color.dim_foreground_disabled_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.dim_foreground_disabled_material_light = global::TabStrip.Sample.Droid.Resource.Color.dim_foreground_disabled_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.dim_foreground_material_dark = global::TabStrip.Sample.Droid.Resource.Color.dim_foreground_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.dim_foreground_material_light = global::TabStrip.Sample.Droid.Resource.Color.dim_foreground_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.foreground_material_dark = global::TabStrip.Sample.Droid.Resource.Color.foreground_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.foreground_material_light = global::TabStrip.Sample.Droid.Resource.Color.foreground_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.highlighted_text_material_dark = global::TabStrip.Sample.Droid.Resource.Color.highlighted_text_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.highlighted_text_material_light = global::TabStrip.Sample.Droid.Resource.Color.highlighted_text_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.material_blue_grey_800 = global::TabStrip.Sample.Droid.Resource.Color.material_blue_grey_800;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.material_blue_grey_900 = global::TabStrip.Sample.Droid.Resource.Color.material_blue_grey_900;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.material_blue_grey_950 = global::TabStrip.Sample.Droid.Resource.Color.material_blue_grey_950;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.material_deep_teal_200 = global::TabStrip.Sample.Droid.Resource.Color.material_deep_teal_200;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.material_deep_teal_500 = global::TabStrip.Sample.Droid.Resource.Color.material_deep_teal_500;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.material_grey_100 = global::TabStrip.Sample.Droid.Resource.Color.material_grey_100;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.material_grey_300 = global::TabStrip.Sample.Droid.Resource.Color.material_grey_300;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.material_grey_50 = global::TabStrip.Sample.Droid.Resource.Color.material_grey_50;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.material_grey_600 = global::TabStrip.Sample.Droid.Resource.Color.material_grey_600;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.material_grey_800 = global::TabStrip.Sample.Droid.Resource.Color.material_grey_800;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.material_grey_850 = global::TabStrip.Sample.Droid.Resource.Color.material_grey_850;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.material_grey_900 = global::TabStrip.Sample.Droid.Resource.Color.material_grey_900;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.primary_dark_material_dark = global::TabStrip.Sample.Droid.Resource.Color.primary_dark_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.primary_dark_material_light = global::TabStrip.Sample.Droid.Resource.Color.primary_dark_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.primary_material_dark = global::TabStrip.Sample.Droid.Resource.Color.primary_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.primary_material_light = global::TabStrip.Sample.Droid.Resource.Color.primary_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.primary_text_default_material_dark = global::TabStrip.Sample.Droid.Resource.Color.primary_text_default_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.primary_text_default_material_light = global::TabStrip.Sample.Droid.Resource.Color.primary_text_default_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.primary_text_disabled_material_dark = global::TabStrip.Sample.Droid.Resource.Color.primary_text_disabled_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.primary_text_disabled_material_light = global::TabStrip.Sample.Droid.Resource.Color.primary_text_disabled_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.ripple_material_dark = global::TabStrip.Sample.Droid.Resource.Color.ripple_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.ripple_material_light = global::TabStrip.Sample.Droid.Resource.Color.ripple_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.secondary_text_default_material_dark = global::TabStrip.Sample.Droid.Resource.Color.secondary_text_default_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.secondary_text_default_material_light = global::TabStrip.Sample.Droid.Resource.Color.secondary_text_default_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.secondary_text_disabled_material_dark = global::TabStrip.Sample.Droid.Resource.Color.secondary_text_disabled_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.secondary_text_disabled_material_light = global::TabStrip.Sample.Droid.Resource.Color.secondary_text_disabled_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.switch_thumb_disabled_material_dark = global::TabStrip.Sample.Droid.Resource.Color.switch_thumb_disabled_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.switch_thumb_disabled_material_light = global::TabStrip.Sample.Droid.Resource.Color.switch_thumb_disabled_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.switch_thumb_material_dark = global::TabStrip.Sample.Droid.Resource.Color.switch_thumb_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.switch_thumb_material_light = global::TabStrip.Sample.Droid.Resource.Color.switch_thumb_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.switch_thumb_normal_material_dark = global::TabStrip.Sample.Droid.Resource.Color.switch_thumb_normal_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.switch_thumb_normal_material_light = global::TabStrip.Sample.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.vpi__background_holo_dark = global::TabStrip.Sample.Droid.Resource.Color.vpi__background_holo_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.vpi__background_holo_light = global::TabStrip.Sample.Droid.Resource.Color.vpi__background_holo_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_disabled_holo_dark = global::TabStrip.Sample.Droid.Resource.Color.vpi__bright_foreground_disabled_holo_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_disabled_holo_light = global::TabStrip.Sample.Droid.Resource.Color.vpi__bright_foreground_disabled_holo_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_holo_dark = global::TabStrip.Sample.Droid.Resource.Color.vpi__bright_foreground_holo_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_holo_light = global::TabStrip.Sample.Droid.Resource.Color.vpi__bright_foreground_holo_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_inverse_holo_dark = global::TabStrip.Sample.Droid.Resource.Color.vpi__bright_foreground_inverse_holo_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_inverse_holo_light = global::TabStrip.Sample.Droid.Resource.Color.vpi__bright_foreground_inverse_holo_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_action_bar_default_height_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_bar_default_height_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_action_bar_progress_bar_size = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_action_button_min_height_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_button_min_height_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_action_button_min_width_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_button_min_width_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::TabStrip.Sample.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_button_inset_vertical_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_button_inset_vertical_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_button_padding_vertical_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_button_padding_vertical_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_config_prefDialogWidth = global::TabStrip.Sample.Droid.Resource.Dimension.abc_config_prefDialogWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_control_corner_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_control_corner_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_control_inset_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_control_inset_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_control_padding_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_control_padding_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::TabStrip.Sample.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::TabStrip.Sample.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::TabStrip.Sample.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::TabStrip.Sample.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_dialog_min_width_major = global::TabStrip.Sample.Droid.Resource.Dimension.abc_dialog_min_width_major;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_dialog_min_width_minor = global::TabStrip.Sample.Droid.Resource.Dimension.abc_dialog_min_width_minor;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_dialog_padding_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_dialog_padding_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_dialog_padding_top_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_dialog_padding_top_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::TabStrip.Sample.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::TabStrip.Sample.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::TabStrip.Sample.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::TabStrip.Sample.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::TabStrip.Sample.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_floating_window_z = global::TabStrip.Sample.Droid.Resource.Dimension.abc_floating_window_z;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_panel_menu_list_width = global::TabStrip.Sample.Droid.Resource.Dimension.abc_panel_menu_list_width;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_search_view_preferred_width = global::TabStrip.Sample.Droid.Resource.Dimension.abc_search_view_preferred_width;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_switch_padding = global::TabStrip.Sample.Droid.Resource.Dimension.abc_switch_padding;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_body_1_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_body_1_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_body_2_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_body_2_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_button_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_button_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_caption_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_caption_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_display_1_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_display_1_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_display_2_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_display_2_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_display_3_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_display_3_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_display_4_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_display_4_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_headline_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_headline_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_large_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_large_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_medium_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_medium_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_menu_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_menu_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_small_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_small_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_subhead_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_subhead_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_title_material = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_title_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::TabStrip.Sample.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.cardview_compat_inset_shadow = global::TabStrip.Sample.Droid.Resource.Dimension.cardview_compat_inset_shadow;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.cardview_default_elevation = global::TabStrip.Sample.Droid.Resource.Dimension.cardview_default_elevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.cardview_default_radius = global::TabStrip.Sample.Droid.Resource.Dimension.cardview_default_radius;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.default_circle_indicator_radius = global::TabStrip.Sample.Droid.Resource.Dimension.default_circle_indicator_radius;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.default_circle_indicator_stroke_width = global::TabStrip.Sample.Droid.Resource.Dimension.default_circle_indicator_stroke_width;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_appbar_elevation = global::TabStrip.Sample.Droid.Resource.Dimension.design_appbar_elevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::TabStrip.Sample.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_fab_border_width = global::TabStrip.Sample.Droid.Resource.Dimension.design_fab_border_width;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_fab_elevation = global::TabStrip.Sample.Droid.Resource.Dimension.design_fab_elevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_fab_image_size = global::TabStrip.Sample.Droid.Resource.Dimension.design_fab_image_size;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_fab_size_mini = global::TabStrip.Sample.Droid.Resource.Dimension.design_fab_size_mini;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_fab_size_normal = global::TabStrip.Sample.Droid.Resource.Dimension.design_fab_size_normal;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_fab_translation_z_pressed = global::TabStrip.Sample.Droid.Resource.Dimension.design_fab_translation_z_pressed;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_navigation_elevation = global::TabStrip.Sample.Droid.Resource.Dimension.design_navigation_elevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_navigation_icon_padding = global::TabStrip.Sample.Droid.Resource.Dimension.design_navigation_icon_padding;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_navigation_icon_size = global::TabStrip.Sample.Droid.Resource.Dimension.design_navigation_icon_size;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_navigation_max_width = global::TabStrip.Sample.Droid.Resource.Dimension.design_navigation_max_width;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_navigation_padding_bottom = global::TabStrip.Sample.Droid.Resource.Dimension.design_navigation_padding_bottom;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::TabStrip.Sample.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::TabStrip.Sample.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::TabStrip.Sample.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_snackbar_elevation = global::TabStrip.Sample.Droid.Resource.Dimension.design_snackbar_elevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::TabStrip.Sample.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_snackbar_max_width = global::TabStrip.Sample.Droid.Resource.Dimension.design_snackbar_max_width;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_snackbar_min_width = global::TabStrip.Sample.Droid.Resource.Dimension.design_snackbar_min_width;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::TabStrip.Sample.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_snackbar_padding_vertical = global::TabStrip.Sample.Droid.Resource.Dimension.design_snackbar_padding_vertical;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::TabStrip.Sample.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_snackbar_text_size = global::TabStrip.Sample.Droid.Resource.Dimension.design_snackbar_text_size;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_tab_max_width = global::TabStrip.Sample.Droid.Resource.Dimension.design_tab_max_width;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_tab_scrollable_min_width = global::TabStrip.Sample.Droid.Resource.Dimension.design_tab_scrollable_min_width;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_tab_text_size = global::TabStrip.Sample.Droid.Resource.Dimension.design_tab_text_size;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.design_tab_text_size_2line = global::TabStrip.Sample.Droid.Resource.Dimension.design_tab_text_size_2line;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.disabled_alpha_material_dark = global::TabStrip.Sample.Droid.Resource.Dimension.disabled_alpha_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.disabled_alpha_material_light = global::TabStrip.Sample.Droid.Resource.Dimension.disabled_alpha_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.highlight_alpha_material_colored = global::TabStrip.Sample.Droid.Resource.Dimension.highlight_alpha_material_colored;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.highlight_alpha_material_dark = global::TabStrip.Sample.Droid.Resource.Dimension.highlight_alpha_material_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.highlight_alpha_material_light = global::TabStrip.Sample.Droid.Resource.Dimension.highlight_alpha_material_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::TabStrip.Sample.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::TabStrip.Sample.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::TabStrip.Sample.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.mr_controller_volume_group_list_item_height = global::TabStrip.Sample.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::TabStrip.Sample.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.mr_controller_volume_group_list_max_height = global::TabStrip.Sample.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::TabStrip.Sample.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.mr_dialog_fixed_width_major = global::TabStrip.Sample.Droid.Resource.Dimension.mr_dialog_fixed_width_major;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.mr_dialog_fixed_width_minor = global::TabStrip.Sample.Droid.Resource.Dimension.mr_dialog_fixed_width_minor;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.notification_large_icon_height = global::TabStrip.Sample.Droid.Resource.Dimension.notification_large_icon_height;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.notification_large_icon_width = global::TabStrip.Sample.Droid.Resource.Dimension.notification_large_icon_width;
-			global::TabStrip.FormsPlugin.Android.Resource.Dimension.notification_subtext_size = global::TabStrip.Sample.Droid.Resource.Dimension.notification_subtext_size;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_action_bar_item_background_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_action_bar_item_background_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_btn_borderless_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_btn_borderless_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_btn_check_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_btn_check_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::TabStrip.Sample.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::TabStrip.Sample.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_btn_colored_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_btn_colored_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::TabStrip.Sample.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_btn_radio_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_btn_radio_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::TabStrip.Sample.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::TabStrip.Sample.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::TabStrip.Sample.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::TabStrip.Sample.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_cab_background_internal_bg = global::TabStrip.Sample.Droid.Resource.Drawable.abc_cab_background_internal_bg;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_cab_background_top_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_cab_background_top_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_control_background_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_control_background_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_edit_text_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_edit_text_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_ic_star_black_16dp = global::TabStrip.Sample.Droid.Resource.Drawable.abc_ic_star_black_16dp;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_ic_star_black_36dp = global::TabStrip.Sample.Droid.Resource.Drawable.abc_ic_star_black_36dp;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::TabStrip.Sample.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::TabStrip.Sample.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_item_background_holo_dark = global::TabStrip.Sample.Droid.Resource.Drawable.abc_item_background_holo_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_item_background_holo_light = global::TabStrip.Sample.Droid.Resource.Drawable.abc_item_background_holo_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_list_focused_holo = global::TabStrip.Sample.Droid.Resource.Drawable.abc_list_focused_holo;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_list_longpressed_holo = global::TabStrip.Sample.Droid.Resource.Drawable.abc_list_longpressed_holo;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::TabStrip.Sample.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_list_pressed_holo_light = global::TabStrip.Sample.Droid.Resource.Drawable.abc_list_pressed_holo_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::TabStrip.Sample.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::TabStrip.Sample.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::TabStrip.Sample.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::TabStrip.Sample.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_list_selector_holo_dark = global::TabStrip.Sample.Droid.Resource.Drawable.abc_list_selector_holo_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_list_selector_holo_light = global::TabStrip.Sample.Droid.Resource.Drawable.abc_list_selector_holo_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::TabStrip.Sample.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::TabStrip.Sample.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_ratingbar_small_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_ratingbar_small_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::TabStrip.Sample.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::TabStrip.Sample.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_seekbar_thumb_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_seekbar_thumb_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_seekbar_track_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_seekbar_track_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_switch_thumb_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_switch_thumb_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_tab_indicator_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_tab_indicator_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_text_cursor_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_text_cursor_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::TabStrip.Sample.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.abc_textfield_search_material = global::TabStrip.Sample.Droid.Resource.Drawable.abc_textfield_search_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.design_fab_background = global::TabStrip.Sample.Droid.Resource.Drawable.design_fab_background;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.design_snackbar_background = global::TabStrip.Sample.Droid.Resource.Drawable.design_snackbar_background;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.ic_audiotrack_light = global::TabStrip.Sample.Droid.Resource.Drawable.ic_audiotrack_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.mr_dialog_material_background_dark = global::TabStrip.Sample.Droid.Resource.Drawable.mr_dialog_material_background_dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.mr_dialog_material_background_light = global::TabStrip.Sample.Droid.Resource.Drawable.mr_dialog_material_background_light;
-			global::TabStrip.FormsPlugin.Android.Resource.Drawable.notification_template_icon_bg = global::TabStrip.Sample.Droid.Resource.Drawable.notification_template_icon_bg;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.action0 = global::TabStrip.Sample.Droid.Resource.Id.action0;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.action_bar = global::TabStrip.Sample.Droid.Resource.Id.action_bar;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.action_bar_activity_content = global::TabStrip.Sample.Droid.Resource.Id.action_bar_activity_content;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.action_bar_container = global::TabStrip.Sample.Droid.Resource.Id.action_bar_container;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.action_bar_root = global::TabStrip.Sample.Droid.Resource.Id.action_bar_root;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.action_bar_spinner = global::TabStrip.Sample.Droid.Resource.Id.action_bar_spinner;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.action_bar_subtitle = global::TabStrip.Sample.Droid.Resource.Id.action_bar_subtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.action_bar_title = global::TabStrip.Sample.Droid.Resource.Id.action_bar_title;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.action_context_bar = global::TabStrip.Sample.Droid.Resource.Id.action_context_bar;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.action_divider = global::TabStrip.Sample.Droid.Resource.Id.action_divider;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.action_menu_divider = global::TabStrip.Sample.Droid.Resource.Id.action_menu_divider;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.action_menu_presenter = global::TabStrip.Sample.Droid.Resource.Id.action_menu_presenter;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.action_mode_bar = global::TabStrip.Sample.Droid.Resource.Id.action_mode_bar;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.action_mode_bar_stub = global::TabStrip.Sample.Droid.Resource.Id.action_mode_bar_stub;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.action_mode_close_button = global::TabStrip.Sample.Droid.Resource.Id.action_mode_close_button;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.activity_chooser_view_content = global::TabStrip.Sample.Droid.Resource.Id.activity_chooser_view_content;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.alertTitle = global::TabStrip.Sample.Droid.Resource.Id.alertTitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.always = global::TabStrip.Sample.Droid.Resource.Id.always;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.beginning = global::TabStrip.Sample.Droid.Resource.Id.beginning;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.bottom = global::TabStrip.Sample.Droid.Resource.Id.bottom;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.buttonPanel = global::TabStrip.Sample.Droid.Resource.Id.buttonPanel;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.cancel_action = global::TabStrip.Sample.Droid.Resource.Id.cancel_action;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.center = global::TabStrip.Sample.Droid.Resource.Id.center;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.center_horizontal = global::TabStrip.Sample.Droid.Resource.Id.center_horizontal;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.center_vertical = global::TabStrip.Sample.Droid.Resource.Id.center_vertical;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.checkbox = global::TabStrip.Sample.Droid.Resource.Id.checkbox;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.chronometer = global::TabStrip.Sample.Droid.Resource.Id.chronometer;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.clip_horizontal = global::TabStrip.Sample.Droid.Resource.Id.clip_horizontal;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.clip_vertical = global::TabStrip.Sample.Droid.Resource.Id.clip_vertical;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.collapseActionView = global::TabStrip.Sample.Droid.Resource.Id.collapseActionView;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.contentPanel = global::TabStrip.Sample.Droid.Resource.Id.contentPanel;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.custom = global::TabStrip.Sample.Droid.Resource.Id.custom;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.customPanel = global::TabStrip.Sample.Droid.Resource.Id.customPanel;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.decor_content_parent = global::TabStrip.Sample.Droid.Resource.Id.decor_content_parent;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.default_activity_button = global::TabStrip.Sample.Droid.Resource.Id.default_activity_button;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.design_bottom_sheet = global::TabStrip.Sample.Droid.Resource.Id.design_bottom_sheet;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.design_menu_item_action_area = global::TabStrip.Sample.Droid.Resource.Id.design_menu_item_action_area;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.design_menu_item_action_area_stub = global::TabStrip.Sample.Droid.Resource.Id.design_menu_item_action_area_stub;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.design_menu_item_text = global::TabStrip.Sample.Droid.Resource.Id.design_menu_item_text;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.design_navigation_view = global::TabStrip.Sample.Droid.Resource.Id.design_navigation_view;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.disableHome = global::TabStrip.Sample.Droid.Resource.Id.disableHome;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.edit_query = global::TabStrip.Sample.Droid.Resource.Id.edit_query;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.end = global::TabStrip.Sample.Droid.Resource.Id.end;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.end_padder = global::TabStrip.Sample.Droid.Resource.Id.end_padder;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.enterAlways = global::TabStrip.Sample.Droid.Resource.Id.enterAlways;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.enterAlwaysCollapsed = global::TabStrip.Sample.Droid.Resource.Id.enterAlwaysCollapsed;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.exitUntilCollapsed = global::TabStrip.Sample.Droid.Resource.Id.exitUntilCollapsed;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.expand_activities_button = global::TabStrip.Sample.Droid.Resource.Id.expand_activities_button;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.expanded_menu = global::TabStrip.Sample.Droid.Resource.Id.expanded_menu;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.fill = global::TabStrip.Sample.Droid.Resource.Id.fill;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.fill_horizontal = global::TabStrip.Sample.Droid.Resource.Id.fill_horizontal;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.fill_vertical = global::TabStrip.Sample.Droid.Resource.Id.fill_vertical;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.@fixed = global::TabStrip.Sample.Droid.Resource.Id.@fixed;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.home = global::TabStrip.Sample.Droid.Resource.Id.home;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.homeAsUp = global::TabStrip.Sample.Droid.Resource.Id.homeAsUp;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.horizontal = global::TabStrip.Sample.Droid.Resource.Id.horizontal;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.icon = global::TabStrip.Sample.Droid.Resource.Id.icon;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.ifRoom = global::TabStrip.Sample.Droid.Resource.Id.ifRoom;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.image = global::TabStrip.Sample.Droid.Resource.Id.image;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.indicator = global::TabStrip.Sample.Droid.Resource.Id.indicator;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.info = global::TabStrip.Sample.Droid.Resource.Id.info;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.item_touch_helper_previous_elevation = global::TabStrip.Sample.Droid.Resource.Id.item_touch_helper_previous_elevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.left = global::TabStrip.Sample.Droid.Resource.Id.left;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.line1 = global::TabStrip.Sample.Droid.Resource.Id.line1;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.line3 = global::TabStrip.Sample.Droid.Resource.Id.line3;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.listMode = global::TabStrip.Sample.Droid.Resource.Id.listMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.list_item = global::TabStrip.Sample.Droid.Resource.Id.list_item;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.media_actions = global::TabStrip.Sample.Droid.Resource.Id.media_actions;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.middle = global::TabStrip.Sample.Droid.Resource.Id.middle;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mini = global::TabStrip.Sample.Droid.Resource.Id.mini;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_art = global::TabStrip.Sample.Droid.Resource.Id.mr_art;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_chooser_list = global::TabStrip.Sample.Droid.Resource.Id.mr_chooser_list;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_chooser_route_desc = global::TabStrip.Sample.Droid.Resource.Id.mr_chooser_route_desc;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_chooser_route_icon = global::TabStrip.Sample.Droid.Resource.Id.mr_chooser_route_icon;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_chooser_route_name = global::TabStrip.Sample.Droid.Resource.Id.mr_chooser_route_name;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_close = global::TabStrip.Sample.Droid.Resource.Id.mr_close;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_control_divider = global::TabStrip.Sample.Droid.Resource.Id.mr_control_divider;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_control_subtitle = global::TabStrip.Sample.Droid.Resource.Id.mr_control_subtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_control_title = global::TabStrip.Sample.Droid.Resource.Id.mr_control_title;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_control_title_container = global::TabStrip.Sample.Droid.Resource.Id.mr_control_title_container;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_custom_control = global::TabStrip.Sample.Droid.Resource.Id.mr_custom_control;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_default_control = global::TabStrip.Sample.Droid.Resource.Id.mr_default_control;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_dialog_area = global::TabStrip.Sample.Droid.Resource.Id.mr_dialog_area;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_expandable_area = global::TabStrip.Sample.Droid.Resource.Id.mr_expandable_area;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_group_expand_collapse = global::TabStrip.Sample.Droid.Resource.Id.mr_group_expand_collapse;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_media_main_control = global::TabStrip.Sample.Droid.Resource.Id.mr_media_main_control;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_name = global::TabStrip.Sample.Droid.Resource.Id.mr_name;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_playback_control = global::TabStrip.Sample.Droid.Resource.Id.mr_playback_control;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_title_bar = global::TabStrip.Sample.Droid.Resource.Id.mr_title_bar;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_volume_control = global::TabStrip.Sample.Droid.Resource.Id.mr_volume_control;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_volume_group_list = global::TabStrip.Sample.Droid.Resource.Id.mr_volume_group_list;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_volume_item_icon = global::TabStrip.Sample.Droid.Resource.Id.mr_volume_item_icon;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.mr_volume_slider = global::TabStrip.Sample.Droid.Resource.Id.mr_volume_slider;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.multiply = global::TabStrip.Sample.Droid.Resource.Id.multiply;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.navigation_header_container = global::TabStrip.Sample.Droid.Resource.Id.navigation_header_container;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.never = global::TabStrip.Sample.Droid.Resource.Id.never;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.none = global::TabStrip.Sample.Droid.Resource.Id.none;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.normal = global::TabStrip.Sample.Droid.Resource.Id.normal;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.pager = global::TabStrip.Sample.Droid.Resource.Id.pager;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.parallax = global::TabStrip.Sample.Droid.Resource.Id.parallax;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.parentPanel = global::TabStrip.Sample.Droid.Resource.Id.parentPanel;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.pin = global::TabStrip.Sample.Droid.Resource.Id.pin;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.progress_circular = global::TabStrip.Sample.Droid.Resource.Id.progress_circular;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.progress_horizontal = global::TabStrip.Sample.Droid.Resource.Id.progress_horizontal;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.radio = global::TabStrip.Sample.Droid.Resource.Id.radio;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.right = global::TabStrip.Sample.Droid.Resource.Id.right;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.screen = global::TabStrip.Sample.Droid.Resource.Id.screen;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.scroll = global::TabStrip.Sample.Droid.Resource.Id.scroll;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.scrollIndicatorDown = global::TabStrip.Sample.Droid.Resource.Id.scrollIndicatorDown;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.scrollIndicatorUp = global::TabStrip.Sample.Droid.Resource.Id.scrollIndicatorUp;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.scrollView = global::TabStrip.Sample.Droid.Resource.Id.scrollView;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.scrollable = global::TabStrip.Sample.Droid.Resource.Id.scrollable;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.search_badge = global::TabStrip.Sample.Droid.Resource.Id.search_badge;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.search_bar = global::TabStrip.Sample.Droid.Resource.Id.search_bar;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.search_button = global::TabStrip.Sample.Droid.Resource.Id.search_button;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.search_close_btn = global::TabStrip.Sample.Droid.Resource.Id.search_close_btn;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.search_edit_frame = global::TabStrip.Sample.Droid.Resource.Id.search_edit_frame;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.search_go_btn = global::TabStrip.Sample.Droid.Resource.Id.search_go_btn;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.search_mag_icon = global::TabStrip.Sample.Droid.Resource.Id.search_mag_icon;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.search_plate = global::TabStrip.Sample.Droid.Resource.Id.search_plate;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.search_src_text = global::TabStrip.Sample.Droid.Resource.Id.search_src_text;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.search_voice_btn = global::TabStrip.Sample.Droid.Resource.Id.search_voice_btn;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.select_dialog_listview = global::TabStrip.Sample.Droid.Resource.Id.select_dialog_listview;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.shortcut = global::TabStrip.Sample.Droid.Resource.Id.shortcut;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.showCustom = global::TabStrip.Sample.Droid.Resource.Id.showCustom;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.showHome = global::TabStrip.Sample.Droid.Resource.Id.showHome;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.showTitle = global::TabStrip.Sample.Droid.Resource.Id.showTitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.snackbar_action = global::TabStrip.Sample.Droid.Resource.Id.snackbar_action;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.snackbar_text = global::TabStrip.Sample.Droid.Resource.Id.snackbar_text;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.snap = global::TabStrip.Sample.Droid.Resource.Id.snap;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.spacer = global::TabStrip.Sample.Droid.Resource.Id.spacer;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.split_action_bar = global::TabStrip.Sample.Droid.Resource.Id.split_action_bar;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.src_atop = global::TabStrip.Sample.Droid.Resource.Id.src_atop;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.src_in = global::TabStrip.Sample.Droid.Resource.Id.src_in;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.src_over = global::TabStrip.Sample.Droid.Resource.Id.src_over;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.start = global::TabStrip.Sample.Droid.Resource.Id.start;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.status_bar_latest_event_content = global::TabStrip.Sample.Droid.Resource.Id.status_bar_latest_event_content;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.submit_area = global::TabStrip.Sample.Droid.Resource.Id.submit_area;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.tabMode = global::TabStrip.Sample.Droid.Resource.Id.tabMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.text = global::TabStrip.Sample.Droid.Resource.Id.text;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.text2 = global::TabStrip.Sample.Droid.Resource.Id.text2;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.textSpacerNoButtons = global::TabStrip.Sample.Droid.Resource.Id.textSpacerNoButtons;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.time = global::TabStrip.Sample.Droid.Resource.Id.time;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.title = global::TabStrip.Sample.Droid.Resource.Id.title;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.title_template = global::TabStrip.Sample.Droid.Resource.Id.title_template;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.top = global::TabStrip.Sample.Droid.Resource.Id.top;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.topPanel = global::TabStrip.Sample.Droid.Resource.Id.topPanel;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.touch_outside = global::TabStrip.Sample.Droid.Resource.Id.touch_outside;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.up = global::TabStrip.Sample.Droid.Resource.Id.up;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.useLogo = global::TabStrip.Sample.Droid.Resource.Id.useLogo;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.vertical = global::TabStrip.Sample.Droid.Resource.Id.vertical;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.view_offset_helper = global::TabStrip.Sample.Droid.Resource.Id.view_offset_helper;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.volume_item_container = global::TabStrip.Sample.Droid.Resource.Id.volume_item_container;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.withText = global::TabStrip.Sample.Droid.Resource.Id.withText;
-			global::TabStrip.FormsPlugin.Android.Resource.Id.wrap_content = global::TabStrip.Sample.Droid.Resource.Id.wrap_content;
-			global::TabStrip.FormsPlugin.Android.Resource.Integer.abc_config_activityDefaultDur = global::TabStrip.Sample.Droid.Resource.Integer.abc_config_activityDefaultDur;
-			global::TabStrip.FormsPlugin.Android.Resource.Integer.abc_config_activityShortDur = global::TabStrip.Sample.Droid.Resource.Integer.abc_config_activityShortDur;
-			global::TabStrip.FormsPlugin.Android.Resource.Integer.bottom_sheet_slide_duration = global::TabStrip.Sample.Droid.Resource.Integer.bottom_sheet_slide_duration;
-			global::TabStrip.FormsPlugin.Android.Resource.Integer.cancel_button_image_alpha = global::TabStrip.Sample.Droid.Resource.Integer.cancel_button_image_alpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Integer.default_circle_indicator_orientation = global::TabStrip.Sample.Droid.Resource.Integer.default_circle_indicator_orientation;
-			global::TabStrip.FormsPlugin.Android.Resource.Integer.design_snackbar_text_max_lines = global::TabStrip.Sample.Droid.Resource.Integer.design_snackbar_text_max_lines;
-			global::TabStrip.FormsPlugin.Android.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::TabStrip.Sample.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
-			global::TabStrip.FormsPlugin.Android.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::TabStrip.Sample.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
-			global::TabStrip.FormsPlugin.Android.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::TabStrip.Sample.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
-			global::TabStrip.FormsPlugin.Android.Resource.Integer.status_bar_notification_info_maxnum = global::TabStrip.Sample.Droid.Resource.Integer.status_bar_notification_info_maxnum;
-			global::TabStrip.FormsPlugin.Android.Resource.Interpolator.mr_fast_out_slow_in = global::TabStrip.Sample.Droid.Resource.Interpolator.mr_fast_out_slow_in;
-			global::TabStrip.FormsPlugin.Android.Resource.Interpolator.mr_linear_out_slow_in = global::TabStrip.Sample.Droid.Resource.Interpolator.mr_linear_out_slow_in;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_action_bar_title_item = global::TabStrip.Sample.Droid.Resource.Layout.abc_action_bar_title_item;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_action_bar_up_container = global::TabStrip.Sample.Droid.Resource.Layout.abc_action_bar_up_container;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_action_bar_view_list_nav_layout = global::TabStrip.Sample.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_action_menu_item_layout = global::TabStrip.Sample.Droid.Resource.Layout.abc_action_menu_item_layout;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_action_menu_layout = global::TabStrip.Sample.Droid.Resource.Layout.abc_action_menu_layout;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_action_mode_bar = global::TabStrip.Sample.Droid.Resource.Layout.abc_action_mode_bar;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_action_mode_close_item_material = global::TabStrip.Sample.Droid.Resource.Layout.abc_action_mode_close_item_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_activity_chooser_view = global::TabStrip.Sample.Droid.Resource.Layout.abc_activity_chooser_view;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::TabStrip.Sample.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::TabStrip.Sample.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_alert_dialog_material = global::TabStrip.Sample.Droid.Resource.Layout.abc_alert_dialog_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_dialog_title_material = global::TabStrip.Sample.Droid.Resource.Layout.abc_dialog_title_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_expanded_menu_layout = global::TabStrip.Sample.Droid.Resource.Layout.abc_expanded_menu_layout;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_list_menu_item_checkbox = global::TabStrip.Sample.Droid.Resource.Layout.abc_list_menu_item_checkbox;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_list_menu_item_icon = global::TabStrip.Sample.Droid.Resource.Layout.abc_list_menu_item_icon;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_list_menu_item_layout = global::TabStrip.Sample.Droid.Resource.Layout.abc_list_menu_item_layout;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_list_menu_item_radio = global::TabStrip.Sample.Droid.Resource.Layout.abc_list_menu_item_radio;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_popup_menu_item_layout = global::TabStrip.Sample.Droid.Resource.Layout.abc_popup_menu_item_layout;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_screen_content_include = global::TabStrip.Sample.Droid.Resource.Layout.abc_screen_content_include;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_screen_simple = global::TabStrip.Sample.Droid.Resource.Layout.abc_screen_simple;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::TabStrip.Sample.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_screen_toolbar = global::TabStrip.Sample.Droid.Resource.Layout.abc_screen_toolbar;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::TabStrip.Sample.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_search_view = global::TabStrip.Sample.Droid.Resource.Layout.abc_search_view;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.abc_select_dialog_material = global::TabStrip.Sample.Droid.Resource.Layout.abc_select_dialog_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.design_bottom_sheet_dialog = global::TabStrip.Sample.Droid.Resource.Layout.design_bottom_sheet_dialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.design_layout_snackbar = global::TabStrip.Sample.Droid.Resource.Layout.design_layout_snackbar;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.design_layout_snackbar_include = global::TabStrip.Sample.Droid.Resource.Layout.design_layout_snackbar_include;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.design_layout_tab_icon = global::TabStrip.Sample.Droid.Resource.Layout.design_layout_tab_icon;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.design_layout_tab_text = global::TabStrip.Sample.Droid.Resource.Layout.design_layout_tab_text;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.design_menu_item_action_area = global::TabStrip.Sample.Droid.Resource.Layout.design_menu_item_action_area;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.design_navigation_item = global::TabStrip.Sample.Droid.Resource.Layout.design_navigation_item;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.design_navigation_item_header = global::TabStrip.Sample.Droid.Resource.Layout.design_navigation_item_header;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.design_navigation_item_separator = global::TabStrip.Sample.Droid.Resource.Layout.design_navigation_item_separator;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.design_navigation_item_subheader = global::TabStrip.Sample.Droid.Resource.Layout.design_navigation_item_subheader;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.design_navigation_menu = global::TabStrip.Sample.Droid.Resource.Layout.design_navigation_menu;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.design_navigation_menu_item = global::TabStrip.Sample.Droid.Resource.Layout.design_navigation_menu_item;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.horizontal_viewpager = global::TabStrip.Sample.Droid.Resource.Layout.horizontal_viewpager;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.mr_chooser_dialog = global::TabStrip.Sample.Droid.Resource.Layout.mr_chooser_dialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.mr_chooser_list_item = global::TabStrip.Sample.Droid.Resource.Layout.mr_chooser_list_item;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.mr_controller_material_dialog_b = global::TabStrip.Sample.Droid.Resource.Layout.mr_controller_material_dialog_b;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.mr_controller_volume_item = global::TabStrip.Sample.Droid.Resource.Layout.mr_controller_volume_item;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.mr_playback_control = global::TabStrip.Sample.Droid.Resource.Layout.mr_playback_control;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.mr_volume_control = global::TabStrip.Sample.Droid.Resource.Layout.mr_volume_control;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.notification_media_action = global::TabStrip.Sample.Droid.Resource.Layout.notification_media_action;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.notification_media_cancel_action = global::TabStrip.Sample.Droid.Resource.Layout.notification_media_cancel_action;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.notification_template_big_media = global::TabStrip.Sample.Droid.Resource.Layout.notification_template_big_media;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.notification_template_big_media_narrow = global::TabStrip.Sample.Droid.Resource.Layout.notification_template_big_media_narrow;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.notification_template_media = global::TabStrip.Sample.Droid.Resource.Layout.notification_template_media;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.notification_template_part_chronometer = global::TabStrip.Sample.Droid.Resource.Layout.notification_template_part_chronometer;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.notification_template_part_time = global::TabStrip.Sample.Droid.Resource.Layout.notification_template_part_time;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.select_dialog_item_material = global::TabStrip.Sample.Droid.Resource.Layout.select_dialog_item_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.select_dialog_multichoice_material = global::TabStrip.Sample.Droid.Resource.Layout.select_dialog_multichoice_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.select_dialog_singlechoice_material = global::TabStrip.Sample.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::TabStrip.Sample.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::TabStrip.FormsPlugin.Android.Resource.Layout.vertical_viewpager = global::TabStrip.Sample.Droid.Resource.Layout.vertical_viewpager;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_action_bar_home_description = global::TabStrip.Sample.Droid.Resource.String.abc_action_bar_home_description;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_action_bar_home_description_format = global::TabStrip.Sample.Droid.Resource.String.abc_action_bar_home_description_format;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_action_bar_home_subtitle_description_format = global::TabStrip.Sample.Droid.Resource.String.abc_action_bar_home_subtitle_description_format;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_action_bar_up_description = global::TabStrip.Sample.Droid.Resource.String.abc_action_bar_up_description;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_action_menu_overflow_description = global::TabStrip.Sample.Droid.Resource.String.abc_action_menu_overflow_description;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_action_mode_done = global::TabStrip.Sample.Droid.Resource.String.abc_action_mode_done;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_activity_chooser_view_see_all = global::TabStrip.Sample.Droid.Resource.String.abc_activity_chooser_view_see_all;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_activitychooserview_choose_application = global::TabStrip.Sample.Droid.Resource.String.abc_activitychooserview_choose_application;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_capital_off = global::TabStrip.Sample.Droid.Resource.String.abc_capital_off;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_capital_on = global::TabStrip.Sample.Droid.Resource.String.abc_capital_on;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_search_hint = global::TabStrip.Sample.Droid.Resource.String.abc_search_hint;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_searchview_description_clear = global::TabStrip.Sample.Droid.Resource.String.abc_searchview_description_clear;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_searchview_description_query = global::TabStrip.Sample.Droid.Resource.String.abc_searchview_description_query;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_searchview_description_search = global::TabStrip.Sample.Droid.Resource.String.abc_searchview_description_search;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_searchview_description_submit = global::TabStrip.Sample.Droid.Resource.String.abc_searchview_description_submit;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_searchview_description_voice = global::TabStrip.Sample.Droid.Resource.String.abc_searchview_description_voice;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_shareactionprovider_share_with = global::TabStrip.Sample.Droid.Resource.String.abc_shareactionprovider_share_with;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_shareactionprovider_share_with_application = global::TabStrip.Sample.Droid.Resource.String.abc_shareactionprovider_share_with_application;
-			global::TabStrip.FormsPlugin.Android.Resource.String.abc_toolbar_collapse_description = global::TabStrip.Sample.Droid.Resource.String.abc_toolbar_collapse_description;
-			global::TabStrip.FormsPlugin.Android.Resource.String.appbar_scrolling_view_behavior = global::TabStrip.Sample.Droid.Resource.String.appbar_scrolling_view_behavior;
-			global::TabStrip.FormsPlugin.Android.Resource.String.bottom_sheet_behavior = global::TabStrip.Sample.Droid.Resource.String.bottom_sheet_behavior;
-			global::TabStrip.FormsPlugin.Android.Resource.String.character_counter_pattern = global::TabStrip.Sample.Droid.Resource.String.character_counter_pattern;
-			global::TabStrip.FormsPlugin.Android.Resource.String.mr_button_content_description = global::TabStrip.Sample.Droid.Resource.String.mr_button_content_description;
-			global::TabStrip.FormsPlugin.Android.Resource.String.mr_chooser_searching = global::TabStrip.Sample.Droid.Resource.String.mr_chooser_searching;
-			global::TabStrip.FormsPlugin.Android.Resource.String.mr_chooser_title = global::TabStrip.Sample.Droid.Resource.String.mr_chooser_title;
-			global::TabStrip.FormsPlugin.Android.Resource.String.mr_controller_casting_screen = global::TabStrip.Sample.Droid.Resource.String.mr_controller_casting_screen;
-			global::TabStrip.FormsPlugin.Android.Resource.String.mr_controller_close_description = global::TabStrip.Sample.Droid.Resource.String.mr_controller_close_description;
-			global::TabStrip.FormsPlugin.Android.Resource.String.mr_controller_collapse_group = global::TabStrip.Sample.Droid.Resource.String.mr_controller_collapse_group;
-			global::TabStrip.FormsPlugin.Android.Resource.String.mr_controller_disconnect = global::TabStrip.Sample.Droid.Resource.String.mr_controller_disconnect;
-			global::TabStrip.FormsPlugin.Android.Resource.String.mr_controller_expand_group = global::TabStrip.Sample.Droid.Resource.String.mr_controller_expand_group;
-			global::TabStrip.FormsPlugin.Android.Resource.String.mr_controller_no_info_available = global::TabStrip.Sample.Droid.Resource.String.mr_controller_no_info_available;
-			global::TabStrip.FormsPlugin.Android.Resource.String.mr_controller_no_media_selected = global::TabStrip.Sample.Droid.Resource.String.mr_controller_no_media_selected;
-			global::TabStrip.FormsPlugin.Android.Resource.String.mr_controller_pause = global::TabStrip.Sample.Droid.Resource.String.mr_controller_pause;
-			global::TabStrip.FormsPlugin.Android.Resource.String.mr_controller_play = global::TabStrip.Sample.Droid.Resource.String.mr_controller_play;
-			global::TabStrip.FormsPlugin.Android.Resource.String.mr_controller_stop = global::TabStrip.Sample.Droid.Resource.String.mr_controller_stop;
-			global::TabStrip.FormsPlugin.Android.Resource.String.mr_system_route_name = global::TabStrip.Sample.Droid.Resource.String.mr_system_route_name;
-			global::TabStrip.FormsPlugin.Android.Resource.String.mr_user_route_category_name = global::TabStrip.Sample.Droid.Resource.String.mr_user_route_category_name;
-			global::TabStrip.FormsPlugin.Android.Resource.String.status_bar_notification_info_overflow = global::TabStrip.Sample.Droid.Resource.String.status_bar_notification_info_overflow;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.AlertDialog_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.AlertDialog_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.AlertDialog_AppCompat_Light = global::TabStrip.Sample.Droid.Resource.Style.AlertDialog_AppCompat_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Animation_AppCompat_Dialog = global::TabStrip.Sample.Droid.Resource.Style.Animation_AppCompat_Dialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::TabStrip.Sample.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::TabStrip.Sample.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_AlertDialog_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.Base_AlertDialog_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::TabStrip.Sample.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::TabStrip.Sample.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::TabStrip.Sample.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_CardView = global::TabStrip.Sample.Droid.Resource.Style.Base_CardView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::TabStrip.Sample.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.Base_Theme_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::TabStrip.Sample.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::TabStrip.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::TabStrip.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::TabStrip.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::TabStrip.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::TabStrip.Sample.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Light = global::TabStrip.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::TabStrip.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::TabStrip.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::TabStrip.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::TabStrip.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::TabStrip.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::TabStrip.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::TabStrip.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::TabStrip.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::TabStrip.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::TabStrip.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::TabStrip.Sample.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::TabStrip.Sample.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::TabStrip.Sample.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::TabStrip.Sample.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V21_Theme_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::TabStrip.Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::TabStrip.Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::TabStrip.Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V22_Theme_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.Base_V22_Theme_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::TabStrip.Sample.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V23_Theme_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.Base_V23_Theme_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::TabStrip.Sample.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V7_Theme_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::TabStrip.Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::TabStrip.Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::TabStrip.Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::TabStrip.Sample.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::TabStrip.Sample.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Button = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Base_Widget_Design_TabLayout = global::TabStrip.Sample.Droid.Resource.Style.Base_Widget_Design_TabLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.CardView = global::TabStrip.Sample.Droid.Resource.Style.CardView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.CardView_Dark = global::TabStrip.Sample.Droid.Resource.Style.CardView_Dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.CardView_Light = global::TabStrip.Sample.Droid.Resource.Style.CardView_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Platform_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.Platform_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Platform_AppCompat_Light = global::TabStrip.Sample.Droid.Resource.Style.Platform_AppCompat_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::TabStrip.Sample.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::TabStrip.Sample.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Platform_V11_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.Platform_V11_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Platform_V11_AppCompat_Light = global::TabStrip.Sample.Droid.Resource.Style.Platform_V11_AppCompat_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Platform_V14_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.Platform_V14_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Platform_V14_AppCompat_Light = global::TabStrip.Sample.Droid.Resource.Style.Platform_V14_AppCompat_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::TabStrip.Sample.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::TabStrip.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::TabStrip.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::TabStrip.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::TabStrip.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::TabStrip.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::TabStrip.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::TabStrip.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::TabStrip.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::TabStrip.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::TabStrip.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::TabStrip.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::TabStrip.Sample.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::TabStrip.Sample.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Button = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Button;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Large = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Large;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Small = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Small;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Title = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Title;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_Design_Counter = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_Design_Counter;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_Design_Error = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_Design_Error;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_Design_Hint = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_Design_Hint;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_Design_Tab = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_Design_Tab;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::TabStrip.Sample.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DayNight = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Dialog = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_Dialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Light = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::TabStrip.Sample.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_Design = global::TabStrip.Sample.Droid.Resource.Style.Theme_Design;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::TabStrip.Sample.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_Design_Light = global::TabStrip.Sample.Droid.Resource.Style.Theme_Design_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::TabStrip.Sample.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::TabStrip.Sample.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_Design_NoActionBar = global::TabStrip.Sample.Droid.Resource.Style.Theme_Design_NoActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_MediaRouter = global::TabStrip.Sample.Droid.Resource.Style.Theme_MediaRouter;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_MediaRouter_Light = global::TabStrip.Sample.Droid.Resource.Style.Theme_MediaRouter_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::TabStrip.Sample.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_MediaRouter_LightControlPanel = global::TabStrip.Sample.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Theme_PageIndicatorDefaults = global::TabStrip.Sample.Droid.Resource.Style.Theme_PageIndicatorDefaults;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat = global::TabStrip.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::TabStrip.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::TabStrip.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::TabStrip.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::TabStrip.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget = global::TabStrip.Sample.Droid.Resource.Style.Widget;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionBar = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionButton = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ActionButton;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionMode = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ActionMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Button = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Button;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Button_Small = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Button_Small;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_EditText = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_EditText;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ImageButton = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ImageButton;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ListView = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ListView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_RatingBar = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_RatingBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_SearchView = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_SearchView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_SeekBar = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_SeekBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Spinner = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Spinner;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Toolbar = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Toolbar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::TabStrip.Sample.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_CirclePageIndicator = global::TabStrip.Sample.Droid.Resource.Style.Widget_CirclePageIndicator;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_Design_AppBarLayout = global::TabStrip.Sample.Droid.Resource.Style.Widget_Design_AppBarLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::TabStrip.Sample.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::TabStrip.Sample.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_Design_CoordinatorLayout = global::TabStrip.Sample.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_Design_FloatingActionButton = global::TabStrip.Sample.Droid.Resource.Style.Widget_Design_FloatingActionButton;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_Design_NavigationView = global::TabStrip.Sample.Droid.Resource.Style.Widget_Design_NavigationView;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::TabStrip.Sample.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_Design_Snackbar = global::TabStrip.Sample.Droid.Resource.Style.Widget_Design_Snackbar;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_Design_TabLayout = global::TabStrip.Sample.Droid.Resource.Style.Widget_Design_TabLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_Design_TextInputLayout = global::TabStrip.Sample.Droid.Resource.Style.Widget_Design_TextInputLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::TabStrip.Sample.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
-			global::TabStrip.FormsPlugin.Android.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::TabStrip.Sample.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_background = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_background;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_backgroundSplit = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_backgroundSplit;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_backgroundStacked = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_backgroundStacked;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_contentInsetRight = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_contentInsetRight;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_contentInsetStart = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_contentInsetStart;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_displayOptions = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_displayOptions;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_divider = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_divider;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_elevation = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_elevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_height = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_height;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_homeLayout = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_homeLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_icon = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_icon;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_itemPadding = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_itemPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_logo = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_logo;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_navigationMode = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_navigationMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_popupTheme = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_popupTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_progressBarPadding = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_progressBarPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_progressBarStyle = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_progressBarStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_subtitle = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_subtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_title = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_title;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBar_titleTextStyle = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBar_titleTextStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBarLayout = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBarLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::TabStrip.Sample.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionMenuItemView = global::TabStrip.Sample.Droid.Resource.Styleable.ActionMenuItemView;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::TabStrip.Sample.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionMenuView = global::TabStrip.Sample.Droid.Resource.Styleable.ActionMenuView;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionMode = global::TabStrip.Sample.Droid.Resource.Styleable.ActionMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionMode_background = global::TabStrip.Sample.Droid.Resource.Styleable.ActionMode_background;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionMode_backgroundSplit = global::TabStrip.Sample.Droid.Resource.Styleable.ActionMode_backgroundSplit;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionMode_closeItemLayout = global::TabStrip.Sample.Droid.Resource.Styleable.ActionMode_closeItemLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionMode_height = global::TabStrip.Sample.Droid.Resource.Styleable.ActionMode_height;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::TabStrip.Sample.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActionMode_titleTextStyle = global::TabStrip.Sample.Droid.Resource.Styleable.ActionMode_titleTextStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActivityChooserView = global::TabStrip.Sample.Droid.Resource.Styleable.ActivityChooserView;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::TabStrip.Sample.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::TabStrip.Sample.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AlertDialog = global::TabStrip.Sample.Droid.Resource.Styleable.AlertDialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AlertDialog_android_layout = global::TabStrip.Sample.Droid.Resource.Styleable.AlertDialog_android_layout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::TabStrip.Sample.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AlertDialog_listItemLayout = global::TabStrip.Sample.Droid.Resource.Styleable.AlertDialog_listItemLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AlertDialog_listLayout = global::TabStrip.Sample.Droid.Resource.Styleable.AlertDialog_listLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::TabStrip.Sample.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::TabStrip.Sample.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppBarLayout = global::TabStrip.Sample.Droid.Resource.Styleable.AppBarLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppBarLayout_android_background = global::TabStrip.Sample.Droid.Resource.Styleable.AppBarLayout_android_background;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppBarLayout_elevation = global::TabStrip.Sample.Droid.Resource.Styleable.AppBarLayout_elevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppBarLayout_expanded = global::TabStrip.Sample.Droid.Resource.Styleable.AppBarLayout_expanded;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatImageView = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatImageView;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatImageView_android_src = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatImageView_android_src;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTextView = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTextView;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::TabStrip.Sample.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ButtonBarLayout = global::TabStrip.Sample.Droid.Resource.Styleable.ButtonBarLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::TabStrip.Sample.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CardView = global::TabStrip.Sample.Droid.Resource.Styleable.CardView;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CardView_android_minHeight = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_android_minHeight;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CardView_android_minWidth = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_android_minWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CardView_cardBackgroundColor = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_cardBackgroundColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CardView_cardCornerRadius = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_cardCornerRadius;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CardView_cardElevation = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_cardElevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CardView_cardMaxElevation = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_cardMaxElevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CardView_contentPadding = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_contentPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CardView_contentPaddingBottom = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_contentPaddingBottom;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CardView_contentPaddingLeft = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_contentPaddingLeft;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CardView_contentPaddingRight = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_contentPaddingRight;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CardView_contentPaddingTop = global::TabStrip.Sample.Droid.Resource.Styleable.CardView_contentPaddingTop;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiCentered = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiCentered;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiFillColor = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiFillColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiOrientation = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiOrientation;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiPageColor = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiPageColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiRadius = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiRadius;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiSnap = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiSnap;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiStrokeColor = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiStrokeColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiStrokeWidth = global::TabStrip.Sample.Droid.Resource.Styleable.CirclePageIndicator_vpiStrokeWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::TabStrip.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CompoundButton = global::TabStrip.Sample.Droid.Resource.Styleable.CompoundButton;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CompoundButton_android_button = global::TabStrip.Sample.Droid.Resource.Styleable.CompoundButton_android_button;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CompoundButton_buttonTint = global::TabStrip.Sample.Droid.Resource.Styleable.CompoundButton_buttonTint;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::TabStrip.Sample.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CoordinatorLayout = global::TabStrip.Sample.Droid.Resource.Styleable.CoordinatorLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CoordinatorLayout_keylines = global::TabStrip.Sample.Droid.Resource.Styleable.CoordinatorLayout_keylines;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::TabStrip.Sample.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.DesignTheme = global::TabStrip.Sample.Droid.Resource.Styleable.DesignTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::TabStrip.Sample.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::TabStrip.Sample.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.DesignTheme_textColorError = global::TabStrip.Sample.Droid.Resource.Styleable.DesignTheme_textColorError;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle = global::TabStrip.Sample.Droid.Resource.Styleable.DrawerArrowToggle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::TabStrip.Sample.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::TabStrip.Sample.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::TabStrip.Sample.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_color = global::TabStrip.Sample.Droid.Resource.Styleable.DrawerArrowToggle_color;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::TabStrip.Sample.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::TabStrip.Sample.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::TabStrip.Sample.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::TabStrip.Sample.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.FloatingActionButton = global::TabStrip.Sample.Droid.Resource.Styleable.FloatingActionButton;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::TabStrip.Sample.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::TabStrip.Sample.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::TabStrip.Sample.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_elevation = global::TabStrip.Sample.Droid.Resource.Styleable.FloatingActionButton_elevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_fabSize = global::TabStrip.Sample.Droid.Resource.Styleable.FloatingActionButton_fabSize;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::TabStrip.Sample.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::TabStrip.Sample.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::TabStrip.Sample.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ForegroundLinearLayout = global::TabStrip.Sample.Droid.Resource.Styleable.ForegroundLinearLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::TabStrip.Sample.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::TabStrip.Sample.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::TabStrip.Sample.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat = global::TabStrip.Sample.Droid.Resource.Styleable.LinearLayoutCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::TabStrip.Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::TabStrip.Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::TabStrip.Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::TabStrip.Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::TabStrip.Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_divider = global::TabStrip.Sample.Droid.Resource.Styleable.LinearLayoutCompat_divider;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::TabStrip.Sample.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::TabStrip.Sample.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::TabStrip.Sample.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::TabStrip.Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::TabStrip.Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::TabStrip.Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::TabStrip.Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::TabStrip.Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ListPopupWindow = global::TabStrip.Sample.Droid.Resource.Styleable.ListPopupWindow;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::TabStrip.Sample.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::TabStrip.Sample.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MediaRouteButton = global::TabStrip.Sample.Droid.Resource.Styleable.MediaRouteButton;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MediaRouteButton_android_minHeight = global::TabStrip.Sample.Droid.Resource.Styleable.MediaRouteButton_android_minHeight;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MediaRouteButton_android_minWidth = global::TabStrip.Sample.Droid.Resource.Styleable.MediaRouteButton_android_minWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::TabStrip.Sample.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuGroup = global::TabStrip.Sample.Droid.Resource.Styleable.MenuGroup;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::TabStrip.Sample.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuGroup_android_enabled = global::TabStrip.Sample.Droid.Resource.Styleable.MenuGroup_android_enabled;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuGroup_android_id = global::TabStrip.Sample.Droid.Resource.Styleable.MenuGroup_android_id;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::TabStrip.Sample.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::TabStrip.Sample.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuGroup_android_visible = global::TabStrip.Sample.Droid.Resource.Styleable.MenuGroup_android_visible;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_actionLayout = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_actionLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_actionProviderClass = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_actionProviderClass;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_actionViewClass = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_actionViewClass;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_android_checkable = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_android_checkable;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_android_checked = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_android_checked;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_android_enabled = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_android_enabled;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_android_icon = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_android_icon;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_android_id = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_android_id;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_android_menuCategory = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_android_menuCategory;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_android_onClick = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_android_onClick;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_android_title = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_android_title;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_android_visible = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_android_visible;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuItem_showAsAction = global::TabStrip.Sample.Droid.Resource.Styleable.MenuItem_showAsAction;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuView = global::TabStrip.Sample.Droid.Resource.Styleable.MenuView;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuView_android_headerBackground = global::TabStrip.Sample.Droid.Resource.Styleable.MenuView_android_headerBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::TabStrip.Sample.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuView_android_itemBackground = global::TabStrip.Sample.Droid.Resource.Styleable.MenuView_android_itemBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::TabStrip.Sample.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuView_android_verticalDivider = global::TabStrip.Sample.Droid.Resource.Styleable.MenuView_android_verticalDivider;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::TabStrip.Sample.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::TabStrip.Sample.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.NavigationView = global::TabStrip.Sample.Droid.Resource.Styleable.NavigationView;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.NavigationView_android_background = global::TabStrip.Sample.Droid.Resource.Styleable.NavigationView_android_background;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::TabStrip.Sample.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.NavigationView_android_maxWidth = global::TabStrip.Sample.Droid.Resource.Styleable.NavigationView_android_maxWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.NavigationView_elevation = global::TabStrip.Sample.Droid.Resource.Styleable.NavigationView_elevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.NavigationView_headerLayout = global::TabStrip.Sample.Droid.Resource.Styleable.NavigationView_headerLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.NavigationView_itemBackground = global::TabStrip.Sample.Droid.Resource.Styleable.NavigationView_itemBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.NavigationView_itemIconTint = global::TabStrip.Sample.Droid.Resource.Styleable.NavigationView_itemIconTint;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.NavigationView_itemTextColor = global::TabStrip.Sample.Droid.Resource.Styleable.NavigationView_itemTextColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.NavigationView_menu = global::TabStrip.Sample.Droid.Resource.Styleable.NavigationView_menu;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.PopupWindow = global::TabStrip.Sample.Droid.Resource.Styleable.PopupWindow;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::TabStrip.Sample.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::TabStrip.Sample.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.PopupWindowBackgroundState = global::TabStrip.Sample.Droid.Resource.Styleable.PopupWindowBackgroundState;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::TabStrip.Sample.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.RecyclerView = global::TabStrip.Sample.Droid.Resource.Styleable.RecyclerView;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.RecyclerView_android_orientation = global::TabStrip.Sample.Droid.Resource.Styleable.RecyclerView_android_orientation;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.RecyclerView_layoutManager = global::TabStrip.Sample.Droid.Resource.Styleable.RecyclerView_layoutManager;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.RecyclerView_reverseLayout = global::TabStrip.Sample.Droid.Resource.Styleable.RecyclerView_reverseLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.RecyclerView_spanCount = global::TabStrip.Sample.Droid.Resource.Styleable.RecyclerView_spanCount;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::TabStrip.Sample.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::TabStrip.Sample.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::TabStrip.Sample.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_android_focusable = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_android_focusable;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_android_imeOptions = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_android_imeOptions;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_android_inputType = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_android_inputType;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_android_maxWidth = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_android_maxWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_closeIcon = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_closeIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_commitIcon = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_commitIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_defaultQueryHint = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_defaultQueryHint;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_goIcon = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_goIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_layout = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_layout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_queryBackground = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_queryBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_queryHint = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_queryHint;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_searchHintIcon = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_searchHintIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_searchIcon = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_searchIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_submitBackground = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_submitBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SearchView_voiceIcon = global::TabStrip.Sample.Droid.Resource.Styleable.SearchView_voiceIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SnackbarLayout = global::TabStrip.Sample.Droid.Resource.Styleable.SnackbarLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::TabStrip.Sample.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SnackbarLayout_elevation = global::TabStrip.Sample.Droid.Resource.Styleable.SnackbarLayout_elevation;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::TabStrip.Sample.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Spinner = global::TabStrip.Sample.Droid.Resource.Styleable.Spinner;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::TabStrip.Sample.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Spinner_android_entries = global::TabStrip.Sample.Droid.Resource.Styleable.Spinner_android_entries;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Spinner_android_popupBackground = global::TabStrip.Sample.Droid.Resource.Styleable.Spinner_android_popupBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Spinner_android_prompt = global::TabStrip.Sample.Droid.Resource.Styleable.Spinner_android_prompt;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Spinner_popupTheme = global::TabStrip.Sample.Droid.Resource.Styleable.Spinner_popupTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SwitchCompat = global::TabStrip.Sample.Droid.Resource.Styleable.SwitchCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SwitchCompat_android_textOff = global::TabStrip.Sample.Droid.Resource.Styleable.SwitchCompat_android_textOff;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SwitchCompat_android_textOn = global::TabStrip.Sample.Droid.Resource.Styleable.SwitchCompat_android_textOn;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SwitchCompat_android_thumb = global::TabStrip.Sample.Droid.Resource.Styleable.SwitchCompat_android_thumb;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SwitchCompat_showText = global::TabStrip.Sample.Droid.Resource.Styleable.SwitchCompat_showText;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SwitchCompat_splitTrack = global::TabStrip.Sample.Droid.Resource.Styleable.SwitchCompat_splitTrack;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::TabStrip.Sample.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SwitchCompat_switchPadding = global::TabStrip.Sample.Droid.Resource.Styleable.SwitchCompat_switchPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::TabStrip.Sample.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.SwitchCompat_track = global::TabStrip.Sample.Droid.Resource.Styleable.SwitchCompat_track;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabItem = global::TabStrip.Sample.Droid.Resource.Styleable.TabItem;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabItem_android_icon = global::TabStrip.Sample.Droid.Resource.Styleable.TabItem_android_icon;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabItem_android_layout = global::TabStrip.Sample.Droid.Resource.Styleable.TabItem_android_layout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabItem_android_text = global::TabStrip.Sample.Droid.Resource.Styleable.TabItem_android_text;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabBackground = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabBackground;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabContentStart = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabContentStart;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabGravity = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabGravity;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabMinWidth = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabMinWidth;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabMode = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabPadding = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabPadding;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TabLayout_tabTextColor = global::TabStrip.Sample.Droid.Resource.Styleable.TabLayout_tabTextColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.TextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::TabStrip.Sample.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::TabStrip.Sample.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::TabStrip.Sample.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::TabStrip.Sample.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_textColor = global::TabStrip.Sample.Droid.Resource.Styleable.TextAppearance_android_textColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_textSize = global::TabStrip.Sample.Droid.Resource.Styleable.TextAppearance_android_textSize;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_textStyle = global::TabStrip.Sample.Droid.Resource.Styleable.TextAppearance_android_textStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_typeface = global::TabStrip.Sample.Droid.Resource.Styleable.TextAppearance_android_typeface;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextAppearance_textAllCaps = global::TabStrip.Sample.Droid.Resource.Styleable.TextAppearance_textAllCaps;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextInputLayout = global::TabStrip.Sample.Droid.Resource.Styleable.TextInputLayout;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextInputLayout_android_hint = global::TabStrip.Sample.Droid.Resource.Styleable.TextInputLayout_android_hint;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::TabStrip.Sample.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::TabStrip.Sample.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::TabStrip.Sample.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::TabStrip.Sample.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::TabStrip.Sample.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::TabStrip.Sample.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_android_gravity = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_android_gravity;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_android_minHeight = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_android_minHeight;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_collapseIcon = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_collapseIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_contentInsetRight = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_contentInsetRight;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_contentInsetStart = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_contentInsetStart;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_logo = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_logo;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_logoDescription = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_logoDescription;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_navigationIcon = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_navigationIcon;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_popupTheme = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_popupTheme;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_subtitle = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_subtitle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_title = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_title;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_titleMarginStart = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_titleMarginStart;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_titleMarginTop = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_titleMarginTop;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_titleMargins = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_titleMargins;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.Toolbar_titleTextColor = global::TabStrip.Sample.Droid.Resource.Styleable.Toolbar_titleTextColor;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.View = global::TabStrip.Sample.Droid.Resource.Styleable.View;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.View_android_focusable = global::TabStrip.Sample.Droid.Resource.Styleable.View_android_focusable;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.View_android_theme = global::TabStrip.Sample.Droid.Resource.Styleable.View_android_theme;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.View_paddingEnd = global::TabStrip.Sample.Droid.Resource.Styleable.View_paddingEnd;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.View_paddingStart = global::TabStrip.Sample.Droid.Resource.Styleable.View_paddingStart;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.View_theme = global::TabStrip.Sample.Droid.Resource.Styleable.View_theme;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ViewBackgroundHelper = global::TabStrip.Sample.Droid.Resource.Styleable.ViewBackgroundHelper;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::TabStrip.Sample.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::TabStrip.Sample.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::TabStrip.Sample.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ViewPagerIndicator = global::TabStrip.Sample.Droid.Resource.Styleable.ViewPagerIndicator;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ViewPagerIndicator_vpiCirclePageIndicatorStyle = global::TabStrip.Sample.Droid.Resource.Styleable.ViewPagerIndicator_vpiCirclePageIndicatorStyle;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ViewStubCompat = global::TabStrip.Sample.Droid.Resource.Styleable.ViewStubCompat;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ViewStubCompat_android_id = global::TabStrip.Sample.Droid.Resource.Styleable.ViewStubCompat_android_id;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::TabStrip.Sample.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::TabStrip.FormsPlugin.Android.Resource.Styleable.ViewStubCompat_android_layout = global::TabStrip.Sample.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::TabStrip.Sample.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -5014,33 +3298,6 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f0100f2
 			public const int voiceIcon = 2130772210;
 			
-			// aapt resource value: 0x7f010174
-			public const int vpiCentered = 2130772340;
-			
-			// aapt resource value: 0x7f010173
-			public const int vpiCirclePageIndicatorStyle = 2130772339;
-			
-			// aapt resource value: 0x7f010179
-			public const int vpiFillColor = 2130772345;
-			
-			// aapt resource value: 0x7f010176
-			public const int vpiOrientation = 2130772342;
-			
-			// aapt resource value: 0x7f010175
-			public const int vpiPageColor = 2130772341;
-			
-			// aapt resource value: 0x7f010178
-			public const int vpiRadius = 2130772344;
-			
-			// aapt resource value: 0x7f010177
-			public const int vpiSnap = 2130772343;
-			
-			// aapt resource value: 0x7f01017a
-			public const int vpiStrokeColor = 2130772346;
-			
-			// aapt resource value: 0x7f01017b
-			public const int vpiStrokeWidth = 2130772347;
-			
 			// aapt resource value: 0x7f010056
 			public const int windowActionBar = 2130772054;
 			
@@ -5099,12 +3356,6 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f0d0004
 			public const int abc_config_showMenuShortcutsWhenKeyboardPresent = 2131558404;
 			
-			// aapt resource value: 0x7f0d0005
-			public const int default_circle_indicator_centered = 2131558405;
-			
-			// aapt resource value: 0x7f0d0006
-			public const int default_circle_indicator_snap = 2131558406;
-			
 			static Boolean()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -5118,44 +3369,44 @@ namespace TabStrip.Sample.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0c0056
-			public const int abc_background_cache_hint_selector_material_dark = 2131492950;
+			// aapt resource value: 0x7f0c004b
+			public const int abc_background_cache_hint_selector_material_dark = 2131492939;
 			
-			// aapt resource value: 0x7f0c0057
-			public const int abc_background_cache_hint_selector_material_light = 2131492951;
+			// aapt resource value: 0x7f0c004c
+			public const int abc_background_cache_hint_selector_material_light = 2131492940;
 			
-			// aapt resource value: 0x7f0c0058
-			public const int abc_btn_colored_borderless_text_material = 2131492952;
+			// aapt resource value: 0x7f0c004d
+			public const int abc_btn_colored_borderless_text_material = 2131492941;
 			
-			// aapt resource value: 0x7f0c0059
-			public const int abc_btn_colored_text_material = 2131492953;
+			// aapt resource value: 0x7f0c004e
+			public const int abc_btn_colored_text_material = 2131492942;
 			
-			// aapt resource value: 0x7f0c005a
-			public const int abc_color_highlight_material = 2131492954;
+			// aapt resource value: 0x7f0c004f
+			public const int abc_color_highlight_material = 2131492943;
 			
-			// aapt resource value: 0x7f0c005b
-			public const int abc_hint_foreground_material_dark = 2131492955;
+			// aapt resource value: 0x7f0c0050
+			public const int abc_hint_foreground_material_dark = 2131492944;
 			
-			// aapt resource value: 0x7f0c005c
-			public const int abc_hint_foreground_material_light = 2131492956;
+			// aapt resource value: 0x7f0c0051
+			public const int abc_hint_foreground_material_light = 2131492945;
 			
 			// aapt resource value: 0x7f0c0004
 			public const int abc_input_method_navigation_guard = 2131492868;
 			
-			// aapt resource value: 0x7f0c005d
-			public const int abc_primary_text_disable_only_material_dark = 2131492957;
+			// aapt resource value: 0x7f0c0052
+			public const int abc_primary_text_disable_only_material_dark = 2131492946;
 			
-			// aapt resource value: 0x7f0c005e
-			public const int abc_primary_text_disable_only_material_light = 2131492958;
+			// aapt resource value: 0x7f0c0053
+			public const int abc_primary_text_disable_only_material_light = 2131492947;
 			
-			// aapt resource value: 0x7f0c005f
-			public const int abc_primary_text_material_dark = 2131492959;
+			// aapt resource value: 0x7f0c0054
+			public const int abc_primary_text_material_dark = 2131492948;
 			
-			// aapt resource value: 0x7f0c0060
-			public const int abc_primary_text_material_light = 2131492960;
+			// aapt resource value: 0x7f0c0055
+			public const int abc_primary_text_material_light = 2131492949;
 			
-			// aapt resource value: 0x7f0c0061
-			public const int abc_search_url_text = 2131492961;
+			// aapt resource value: 0x7f0c0056
+			public const int abc_search_url_text = 2131492950;
 			
 			// aapt resource value: 0x7f0c0005
 			public const int abc_search_url_text_normal = 2131492869;
@@ -5166,29 +3417,29 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f0c0007
 			public const int abc_search_url_text_selected = 2131492871;
 			
-			// aapt resource value: 0x7f0c0062
-			public const int abc_secondary_text_material_dark = 2131492962;
+			// aapt resource value: 0x7f0c0057
+			public const int abc_secondary_text_material_dark = 2131492951;
 			
-			// aapt resource value: 0x7f0c0063
-			public const int abc_secondary_text_material_light = 2131492963;
+			// aapt resource value: 0x7f0c0058
+			public const int abc_secondary_text_material_light = 2131492952;
 			
-			// aapt resource value: 0x7f0c0064
-			public const int abc_tint_btn_checkable = 2131492964;
+			// aapt resource value: 0x7f0c0059
+			public const int abc_tint_btn_checkable = 2131492953;
 			
-			// aapt resource value: 0x7f0c0065
-			public const int abc_tint_default = 2131492965;
+			// aapt resource value: 0x7f0c005a
+			public const int abc_tint_default = 2131492954;
 			
-			// aapt resource value: 0x7f0c0066
-			public const int abc_tint_edittext = 2131492966;
+			// aapt resource value: 0x7f0c005b
+			public const int abc_tint_edittext = 2131492955;
 			
-			// aapt resource value: 0x7f0c0067
-			public const int abc_tint_seek_thumb = 2131492967;
+			// aapt resource value: 0x7f0c005c
+			public const int abc_tint_seek_thumb = 2131492956;
 			
-			// aapt resource value: 0x7f0c0068
-			public const int abc_tint_spinner = 2131492968;
+			// aapt resource value: 0x7f0c005d
+			public const int abc_tint_spinner = 2131492957;
 			
-			// aapt resource value: 0x7f0c0069
-			public const int abc_tint_switch_track = 2131492969;
+			// aapt resource value: 0x7f0c005e
+			public const int abc_tint_switch_track = 2131492958;
 			
 			// aapt resource value: 0x7f0c0008
 			public const int accent_material_dark = 2131492872;
@@ -5244,20 +3495,11 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f0c0003
 			public const int cardview_shadow_start_color = 2131492867;
 			
-			// aapt resource value: 0x7f0c0053
-			public const int default_circle_indicator_fill_color = 2131492947;
-			
-			// aapt resource value: 0x7f0c0054
-			public const int default_circle_indicator_page_color = 2131492948;
-			
-			// aapt resource value: 0x7f0c0055
-			public const int default_circle_indicator_stroke_color = 2131492949;
-			
 			// aapt resource value: 0x7f0c0040
 			public const int design_bottom_navigation_shadow_color = 2131492928;
 			
-			// aapt resource value: 0x7f0c006a
-			public const int design_error = 2131492970;
+			// aapt resource value: 0x7f0c005f
+			public const int design_error = 2131492959;
 			
 			// aapt resource value: 0x7f0c0041
 			public const int design_fab_shadow_end_color = 2131492929;
@@ -5283,8 +3525,8 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f0c0048
 			public const int design_snackbar_background_color = 2131492936;
 			
-			// aapt resource value: 0x7f0c006b
-			public const int design_tint_password_toggle = 2131492971;
+			// aapt resource value: 0x7f0c0060
+			public const int design_tint_password_toggle = 2131492960;
 			
 			// aapt resource value: 0x7f0c0016
 			public const int dim_foreground_disabled_material_dark = 2131492886;
@@ -5406,11 +3648,11 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f0c003a
 			public const int switch_thumb_disabled_material_light = 2131492922;
 			
-			// aapt resource value: 0x7f0c006c
-			public const int switch_thumb_material_dark = 2131492972;
+			// aapt resource value: 0x7f0c0061
+			public const int switch_thumb_material_dark = 2131492961;
 			
-			// aapt resource value: 0x7f0c006d
-			public const int switch_thumb_material_light = 2131492973;
+			// aapt resource value: 0x7f0c0062
+			public const int switch_thumb_material_light = 2131492962;
 			
 			// aapt resource value: 0x7f0c003b
 			public const int switch_thumb_normal_material_dark = 2131492923;
@@ -5423,30 +3665,6 @@ namespace TabStrip.Sample.Droid
 			
 			// aapt resource value: 0x7f0c003e
 			public const int tooltip_background_light = 2131492926;
-			
-			// aapt resource value: 0x7f0c004b
-			public const int vpi__background_holo_dark = 2131492939;
-			
-			// aapt resource value: 0x7f0c004c
-			public const int vpi__background_holo_light = 2131492940;
-			
-			// aapt resource value: 0x7f0c004f
-			public const int vpi__bright_foreground_disabled_holo_dark = 2131492943;
-			
-			// aapt resource value: 0x7f0c0050
-			public const int vpi__bright_foreground_disabled_holo_light = 2131492944;
-			
-			// aapt resource value: 0x7f0c004d
-			public const int vpi__bright_foreground_holo_dark = 2131492941;
-			
-			// aapt resource value: 0x7f0c004e
-			public const int vpi__bright_foreground_holo_light = 2131492942;
-			
-			// aapt resource value: 0x7f0c0051
-			public const int vpi__bright_foreground_inverse_holo_dark = 2131492945;
-			
-			// aapt resource value: 0x7f0c0052
-			public const int vpi__bright_foreground_inverse_holo_light = 2131492946;
 			
 			static Color()
 			{
@@ -5706,12 +3924,6 @@ namespace TabStrip.Sample.Droid
 			
 			// aapt resource value: 0x7f070098
 			public const int compat_control_corner_material = 2131165336;
-			
-			// aapt resource value: 0x7f0700a4
-			public const int default_circle_indicator_radius = 2131165348;
-			
-			// aapt resource value: 0x7f0700a5
-			public const int default_circle_indicator_stroke_width = 2131165349;
 			
 			// aapt resource value: 0x7f070072
 			public const int design_appbar_elevation = 2131165298;
@@ -6933,41 +5145,41 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f080036
 			public const int SYM = 2131230774;
 			
-			// aapt resource value: 0x7f0800b9
-			public const int action0 = 2131230905;
+			// aapt resource value: 0x7f0800b5
+			public const int action0 = 2131230901;
 			
-			// aapt resource value: 0x7f08007d
-			public const int action_bar = 2131230845;
+			// aapt resource value: 0x7f08007b
+			public const int action_bar = 2131230843;
 			
 			// aapt resource value: 0x7f080001
 			public const int action_bar_activity_content = 2131230721;
 			
-			// aapt resource value: 0x7f08007c
-			public const int action_bar_container = 2131230844;
+			// aapt resource value: 0x7f08007a
+			public const int action_bar_container = 2131230842;
 			
-			// aapt resource value: 0x7f080078
-			public const int action_bar_root = 2131230840;
+			// aapt resource value: 0x7f080076
+			public const int action_bar_root = 2131230838;
 			
 			// aapt resource value: 0x7f080002
 			public const int action_bar_spinner = 2131230722;
 			
-			// aapt resource value: 0x7f08005c
-			public const int action_bar_subtitle = 2131230812;
+			// aapt resource value: 0x7f08005a
+			public const int action_bar_subtitle = 2131230810;
 			
-			// aapt resource value: 0x7f08005b
-			public const int action_bar_title = 2131230811;
+			// aapt resource value: 0x7f080059
+			public const int action_bar_title = 2131230809;
 			
-			// aapt resource value: 0x7f0800b6
-			public const int action_container = 2131230902;
+			// aapt resource value: 0x7f0800b2
+			public const int action_container = 2131230898;
 			
-			// aapt resource value: 0x7f08007e
-			public const int action_context_bar = 2131230846;
+			// aapt resource value: 0x7f08007c
+			public const int action_context_bar = 2131230844;
 			
-			// aapt resource value: 0x7f0800bd
-			public const int action_divider = 2131230909;
+			// aapt resource value: 0x7f0800b9
+			public const int action_divider = 2131230905;
 			
-			// aapt resource value: 0x7f0800b7
-			public const int action_image = 2131230903;
+			// aapt resource value: 0x7f0800b3
+			public const int action_image = 2131230899;
 			
 			// aapt resource value: 0x7f080003
 			public const int action_menu_divider = 2131230723;
@@ -6975,29 +5187,29 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f080004
 			public const int action_menu_presenter = 2131230724;
 			
-			// aapt resource value: 0x7f08007a
-			public const int action_mode_bar = 2131230842;
+			// aapt resource value: 0x7f080078
+			public const int action_mode_bar = 2131230840;
 			
-			// aapt resource value: 0x7f080079
-			public const int action_mode_bar_stub = 2131230841;
+			// aapt resource value: 0x7f080077
+			public const int action_mode_bar_stub = 2131230839;
 			
-			// aapt resource value: 0x7f08005d
-			public const int action_mode_close_button = 2131230813;
+			// aapt resource value: 0x7f08005b
+			public const int action_mode_close_button = 2131230811;
 			
-			// aapt resource value: 0x7f0800b8
-			public const int action_text = 2131230904;
+			// aapt resource value: 0x7f0800b4
+			public const int action_text = 2131230900;
 			
-			// aapt resource value: 0x7f0800c6
-			public const int actions = 2131230918;
+			// aapt resource value: 0x7f0800c2
+			public const int actions = 2131230914;
 			
-			// aapt resource value: 0x7f08005e
-			public const int activity_chooser_view_content = 2131230814;
+			// aapt resource value: 0x7f08005c
+			public const int activity_chooser_view_content = 2131230812;
 			
 			// aapt resource value: 0x7f08002b
 			public const int add = 2131230763;
 			
-			// aapt resource value: 0x7f080071
-			public const int alertTitle = 2131230833;
+			// aapt resource value: 0x7f08006f
+			public const int alertTitle = 2131230831;
 			
 			// aapt resource value: 0x7f080051
 			public const int all = 2131230801;
@@ -7020,11 +5232,11 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f08003c
 			public const int bottom = 2131230780;
 			
-			// aapt resource value: 0x7f080064
-			public const int buttonPanel = 2131230820;
+			// aapt resource value: 0x7f080062
+			public const int buttonPanel = 2131230818;
 			
-			// aapt resource value: 0x7f0800ba
-			public const int cancel_action = 2131230906;
+			// aapt resource value: 0x7f0800b6
+			public const int cancel_action = 2131230902;
 			
 			// aapt resource value: 0x7f080044
 			public const int center = 2131230788;
@@ -7035,11 +5247,11 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f080046
 			public const int center_vertical = 2131230790;
 			
-			// aapt resource value: 0x7f080074
-			public const int checkbox = 2131230836;
+			// aapt resource value: 0x7f080072
+			public const int checkbox = 2131230834;
 			
-			// aapt resource value: 0x7f0800c2
-			public const int chronometer = 2131230914;
+			// aapt resource value: 0x7f0800be
+			public const int chronometer = 2131230910;
 			
 			// aapt resource value: 0x7f08004d
 			public const int clip_horizontal = 2131230797;
@@ -7050,53 +5262,53 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f080038
 			public const int collapseActionView = 2131230776;
 			
-			// aapt resource value: 0x7f08008e
-			public const int container = 2131230862;
+			// aapt resource value: 0x7f08008c
+			public const int container = 2131230860;
 			
-			// aapt resource value: 0x7f080067
-			public const int contentPanel = 2131230823;
+			// aapt resource value: 0x7f080065
+			public const int contentPanel = 2131230821;
+			
+			// aapt resource value: 0x7f08008d
+			public const int coordinator = 2131230861;
+			
+			// aapt resource value: 0x7f08006c
+			public const int custom = 2131230828;
+			
+			// aapt resource value: 0x7f08006b
+			public const int customPanel = 2131230827;
+			
+			// aapt resource value: 0x7f080079
+			public const int decor_content_parent = 2131230841;
+			
+			// aapt resource value: 0x7f08005f
+			public const int default_activity_button = 2131230815;
 			
 			// aapt resource value: 0x7f08008f
-			public const int coordinator = 2131230863;
-			
-			// aapt resource value: 0x7f08006e
-			public const int custom = 2131230830;
-			
-			// aapt resource value: 0x7f08006d
-			public const int customPanel = 2131230829;
-			
-			// aapt resource value: 0x7f08007b
-			public const int decor_content_parent = 2131230843;
-			
-			// aapt resource value: 0x7f080061
-			public const int default_activity_button = 2131230817;
-			
-			// aapt resource value: 0x7f080091
-			public const int design_bottom_sheet = 2131230865;
-			
-			// aapt resource value: 0x7f080098
-			public const int design_menu_item_action_area = 2131230872;
-			
-			// aapt resource value: 0x7f080097
-			public const int design_menu_item_action_area_stub = 2131230871;
+			public const int design_bottom_sheet = 2131230863;
 			
 			// aapt resource value: 0x7f080096
-			public const int design_menu_item_text = 2131230870;
+			public const int design_menu_item_action_area = 2131230870;
 			
 			// aapt resource value: 0x7f080095
-			public const int design_navigation_view = 2131230869;
+			public const int design_menu_item_action_area_stub = 2131230869;
+			
+			// aapt resource value: 0x7f080094
+			public const int design_menu_item_text = 2131230868;
+			
+			// aapt resource value: 0x7f080093
+			public const int design_navigation_view = 2131230867;
 			
 			// aapt resource value: 0x7f08001f
 			public const int disableHome = 2131230751;
 			
-			// aapt resource value: 0x7f08007f
-			public const int edit_query = 2131230847;
+			// aapt resource value: 0x7f08007d
+			public const int edit_query = 2131230845;
 			
 			// aapt resource value: 0x7f08002f
 			public const int end = 2131230767;
 			
-			// aapt resource value: 0x7f0800c8
-			public const int end_padder = 2131230920;
+			// aapt resource value: 0x7f0800c4
+			public const int end_padder = 2131230916;
 			
 			// aapt resource value: 0x7f08003e
 			public const int enterAlways = 2131230782;
@@ -7107,11 +5319,11 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f080040
 			public const int exitUntilCollapsed = 2131230784;
 			
-			// aapt resource value: 0x7f08005f
-			public const int expand_activities_button = 2131230815;
+			// aapt resource value: 0x7f08005d
+			public const int expand_activities_button = 2131230813;
 			
-			// aapt resource value: 0x7f080073
-			public const int expanded_menu = 2131230835;
+			// aapt resource value: 0x7f080071
+			public const int expanded_menu = 2131230833;
 			
 			// aapt resource value: 0x7f08004f
 			public const int fill = 2131230799;
@@ -7137,26 +5349,20 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f080020
 			public const int homeAsUp = 2131230752;
 			
-			// aapt resource value: 0x7f080059
-			public const int horizontal = 2131230809;
+			// aapt resource value: 0x7f080061
+			public const int icon = 2131230817;
 			
-			// aapt resource value: 0x7f080063
-			public const int icon = 2131230819;
-			
-			// aapt resource value: 0x7f0800c7
-			public const int icon_group = 2131230919;
+			// aapt resource value: 0x7f0800c3
+			public const int icon_group = 2131230915;
 			
 			// aapt resource value: 0x7f080039
 			public const int ifRoom = 2131230777;
 			
-			// aapt resource value: 0x7f080060
-			public const int image = 2131230816;
+			// aapt resource value: 0x7f08005e
+			public const int image = 2131230814;
 			
-			// aapt resource value: 0x7f08009b
-			public const int indicator = 2131230875;
-			
-			// aapt resource value: 0x7f0800c3
-			public const int info = 2131230915;
+			// aapt resource value: 0x7f0800bf
+			public const int info = 2131230911;
 			
 			// aapt resource value: 0x7f080058
 			public const int italic = 2131230808;
@@ -7164,8 +5370,8 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f080000
 			public const int item_touch_helper_previous_elevation = 2131230720;
 			
-			// aapt resource value: 0x7f08008d
-			public const int largeLabel = 2131230861;
+			// aapt resource value: 0x7f08008b
+			public const int largeLabel = 2131230859;
 			
 			// aapt resource value: 0x7f080048
 			public const int left = 2131230792;
@@ -7179,17 +5385,17 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f08001c
 			public const int listMode = 2131230748;
 			
-			// aapt resource value: 0x7f080062
-			public const int list_item = 2131230818;
+			// aapt resource value: 0x7f080060
+			public const int list_item = 2131230816;
 			
-			// aapt resource value: 0x7f0800cd
-			public const int masked = 2131230925;
+			// aapt resource value: 0x7f0800c9
+			public const int masked = 2131230921;
 			
-			// aapt resource value: 0x7f0800bc
-			public const int media_actions = 2131230908;
+			// aapt resource value: 0x7f0800b8
+			public const int media_actions = 2131230904;
 			
-			// aapt resource value: 0x7f0800cb
-			public const int message = 2131230923;
+			// aapt resource value: 0x7f0800c7
+			public const int message = 2131230919;
 			
 			// aapt resource value: 0x7f080030
 			public const int middle = 2131230768;
@@ -7197,86 +5403,86 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f080052
 			public const int mini = 2131230802;
 			
-			// aapt resource value: 0x7f0800a8
-			public const int mr_art = 2131230888;
+			// aapt resource value: 0x7f0800a4
+			public const int mr_art = 2131230884;
 			
-			// aapt resource value: 0x7f08009d
-			public const int mr_chooser_list = 2131230877;
-			
-			// aapt resource value: 0x7f0800a0
-			public const int mr_chooser_route_desc = 2131230880;
-			
-			// aapt resource value: 0x7f08009e
-			public const int mr_chooser_route_icon = 2131230878;
-			
-			// aapt resource value: 0x7f08009f
-			public const int mr_chooser_route_name = 2131230879;
+			// aapt resource value: 0x7f080099
+			public const int mr_chooser_list = 2131230873;
 			
 			// aapt resource value: 0x7f08009c
-			public const int mr_chooser_title = 2131230876;
+			public const int mr_chooser_route_desc = 2131230876;
 			
-			// aapt resource value: 0x7f0800a5
-			public const int mr_close = 2131230885;
+			// aapt resource value: 0x7f08009a
+			public const int mr_chooser_route_icon = 2131230874;
 			
-			// aapt resource value: 0x7f0800ab
-			public const int mr_control_divider = 2131230891;
+			// aapt resource value: 0x7f08009b
+			public const int mr_chooser_route_name = 2131230875;
 			
-			// aapt resource value: 0x7f0800b1
-			public const int mr_control_playback_ctrl = 2131230897;
-			
-			// aapt resource value: 0x7f0800b4
-			public const int mr_control_subtitle = 2131230900;
-			
-			// aapt resource value: 0x7f0800b3
-			public const int mr_control_title = 2131230899;
-			
-			// aapt resource value: 0x7f0800b2
-			public const int mr_control_title_container = 2131230898;
-			
-			// aapt resource value: 0x7f0800a6
-			public const int mr_custom_control = 2131230886;
-			
-			// aapt resource value: 0x7f0800a7
-			public const int mr_default_control = 2131230887;
-			
-			// aapt resource value: 0x7f0800a2
-			public const int mr_dialog_area = 2131230882;
+			// aapt resource value: 0x7f080098
+			public const int mr_chooser_title = 2131230872;
 			
 			// aapt resource value: 0x7f0800a1
-			public const int mr_expandable_area = 2131230881;
+			public const int mr_close = 2131230881;
 			
-			// aapt resource value: 0x7f0800b5
-			public const int mr_group_expand_collapse = 2131230901;
-			
-			// aapt resource value: 0x7f0800a9
-			public const int mr_media_main_control = 2131230889;
-			
-			// aapt resource value: 0x7f0800a4
-			public const int mr_name = 2131230884;
-			
-			// aapt resource value: 0x7f0800aa
-			public const int mr_playback_control = 2131230890;
-			
-			// aapt resource value: 0x7f0800a3
-			public const int mr_title_bar = 2131230883;
-			
-			// aapt resource value: 0x7f0800ac
-			public const int mr_volume_control = 2131230892;
+			// aapt resource value: 0x7f0800a7
+			public const int mr_control_divider = 2131230887;
 			
 			// aapt resource value: 0x7f0800ad
-			public const int mr_volume_group_list = 2131230893;
-			
-			// aapt resource value: 0x7f0800af
-			public const int mr_volume_item_icon = 2131230895;
+			public const int mr_control_playback_ctrl = 2131230893;
 			
 			// aapt resource value: 0x7f0800b0
-			public const int mr_volume_slider = 2131230896;
+			public const int mr_control_subtitle = 2131230896;
+			
+			// aapt resource value: 0x7f0800af
+			public const int mr_control_title = 2131230895;
+			
+			// aapt resource value: 0x7f0800ae
+			public const int mr_control_title_container = 2131230894;
+			
+			// aapt resource value: 0x7f0800a2
+			public const int mr_custom_control = 2131230882;
+			
+			// aapt resource value: 0x7f0800a3
+			public const int mr_default_control = 2131230883;
+			
+			// aapt resource value: 0x7f08009e
+			public const int mr_dialog_area = 2131230878;
+			
+			// aapt resource value: 0x7f08009d
+			public const int mr_expandable_area = 2131230877;
+			
+			// aapt resource value: 0x7f0800b1
+			public const int mr_group_expand_collapse = 2131230897;
+			
+			// aapt resource value: 0x7f0800a5
+			public const int mr_media_main_control = 2131230885;
+			
+			// aapt resource value: 0x7f0800a0
+			public const int mr_name = 2131230880;
+			
+			// aapt resource value: 0x7f0800a6
+			public const int mr_playback_control = 2131230886;
+			
+			// aapt resource value: 0x7f08009f
+			public const int mr_title_bar = 2131230879;
+			
+			// aapt resource value: 0x7f0800a8
+			public const int mr_volume_control = 2131230888;
+			
+			// aapt resource value: 0x7f0800a9
+			public const int mr_volume_group_list = 2131230889;
+			
+			// aapt resource value: 0x7f0800ab
+			public const int mr_volume_item_icon = 2131230891;
+			
+			// aapt resource value: 0x7f0800ac
+			public const int mr_volume_slider = 2131230892;
 			
 			// aapt resource value: 0x7f080026
 			public const int multiply = 2131230758;
 			
-			// aapt resource value: 0x7f080094
-			public const int navigation_header_container = 2131230868;
+			// aapt resource value: 0x7f080092
+			public const int navigation_header_container = 2131230866;
 			
 			// aapt resource value: 0x7f08003a
 			public const int never = 2131230778;
@@ -7287,23 +5493,20 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f08001d
 			public const int normal = 2131230749;
 			
-			// aapt resource value: 0x7f0800c5
-			public const int notification_background = 2131230917;
+			// aapt resource value: 0x7f0800c1
+			public const int notification_background = 2131230913;
 			
-			// aapt resource value: 0x7f0800bf
-			public const int notification_main_column = 2131230911;
+			// aapt resource value: 0x7f0800bb
+			public const int notification_main_column = 2131230907;
 			
-			// aapt resource value: 0x7f0800be
-			public const int notification_main_column_container = 2131230910;
-			
-			// aapt resource value: 0x7f08009a
-			public const int pager = 2131230874;
+			// aapt resource value: 0x7f0800ba
+			public const int notification_main_column_container = 2131230906;
 			
 			// aapt resource value: 0x7f08004b
 			public const int parallax = 2131230795;
 			
-			// aapt resource value: 0x7f080066
-			public const int parentPanel = 2131230822;
+			// aapt resource value: 0x7f080064
+			public const int parentPanel = 2131230820;
 			
 			// aapt resource value: 0x7f08000b
 			public const int parent_matrix = 2131230731;
@@ -7317,17 +5520,17 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f080007
 			public const int progress_horizontal = 2131230727;
 			
-			// aapt resource value: 0x7f080076
-			public const int radio = 2131230838;
+			// aapt resource value: 0x7f080074
+			public const int radio = 2131230836;
 			
 			// aapt resource value: 0x7f080049
 			public const int right = 2131230793;
 			
-			// aapt resource value: 0x7f0800c4
-			public const int right_icon = 2131230916;
-			
 			// aapt resource value: 0x7f0800c0
-			public const int right_side = 2131230912;
+			public const int right_icon = 2131230912;
+			
+			// aapt resource value: 0x7f0800bc
+			public const int right_side = 2131230908;
 			
 			// aapt resource value: 0x7f08000c
 			public const int save_image_matrix = 2131230732;
@@ -7344,53 +5547,53 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f080041
 			public const int scroll = 2131230785;
 			
-			// aapt resource value: 0x7f08006c
-			public const int scrollIndicatorDown = 2131230828;
+			// aapt resource value: 0x7f08006a
+			public const int scrollIndicatorDown = 2131230826;
 			
-			// aapt resource value: 0x7f080068
-			public const int scrollIndicatorUp = 2131230824;
+			// aapt resource value: 0x7f080066
+			public const int scrollIndicatorUp = 2131230822;
 			
-			// aapt resource value: 0x7f080069
-			public const int scrollView = 2131230825;
+			// aapt resource value: 0x7f080067
+			public const int scrollView = 2131230823;
 			
 			// aapt resource value: 0x7f080054
 			public const int scrollable = 2131230804;
 			
-			// aapt resource value: 0x7f080081
-			public const int search_badge = 2131230849;
+			// aapt resource value: 0x7f08007f
+			public const int search_badge = 2131230847;
+			
+			// aapt resource value: 0x7f08007e
+			public const int search_bar = 2131230846;
 			
 			// aapt resource value: 0x7f080080
-			public const int search_bar = 2131230848;
-			
-			// aapt resource value: 0x7f080082
-			public const int search_button = 2131230850;
-			
-			// aapt resource value: 0x7f080087
-			public const int search_close_btn = 2131230855;
-			
-			// aapt resource value: 0x7f080083
-			public const int search_edit_frame = 2131230851;
-			
-			// aapt resource value: 0x7f080089
-			public const int search_go_btn = 2131230857;
-			
-			// aapt resource value: 0x7f080084
-			public const int search_mag_icon = 2131230852;
+			public const int search_button = 2131230848;
 			
 			// aapt resource value: 0x7f080085
-			public const int search_plate = 2131230853;
+			public const int search_close_btn = 2131230853;
 			
-			// aapt resource value: 0x7f080086
-			public const int search_src_text = 2131230854;
+			// aapt resource value: 0x7f080081
+			public const int search_edit_frame = 2131230849;
 			
-			// aapt resource value: 0x7f08008a
-			public const int search_voice_btn = 2131230858;
+			// aapt resource value: 0x7f080087
+			public const int search_go_btn = 2131230855;
 			
-			// aapt resource value: 0x7f08008b
-			public const int select_dialog_listview = 2131230859;
+			// aapt resource value: 0x7f080082
+			public const int search_mag_icon = 2131230850;
 			
-			// aapt resource value: 0x7f080075
-			public const int shortcut = 2131230837;
+			// aapt resource value: 0x7f080083
+			public const int search_plate = 2131230851;
+			
+			// aapt resource value: 0x7f080084
+			public const int search_src_text = 2131230852;
+			
+			// aapt resource value: 0x7f080088
+			public const int search_voice_btn = 2131230856;
+			
+			// aapt resource value: 0x7f080089
+			public const int select_dialog_listview = 2131230857;
+			
+			// aapt resource value: 0x7f080073
+			public const int shortcut = 2131230835;
 			
 			// aapt resource value: 0x7f080022
 			public const int showCustom = 2131230754;
@@ -7401,23 +5604,23 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f080024
 			public const int showTitle = 2131230756;
 			
-			// aapt resource value: 0x7f0800c9
-			public const int sliding_tabs = 2131230921;
+			// aapt resource value: 0x7f0800c5
+			public const int sliding_tabs = 2131230917;
 			
-			// aapt resource value: 0x7f08008c
-			public const int smallLabel = 2131230860;
+			// aapt resource value: 0x7f08008a
+			public const int smallLabel = 2131230858;
 			
-			// aapt resource value: 0x7f080093
-			public const int snackbar_action = 2131230867;
+			// aapt resource value: 0x7f080091
+			public const int snackbar_action = 2131230865;
 			
-			// aapt resource value: 0x7f080092
-			public const int snackbar_text = 2131230866;
+			// aapt resource value: 0x7f080090
+			public const int snackbar_text = 2131230864;
 			
 			// aapt resource value: 0x7f080042
 			public const int snap = 2131230786;
 			
-			// aapt resource value: 0x7f080065
-			public const int spacer = 2131230821;
+			// aapt resource value: 0x7f080063
+			public const int spacer = 2131230819;
 			
 			// aapt resource value: 0x7f080008
 			public const int split_action_bar = 2131230728;
@@ -7434,14 +5637,14 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f08004a
 			public const int start = 2131230794;
 			
-			// aapt resource value: 0x7f0800bb
-			public const int status_bar_latest_event_content = 2131230907;
+			// aapt resource value: 0x7f0800b7
+			public const int status_bar_latest_event_content = 2131230903;
 			
-			// aapt resource value: 0x7f080077
-			public const int submenuarrow = 2131230839;
+			// aapt resource value: 0x7f080075
+			public const int submenuarrow = 2131230837;
 			
-			// aapt resource value: 0x7f080088
-			public const int submit_area = 2131230856;
+			// aapt resource value: 0x7f080086
+			public const int submit_area = 2131230854;
 			
 			// aapt resource value: 0x7f08001e
 			public const int tabMode = 2131230750;
@@ -7452,14 +5655,14 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f08001a
 			public const int text2 = 2131230746;
 			
-			// aapt resource value: 0x7f08006b
-			public const int textSpacerNoButtons = 2131230827;
+			// aapt resource value: 0x7f080069
+			public const int textSpacerNoButtons = 2131230825;
 			
-			// aapt resource value: 0x7f08006a
-			public const int textSpacerNoTitle = 2131230826;
+			// aapt resource value: 0x7f080068
+			public const int textSpacerNoTitle = 2131230824;
 			
-			// aapt resource value: 0x7f080099
-			public const int text_input_password_toggle = 2131230873;
+			// aapt resource value: 0x7f080097
+			public const int text_input_password_toggle = 2131230871;
 			
 			// aapt resource value: 0x7f080014
 			public const int textinput_counter = 2131230740;
@@ -7467,29 +5670,29 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f080015
 			public const int textinput_error = 2131230741;
 			
-			// aapt resource value: 0x7f0800c1
-			public const int time = 2131230913;
+			// aapt resource value: 0x7f0800bd
+			public const int time = 2131230909;
 			
 			// aapt resource value: 0x7f08001b
 			public const int title = 2131230747;
 			
-			// aapt resource value: 0x7f080072
-			public const int titleDividerNoCustom = 2131230834;
-			
 			// aapt resource value: 0x7f080070
-			public const int title_template = 2131230832;
+			public const int titleDividerNoCustom = 2131230832;
 			
-			// aapt resource value: 0x7f0800ca
-			public const int toolbar = 2131230922;
+			// aapt resource value: 0x7f08006e
+			public const int title_template = 2131230830;
+			
+			// aapt resource value: 0x7f0800c6
+			public const int toolbar = 2131230918;
 			
 			// aapt resource value: 0x7f08003d
 			public const int top = 2131230781;
 			
-			// aapt resource value: 0x7f08006f
-			public const int topPanel = 2131230831;
+			// aapt resource value: 0x7f08006d
+			public const int topPanel = 2131230829;
 			
-			// aapt resource value: 0x7f080090
-			public const int touch_outside = 2131230864;
+			// aapt resource value: 0x7f08008e
+			public const int touch_outside = 2131230862;
 			
 			// aapt resource value: 0x7f08000f
 			public const int transition_current_scene = 2131230735;
@@ -7515,17 +5718,14 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f080025
 			public const int useLogo = 2131230757;
 			
-			// aapt resource value: 0x7f08005a
-			public const int vertical = 2131230810;
-			
 			// aapt resource value: 0x7f080016
 			public const int view_offset_helper = 2131230742;
 			
-			// aapt resource value: 0x7f0800cc
-			public const int visible = 2131230924;
+			// aapt resource value: 0x7f0800c8
+			public const int visible = 2131230920;
 			
-			// aapt resource value: 0x7f0800ae
-			public const int volume_item_container = 2131230894;
+			// aapt resource value: 0x7f0800aa
+			public const int volume_item_container = 2131230890;
 			
 			// aapt resource value: 0x7f08003b
 			public const int withText = 2131230779;
@@ -7563,9 +5763,6 @@ namespace TabStrip.Sample.Droid
 			
 			// aapt resource value: 0x7f0a0006
 			public const int config_tooltipAnimTime = 2131361798;
-			
-			// aapt resource value: 0x7f0a000d
-			public const int default_circle_indicator_orientation = 2131361805;
 			
 			// aapt resource value: 0x7f0a0007
 			public const int design_snackbar_text_max_lines = 2131361799;
@@ -7744,94 +5941,88 @@ namespace TabStrip.Sample.Droid
 			public const int design_text_input_password_icon = 2130903080;
 			
 			// aapt resource value: 0x7f030029
-			public const int horizontal_viewpager = 2130903081;
+			public const int mr_chooser_dialog = 2130903081;
 			
 			// aapt resource value: 0x7f03002a
-			public const int mr_chooser_dialog = 2130903082;
+			public const int mr_chooser_list_item = 2130903082;
 			
 			// aapt resource value: 0x7f03002b
-			public const int mr_chooser_list_item = 2130903083;
+			public const int mr_controller_material_dialog_b = 2130903083;
 			
 			// aapt resource value: 0x7f03002c
-			public const int mr_controller_material_dialog_b = 2130903084;
+			public const int mr_controller_volume_item = 2130903084;
 			
 			// aapt resource value: 0x7f03002d
-			public const int mr_controller_volume_item = 2130903085;
+			public const int mr_playback_control = 2130903085;
 			
 			// aapt resource value: 0x7f03002e
-			public const int mr_playback_control = 2130903086;
+			public const int mr_volume_control = 2130903086;
 			
 			// aapt resource value: 0x7f03002f
-			public const int mr_volume_control = 2130903087;
+			public const int notification_action = 2130903087;
 			
 			// aapt resource value: 0x7f030030
-			public const int notification_action = 2130903088;
+			public const int notification_action_tombstone = 2130903088;
 			
 			// aapt resource value: 0x7f030031
-			public const int notification_action_tombstone = 2130903089;
+			public const int notification_media_action = 2130903089;
 			
 			// aapt resource value: 0x7f030032
-			public const int notification_media_action = 2130903090;
+			public const int notification_media_cancel_action = 2130903090;
 			
 			// aapt resource value: 0x7f030033
-			public const int notification_media_cancel_action = 2130903091;
+			public const int notification_template_big_media = 2130903091;
 			
 			// aapt resource value: 0x7f030034
-			public const int notification_template_big_media = 2130903092;
+			public const int notification_template_big_media_custom = 2130903092;
 			
 			// aapt resource value: 0x7f030035
-			public const int notification_template_big_media_custom = 2130903093;
+			public const int notification_template_big_media_narrow = 2130903093;
 			
 			// aapt resource value: 0x7f030036
-			public const int notification_template_big_media_narrow = 2130903094;
+			public const int notification_template_big_media_narrow_custom = 2130903094;
 			
 			// aapt resource value: 0x7f030037
-			public const int notification_template_big_media_narrow_custom = 2130903095;
+			public const int notification_template_custom_big = 2130903095;
 			
 			// aapt resource value: 0x7f030038
-			public const int notification_template_custom_big = 2130903096;
+			public const int notification_template_icon_group = 2130903096;
 			
 			// aapt resource value: 0x7f030039
-			public const int notification_template_icon_group = 2130903097;
+			public const int notification_template_lines_media = 2130903097;
 			
 			// aapt resource value: 0x7f03003a
-			public const int notification_template_lines_media = 2130903098;
+			public const int notification_template_media = 2130903098;
 			
 			// aapt resource value: 0x7f03003b
-			public const int notification_template_media = 2130903099;
+			public const int notification_template_media_custom = 2130903099;
 			
 			// aapt resource value: 0x7f03003c
-			public const int notification_template_media_custom = 2130903100;
+			public const int notification_template_part_chronometer = 2130903100;
 			
 			// aapt resource value: 0x7f03003d
-			public const int notification_template_part_chronometer = 2130903101;
+			public const int notification_template_part_time = 2130903101;
 			
 			// aapt resource value: 0x7f03003e
-			public const int notification_template_part_time = 2130903102;
+			public const int select_dialog_item_material = 2130903102;
 			
 			// aapt resource value: 0x7f03003f
-			public const int select_dialog_item_material = 2130903103;
+			public const int select_dialog_multichoice_material = 2130903103;
 			
 			// aapt resource value: 0x7f030040
-			public const int select_dialog_multichoice_material = 2130903104;
+			public const int select_dialog_singlechoice_material = 2130903104;
 			
 			// aapt resource value: 0x7f030041
-			public const int select_dialog_singlechoice_material = 2130903105;
+			public const int support_simple_spinner_dropdown_item = 2130903105;
 			
 			// aapt resource value: 0x7f030042
-			public const int support_simple_spinner_dropdown_item = 2130903106;
+			public const int Tabbar = 2130903106;
 			
 			// aapt resource value: 0x7f030043
-			public const int Tabbar = 2130903107;
+			public const int Toolbar = 2130903107;
 			
 			// aapt resource value: 0x7f030044
-			public const int Toolbar = 2130903108;
-			
-			// aapt resource value: 0x7f030045
-			public const int tooltip = 2130903109;
-			
-			// aapt resource value: 0x7f030046
-			public const int vertical_viewpager = 2130903110;
+			public const int tooltip = 2130903108;
 			
 			static Layout()
 			{
@@ -8063,8 +6254,8 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f0b0178
 			public const int Animation_Design_BottomSheetDialog = 2131427704;
 			
-			// aapt resource value: 0x7f0b019e
-			public const int AppCompatDialogStyle = 2131427742;
+			// aapt resource value: 0x7f0b019b
+			public const int AppCompatDialogStyle = 2131427739;
 			
 			// aapt resource value: 0x7f0b00b1
 			public const int Base_AlertDialog_AppCompat = 2131427505;
@@ -8567,11 +6758,11 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f0b000e
 			public const int CardView_Light = 2131427342;
 			
-			// aapt resource value: 0x7f0b019c
-			public const int MainTheme = 2131427740;
+			// aapt resource value: 0x7f0b0199
+			public const int MainTheme = 2131427737;
 			
-			// aapt resource value: 0x7f0b019d
-			public const int MainTheme_Base = 2131427741;
+			// aapt resource value: 0x7f0b019a
+			public const int MainTheme_Base = 2131427738;
 			
 			// aapt resource value: 0x7f0b002d
 			public const int Platform_AppCompat = 2131427373;
@@ -8993,9 +7184,6 @@ namespace TabStrip.Sample.Droid
 			// aapt resource value: 0x7f0b0006
 			public const int Theme_MediaRouter_LightControlPanel = 2131427334;
 			
-			// aapt resource value: 0x7f0b0199
-			public const int Theme_PageIndicatorDefaults = 2131427737;
-			
 			// aapt resource value: 0x7f0b0120
 			public const int ThemeOverlay_AppCompat = 2131427616;
 			
@@ -9022,9 +7210,6 @@ namespace TabStrip.Sample.Droid
 			
 			// aapt resource value: 0x7f0b0008
 			public const int ThemeOverlay_MediaRouter_Light = 2131427336;
-			
-			// aapt resource value: 0x7f0b019a
-			public const int Widget = 2131427738;
 			
 			// aapt resource value: 0x7f0b0127
 			public const int Widget_AppCompat_ActionBar = 2131427623;
@@ -9241,9 +7426,6 @@ namespace TabStrip.Sample.Droid
 			
 			// aapt resource value: 0x7f0b016e
 			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131427694;
-			
-			// aapt resource value: 0x7f0b019b
-			public const int Widget_CirclePageIndicator = 2131427739;
 			
 			// aapt resource value: 0x7f0b0196
 			public const int Widget_Compat_NotificationActionContainer = 2131427734;
@@ -10216,40 +8398,6 @@ namespace TabStrip.Sample.Droid
 			
 			// aapt resource value: 11
 			public const int CardView_contentPaddingTop = 11;
-			
-			public static int[] CirclePageIndicator = new int[] {
-					2130772340,
-					2130772341,
-					2130772342,
-					2130772343,
-					2130772344,
-					2130772345,
-					2130772346,
-					2130772347};
-			
-			// aapt resource value: 0
-			public const int CirclePageIndicator_vpiCentered = 0;
-			
-			// aapt resource value: 5
-			public const int CirclePageIndicator_vpiFillColor = 5;
-			
-			// aapt resource value: 2
-			public const int CirclePageIndicator_vpiOrientation = 2;
-			
-			// aapt resource value: 1
-			public const int CirclePageIndicator_vpiPageColor = 1;
-			
-			// aapt resource value: 4
-			public const int CirclePageIndicator_vpiRadius = 4;
-			
-			// aapt resource value: 3
-			public const int CirclePageIndicator_vpiSnap = 3;
-			
-			// aapt resource value: 6
-			public const int CirclePageIndicator_vpiStrokeColor = 6;
-			
-			// aapt resource value: 7
-			public const int CirclePageIndicator_vpiStrokeWidth = 7;
 			
 			public static int[] CollapsingToolbarLayout = new int[] {
 					2130772005,
@@ -11426,12 +9574,6 @@ namespace TabStrip.Sample.Droid
 			
 			// aapt resource value: 2
 			public const int ViewBackgroundHelper_backgroundTintMode = 2;
-			
-			public static int[] ViewPagerIndicator = new int[] {
-					2130772339};
-			
-			// aapt resource value: 0
-			public const int ViewPagerIndicator_vpiCirclePageIndicatorStyle = 0;
 			
 			public static int[] ViewStubCompat = new int[] {
 					16842960,
