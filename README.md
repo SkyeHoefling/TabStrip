@@ -79,7 +79,7 @@ BindingContext = new
 |-------------|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
 | Position    | Gets or Sets current tab position of the tab strip.                                                                                 | `0`                        |
 | ItemsSource | Gets or Sets the `IEnumerable<TabModel>` where the `TabModel` defines the Tab Name and the View/ViewModel relationship for each Tab | `null`                     |
-| ShowArrows  | Gets or Sets the `bool` value that determines if navigation arrows will appear on top of the content area                           | `true`                     |
+| ShowArrows  | Gets or Sets the `bool` value that determines if navigation arrows will appear on top of the content area                           | `fakse`                    |
 | LeftArrow   | Gets or Sets the `ImageSource` for the `LeftArrow` which is displayed when the tab can navigate left                                | Embedded Left Arrow Image  |
 | RightArrow  | Gets or Sets the `ImageSource` for the `RightArrow` which is displayed when the tab can navigate right                              | Embedded Right Arrow Image |
 

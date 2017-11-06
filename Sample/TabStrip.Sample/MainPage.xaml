@@ -6,6 +6,7 @@
              x:Class="TabStrip.Sample.MainPage">
     <ContentPage.Content>
         <plugin:TabStripControl Position="{Binding Position}"
-                                ItemsSource="{Binding Data}" />
+                                ItemsSource="{Binding Data}"
+                                ShowArrows="True"/>
     </ContentPage.Content>
 </ContentPage>

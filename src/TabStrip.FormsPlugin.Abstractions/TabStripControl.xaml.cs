@@ -19,6 +19,19 @@ namespace TabStrip.FormsPlugin.Abstractions
             ViewModel = new TabStripControlModel();
         }
 
+        public static readonly BindableProperty ShowArrowsProperty = BindableProperty.Create(
+            "ShowArrows",
+            typeof(bool),
+            typeof(TabStripControl),
+            false,
+            BindingMode.Default);
+
+        public bool ShowArrows
+        {
+            get { return (bool)GetValue(ShowArrowsProperty); }
+            set { SetValue(ShowArrowsProperty, value); }
+        }
+
         public static readonly BindableProperty LeftArrowProperty = BindableProperty.Create(
             "LeftArrow",
             typeof(ImageSource),

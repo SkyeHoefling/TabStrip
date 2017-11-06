@@ -34,7 +34,9 @@
                                               CommandParameter="-1" />
                     </StackLayout.GestureRecognizers>
                     <Image Source="{Binding Source={x:Reference this},
-                                            Path=LeftArrow}" />
+                                            Path=LeftArrow}"
+                           IsVisible="{Binding Source={x:Reference this},
+                                               Path=ShowArrows}"/>
                 </StackLayout>
                 <StackLayout VerticalOptions="CenterAndExpand"
                              HorizontalOptions="EndAndExpand"
@@ -46,7 +48,9 @@
                                               CommandParameter="1"/>
                     </StackLayout.GestureRecognizers>
                     <Image Source="{Binding Source={x:Reference this},
-                                            Path=RightArrow}" />
+                                            Path=RightArrow}"
+                           IsVisible="{Binding Source={x:Reference this},
+                                               Path=ShowArrows}"/>
                 </StackLayout>
             </Grid>
         </StackLayout>
