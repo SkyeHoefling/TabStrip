@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Reflection;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -16,6 +17,45 @@ namespace TabStrip.FormsPlugin.Abstractions
             Position = 0;
 
             ViewModel = new TabStripControlModel();
+        }
+
+        public static readonly BindableProperty ShowArrowsProperty = BindableProperty.Create(
+            "ShowArrows",
+            typeof(bool),
+            typeof(TabStripControl),
+            false,
+            BindingMode.Default);
+
+        public bool ShowArrows
+        {
+            get { return (bool)GetValue(ShowArrowsProperty); }
+            set { SetValue(ShowArrowsProperty, value); }
+        }
+
+        public static readonly BindableProperty LeftArrowProperty = BindableProperty.Create(
+            "LeftArrow",
+            typeof(ImageSource),
+            typeof(TabStripControl),
+            ImageSource.FromResource("TabStrip.FormsPlugin.Abstractions.left_arrow.png", Assembly.GetExecutingAssembly()),
+            BindingMode.Default);
+
+        public ImageSource LeftArrow
+        {
+            get { return (ImageSource)GetValue(LeftArrowProperty); }
+            set { SetValue(LeftArrowProperty, value); }
+        }
+
+        public static readonly BindableProperty RightArrowProperty = BindableProperty.Create(
+            "RightArrow",
+            typeof(ImageSource),
+            typeof(TabStripControl),
+            ImageSource.FromResource("TabStrip.FormsPlugin.Abstractions.right_arrow.png", Assembly.GetExecutingAssembly()),
+            BindingMode.Default);
+
+        public ImageSource RightArrow
+        {
+            get { return (ImageSource)GetValue(RightArrowProperty); }
+            set { SetValue(RightArrowProperty, value); }
         }
 
         public static readonly BindableProperty PositionProperty = BindableProperty.Create(
