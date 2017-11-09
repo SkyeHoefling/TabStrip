@@ -9,33 +9,33 @@ namespace TabStrip.Sample
         public class Context
         {
             public Context()
-            {                
+            {
                 Data = new ObservableCollection<TabModel>(new[]
                 {
                     new TabModel
                     {
                         Header = (new HeaderView(), new { Title = "Tab 1" }),
-                        View = (new HelloView(), new HelloPageModel())
+                        View = (new HelloView(), new { Message = "Tab Strip" })
                     },
                     new TabModel
                     {
                         Header = (new HeaderView(), new { Title = "Tab 2" }),
-                        View = (new HelloView(), new HelloPageModel())
+                        View = (new HelloView(), new { Message = "Tab Strip" })
                     },
                     new TabModel
                     {
                         Header = (new HeaderView(), new { Title = "Tab 3" }),
-                        View = (new HelloView(), new HelloPageModel())
+                        View = (new HelloView(), new { Message = "Tab Strip" })
                     },
                     new TabModel
                     {
                         Header = (new HeaderView(), new { Title = "Tab 4" }),
-                        View = (new HelloView(), new HelloPageModel())
+                        View = (new HelloView(), new { Message = "Tab Strip" })
                     },
                     new TabModel
                     {
                         Header = (new HeaderView(), new { Title = "Tab 5" }),
-                        View = (new HelloView(), new HelloPageModel())
+                        View = (new HelloView(), new { Message = "Tab Strip" })
                     }
                 });
                 Position = 2;

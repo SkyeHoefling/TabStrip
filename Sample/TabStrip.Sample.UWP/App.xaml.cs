@@ -1,21 +1,10 @@
-﻿//using CarouselView.FormsPlugin.UWP;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.IO;
-using System.Linq;
 using System.Reflection;
-using System.Runtime.InteropServices.WindowsRuntime;
-using TabStrip.FormsPlugin.UWP;
 using Windows.ApplicationModel;
 using Windows.ApplicationModel.Activation;
-using Windows.Foundation;
-using Windows.Foundation.Collections;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
-using Windows.UI.Xaml.Controls.Primitives;
-using Windows.UI.Xaml.Data;
-using Windows.UI.Xaml.Input;
-using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
 namespace TabStrip.Sample.UWP
@@ -60,7 +49,9 @@ namespace TabStrip.Sample.UWP
                 rootFrame = new Frame();
 
                 rootFrame.NavigationFailed += OnNavigationFailed;
-                Xamarin.Forms.Forms.Init(e);
+                var assemblies = new List<Assembly>();
+                assemblies.Add(typeof(TabStrip.FormsPlugin.Abstractions.TabStripControl).Assembly);
+                Xamarin.Forms.Forms.Init(e, assemblies);
                 
 
                 if (e.PreviousExecutionState == ApplicationExecutionState.Terminated)

@@ -4,9 +4,9 @@
              x:Class="TabStrip.Sample.HelloView">
     <ContentView.Content>
         <StackLayout>
-            <Label Text="Tab Strip"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="{Binding Message}"
+                   VerticalOptions="CenterAndExpand" 
+                   HorizontalOptions="CenterAndExpand" />
         </StackLayout>
     </ContentView.Content>
 </ContentView>
