@@ -15,27 +15,27 @@ namespace TabStrip.Sample
                     new TabModel
                     {
                         Header = (new HeaderView(), new { Title = "Tab 1" }),
-                        View = (new HelloView(), new { Message = "Tab Strip" })
+                        View = (new HelloView(), new { Message = "Tab Strip 1" })
                     },
                     new TabModel
                     {
                         Header = (new HeaderView(), new { Title = "Tab 2" }),
-                        View = (new HelloView(), new { Message = "Tab Strip" })
+                        View = (new HelloView(), new { Message = "Tab Strip 2" })
                     },
                     new TabModel
                     {
                         Header = (new HeaderView(), new { Title = "Tab 3" }),
-                        View = (new HelloView(), new { Message = "Tab Strip" })
+                        View = (new HelloView(), new { Message = "Tab Strip 3" })
                     },
                     new TabModel
                     {
                         Header = (new HeaderView(), new { Title = "Tab 4" }),
-                        View = (new HelloView(), new { Message = "Tab Strip" })
+                        View = (new HelloView(), new { Message = "Tab Strip 4" })
                     },
                     new TabModel
                     {
                         Header = (new HeaderView(), new { Title = "Tab 5" }),
-                        View = (new HelloView(), new { Message = "Tab Strip" })
+                        View = (new HelloView(), new { Message = "Tab Strip 5" })
                     }
                 });
                 Position = 2;
