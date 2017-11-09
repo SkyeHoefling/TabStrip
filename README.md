@@ -3,7 +3,7 @@ Tab Strip control for Xamarin.Forms
 
 ## Setup
 
-* Available on NuGet: Not yet released
+* Available on NuGet: [![NuGet](https://img.shields.io/nuget/v/TabStrip.svg?label=NuGet)](https://www.nuget.org/packages/TabStrip)
 * Install into your PCL/.NET Standard and Client Projects
 
 ## Build
@@ -24,8 +24,6 @@ TabStrip is available for use in *Xamarin.Forms* only targetting the following s
 | tvOS             | No        |             |
 | watchOS          | No        |             |
 
-
-* Project still in development no NuGet releases yet
 
 ## Usage ##
 
