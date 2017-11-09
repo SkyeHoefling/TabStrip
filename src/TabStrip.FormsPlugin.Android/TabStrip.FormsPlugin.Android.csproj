@@ -102,6 +102,10 @@
       <Project>{b7046c92-5512-4b02-b627-5ad202af580f}</Project>
       <Name>CarouselView.FormsPlugin.Abstractions</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\CarouselView\CarouselView.FormsPlugin.Android\CarouselView.FormsPlugin.Android.csproj">
+      <Project>{c7c938bf-86ac-4863-8c91-0d9ce79b1c15}</Project>
+      <Name>CarouselView.FormsPlugin.Android</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TabStrip.FormsPlugin.Abstractions\TabStrip.FormsPlugin.Abstractions.csproj">
       <Project>{e03c7dac-88a2-41a4-895d-ff05df835117}</Project>
       <Name>TabStrip.FormsPlugin.Abstractions</Name>
