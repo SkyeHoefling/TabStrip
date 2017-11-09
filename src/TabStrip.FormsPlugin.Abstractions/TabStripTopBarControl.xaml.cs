@@ -23,8 +23,8 @@ namespace TabStrip.FormsPlugin.Abstractions
                 grid.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
                 var view = new ContentView
                 {
-                    Content = context.Tabs[index].Header.Item1,
-                    BindingContext = context.Tabs[index].Header.Item2
+                    Content = context.Tabs[index].Header.View,
+                    BindingContext = context.Tabs[index].Header.BindingContext
                 };
                 
                 var tapGestureRecognizer = new TapGestureRecognizer();
