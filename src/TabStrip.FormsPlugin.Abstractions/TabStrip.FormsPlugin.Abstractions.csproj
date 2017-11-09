@@ -9,6 +9,9 @@
     <RepositoryUrl>https://www.github.com/ahoefling/TabStrip</RepositoryUrl>
     <SignAssembly>false</SignAssembly>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
   <ItemGroup>
     <None Remove="left_arrow.png" />
     <None Remove="right_arrow.png" />
