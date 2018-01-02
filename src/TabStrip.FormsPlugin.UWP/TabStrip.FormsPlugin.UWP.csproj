@@ -115,22 +115,17 @@
     <EmbeddedResource Include="Properties\CarouselView.FormsPlugin.UWP.rd.xml" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="CarouselView.FormsPlugin">
+      <Version>5.0.2</Version>
+    </PackageReference>
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
       <Version>6.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms">
-      <Version>2.4.0.38779</Version>
+      <Version>2.5.0.121934</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\CarouselView\CarouselView.FormsPlugin.Abstractions\CarouselView.FormsPlugin.Abstractions.csproj">
-      <Project>{8e2154c6-cd0a-4ae0-94c5-f20cdbcbbd5a}</Project>
-      <Name>CarouselView.FormsPlugin.Abstractions</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\CarouselView\CarouselView.FormsPlugin.UWP\CarouselView.FormsPlugin.UWP.csproj">
-      <Project>{9916a87b-5503-4e08-a21f-6ceb46cf09fd}</Project>
-      <Name>CarouselView.FormsPlugin.UWP</Name>
-    </ProjectReference>
     <ProjectReference Include="..\TabStrip.FormsPlugin.Abstractions\TabStrip.FormsPlugin.Abstractions.csproj">
       <Project>{33c78e27-d0fb-4b07-aae7-8724ca002ff1}</Project>
       <Name>TabStrip.FormsPlugin.Abstractions</Name>
