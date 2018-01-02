@@ -11,12 +11,12 @@ namespace TabStrip.FormsPlugin.Abstractions
         {
             _templates = new Dictionary<View, DataTemplate>();
             foreach (var item in tabs)
-                _templates.Add(item.Header.View, new DataTemplate(() =>
+                _templates.Add(item.Header.Item1, new DataTemplate(() =>
                 {
-                    item.View.View.BindingContext = item.View.BindingContext;
+                    item.View.Item1.BindingContext = item.View.Item2;
                     return new ContentView
                     {
-                        Content = item.View.View
+                        Content = item.View.Item1
                     };
                 }));
         }
@@ -24,7 +24,7 @@ namespace TabStrip.FormsPlugin.Abstractions
         protected override DataTemplate OnSelectTemplate(object item, BindableObject container)
         {            
             var tab = (TabModel)item;
-            return _templates[tab.Header.View];
+            return _templates[tab.Header.Item1];
         }
     }
 }

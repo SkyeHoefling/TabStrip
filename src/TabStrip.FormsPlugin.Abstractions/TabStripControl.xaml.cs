@@ -36,7 +36,7 @@ namespace TabStrip.FormsPlugin.Abstractions
             "LeftArrow",
             typeof(ImageSource),
             typeof(TabStripControl),
-            ImageSource.FromResource("TabStrip.FormsPlugin.Abstractions.left_arrow.png", Assembly.GetExecutingAssembly()),
+            ImageSource.FromResource("TabStrip.FormsPlugin.Abstractions.left_arrow.png", typeof(TabStripControl).GetTypeInfo().Assembly),
             BindingMode.Default);
 
         public ImageSource LeftArrow
@@ -49,7 +49,7 @@ namespace TabStrip.FormsPlugin.Abstractions
             "RightArrow",
             typeof(ImageSource),
             typeof(TabStripControl),
-            ImageSource.FromResource("TabStrip.FormsPlugin.Abstractions.right_arrow.png", Assembly.GetExecutingAssembly()),
+            ImageSource.FromResource("TabStrip.FormsPlugin.Abstractions.right_arrow.png", typeof(TabStripControl).GetTypeInfo().Assembly),
             BindingMode.Default);
 
         public ImageSource RightArrow
