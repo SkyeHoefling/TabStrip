@@ -20,7 +20,7 @@ namespace TabStrip.Sample.UWP
         public MainPage()
         {
             this.InitializeComponent();
-
+            TabStrip.FormsPlugin.UWP.TabStripRenderer.Init();
             LoadApplication(new TabStrip.Sample.App());
         }
     }
