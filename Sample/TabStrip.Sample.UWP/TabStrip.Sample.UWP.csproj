@@ -148,6 +148,9 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="CarouselView.FormsPlugin">
+      <Version>5.0.2</Version>
+    </PackageReference>
     <PackageReference Include="TabStrip">
       <Version>0.0.9999</Version>
     </PackageReference>

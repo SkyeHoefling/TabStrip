@@ -15,31 +15,31 @@
     <tags>Xamarin, TabStrip, iOS, android, UWP, Xamarin.forms</tags>
     <dependencies>
       <group targetFramework="MonoAndroid10">
-        <dependency id="Xamarin.Forms" version="2.4.0.38779"/>
+        <dependency id="Xamarin.Forms" version="2.5.0.121934"/>
         <dependency id="Xamarin.Android.Support.v4" version="23.3.0"/>
+        <dependency id="CarouselView.FormsPlugin" version="5.0.2" />
       </group>
       <group targetFramework="Xamarin.iOS10">
-        <dependency id="Xamarin.Forms" version="2.4.0.38779"/>
+        <dependency id="Xamarin.Forms" version="2.5.0.121934"/>
+        <dependency id="CarouselView.FormsPlugin" version="5.0.2" />
       </group>
-      <group targetFramework="UAP10">
-        <dependency id="Xamarin.Forms" version="2.4.0.38799"/>
+      <group targetFramework="uap10.0">
+        <dependency id="Xamarin.Forms" version="2.5.0.121934"/>
+        <dependency id="CarouselView.FormsPlugin" version="5.0.2" />
       </group>
     </dependencies>
   </metadata>
   <files>
     <!-- shared -->
-    <file src="..\src\TabStrip.FormsPlugin.Abstractions\bin\Release\netstandard2.0\TabStrip.FormsPlugin.*" target="lib\netstandard2.0" />
-    <file src="..\src\TabStrip.FormsPlugin.Abstractions\bin\Release\netstandard2.0\CarouselView.FormsPlugin.*" target="lib\netstandard2.0" />
+    <file src="..\src\TabStrip.FormsPlugin.Abstractions\bin\Release\netstandard2.0\TabStrip.FormsPlugin.*" target="lib\netstandard2.0" />    
 
     <!-- iOS -->
-    <file src="..\src\TabStrip.FormsPlugin.iOS\bin\iPhone\Release\TabStrip.FormsPlugin.*" target="lib\Xamarin.iOS10" />
-    <file src="..\src\TabStrip.FormsPlugin.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.*" target="lib\Xamarin.iOS10" />
+    <file src="..\src\TabStrip.FormsPlugin.iOS\bin\iPhone\Release\TabStrip.FormsPlugin.*" target="lib\Xamarin.iOS10" />    
 
     <!-- android -->
-    <file src="..\src\TabStrip.FormsPlugin.Android\bin\Release\TabStrip.FormsPlugin.*" target="lib\MonoAndroid10" />
-    <file src="..\src\TabStrip.FormsPlugin.Android\bin\Release\CarouselView.FormsPlugin.*" target="lib\MonoAndroid10" />
+    <file src="..\src\TabStrip.FormsPlugin.Android\bin\Release\TabStrip.FormsPlugin.*" target="lib\MonoAndroid10" />    
 
     <!-- UWP -->
-    <file src="..\src\TabStrip.formsPlugin.UWP\bin\Release\**\*" target="lib\UAP10" />
+    <file src="..\src\TabStrip.formsPlugin.UWP\bin\Release\**\*" target="lib\uap10.0" />
   </files>
 </package>
