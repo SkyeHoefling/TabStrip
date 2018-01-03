@@ -1,6 +1,11 @@
 # TabStrip for Xamarin.Forms
 Tab Strip control for Xamarin.Forms
 
+## Screenshots
+| iOS                       | Android                     | UWP                       |
+|---------------------------|-----------------------------|---------------------------|
+|![uwp](/docs/ios.png)      | ![uwp](/docs/android.png)   |![uwp](/docs/uwp.png)      |
+
 ## Setup
 
 * Available on NuGet: [![NuGet](https://img.shields.io/nuget/v/TabStrip.svg?label=NuGet)](https://www.nuget.org/packages/TabStrip)
