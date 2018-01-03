@@ -27,7 +27,10 @@ TabStrip is available for use in *Xamarin.Forms* only targetting the following s
 
 ## Usage ##
 
-#### iOS and Droid ####
+#### UWP (Known Issue) ####
+Add CarouselView.FormsPlugin as a nuget reference otherwise it will not work
+
+#### iOS, Droid and UWP ####
 Initialize the renderers in your iOS and Android projects
 
 ```c#
