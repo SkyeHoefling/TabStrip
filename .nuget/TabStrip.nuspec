@@ -31,7 +31,7 @@
   </metadata>
   <files>
     <!-- shared -->
-    <file src="..\src\TabStrip.FormsPlugin.Abstractions\bin\Release\netstandard2.0\TabStrip.FormsPlugin.*" target="lib\netstandard2.0" />    
+    <file src="..\src\TabStrip.FormsPlugin.Abstractions\bin\Release\netstandard2.0\TabStrip.FormsPlugin.*" target="lib\netstandard1.4" />    
 
     <!-- iOS -->
     <file src="..\src\TabStrip.FormsPlugin.iOS\bin\iPhone\Release\TabStrip.FormsPlugin.*" target="lib\Xamarin.iOS10" />    
