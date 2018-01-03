@@ -21,7 +21,7 @@ TabStrip is available for use in *Xamarin.Forms* only targetting the following s
 
 | Platform         | Supported | Version     |
 |------------------|-----------|-------------|
-| Xamarin.Android  | Yes       | API 25 +    |
+| Xamarin.Android  | Yes       | API 15 +    |
 | Xamarin.iOS      | Yes       | iOS 10 +    |
 | Xamarin 10 UWP   | Yes       | 16299  +    |
 | macOS            | No        |             |
@@ -66,13 +66,13 @@ BindingContext = new
 	{
 		new TabModel
         {
-            Header = (new HeaderView(), new { Title = "Tab 1" }),
-            View = (new HelloView(), new HelloPageModel())
+            Header = new Tuple<View, object>(new HeaderView(), new { Title = "Tab 1" }),
+            View = new Tuple<View, object>(new HelloView(), new HelloPageModel())
         },
         new TabModel
         {
-            Header = (new HeaderView(), new { Title = "Tab 2" }),
-            View = (new HelloView(), new HelloPageModel())
+            Header = new Tuple<View, object>(new HeaderView(), new { Title = "Tab 2" }),
+            View = new Tuple<View, object>(new HelloView(), new HelloPageModel())
         }
 
 	});
@@ -89,9 +89,6 @@ BindingContext = new
 | LeftArrow   | Gets or Sets the `ImageSource` for the `LeftArrow` which is displayed when the tab can navigate left                                | Embedded Left Arrow Image  |
 | RightArrow  | Gets or Sets the `ImageSource` for the `RightArrow` which is displayed when the tab can navigate right                              | Embedded Right Arrow Image |
 
-## Release Notes
-
-* Not released yet
 
 ## Roadmap
 

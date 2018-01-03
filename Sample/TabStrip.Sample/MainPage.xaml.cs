@@ -1,4 +1,5 @@
-﻿using System.Collections.ObjectModel;
+﻿using System;
+using System.Collections.ObjectModel;
 using TabStrip.FormsPlugin.Abstractions;
 using Xamarin.Forms;
 
@@ -14,28 +15,28 @@ namespace TabStrip.Sample
                 {
                     new TabModel
                     {
-                        Header = (new HeaderView(), new { Title = "Tab 1" }),
-                        View = (new HelloView(), new { Message = "Tab Strip 1" })
+                        Header = new Tuple<View, object>(new HeaderView(), new { Title = "Tab 1" }),
+                        View = new Tuple<View, object>(new HelloView(), new { Message = "Tab Strip 1" })
                     },
                     new TabModel
                     {
-                        Header = (new HeaderView(), new { Title = "Tab 2" }),
-                        View = (new HelloView(), new { Message = "Tab Strip 2" })
+                        Header = new Tuple<View, object>(new HeaderView(), new { Title = "Tab 2" }),
+                        View = new Tuple<View, object>(new HelloView(), new { Message = "Tab Strip 2" })
                     },
                     new TabModel
                     {
-                        Header = (new HeaderView(), new { Title = "Tab 3" }),
-                        View = (new HelloView(), new { Message = "Tab Strip 3" })
+                        Header = new Tuple<View, object>(new HeaderView(), new { Title = "Tab 3" }),
+                        View = new Tuple<View, object>(new HelloView(), new { Message = "Tab Strip 3" })
                     },
                     new TabModel
                     {
-                        Header = (new HeaderView(), new { Title = "Tab 4" }),
-                        View = (new HelloView(), new { Message = "Tab Strip 4" })
+                        Header = new Tuple<View, object>(new HeaderView(), new { Title = "Tab 4" }),
+                        View = new Tuple<View, object>(new HelloView(), new { Message = "Tab Strip 4" })
                     },
                     new TabModel
                     {
-                        Header = (new HeaderView(), new { Title = "Tab 5" }),
-                        View = (new HelloView(), new { Message = "Tab Strip 5" })
+                        Header = new Tuple<View, object>(new HeaderView(), new { Title = "Tab 5" }),
+                        View = new Tuple<View, object>(new HelloView(), new { Message = "Tab Strip 5" })
                     }
                 });
                 Position = 2;
